@@ -2,10 +2,14 @@
 title: "On Computation and Generalization of Generative Adversarial Imitation Learning"
 collection: publications
 permalink: /publication/2020_GAIL
-excerpt: 'This paper is about theoretical properties of GAIL.'
+excerpt: 'This paper is about the theoretical properties of GAIL.'
 date: 2020
-venue: 'International Conference on Learning Representations (ICLR)'
+venue: 'International Conference on Learning Representations'
 paperurl: 'https://arxiv.org/pdf/2001.02792.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](https://arxiv.org/pdf/2001.02792.pdf)
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
