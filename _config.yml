@@ -81,20 +81,20 @@ analytics:
 # Site Author
 author:
   name             : "Yizhou Wang"
-  avatar           : "profile.png"
-  bio              : "Research Assistant at Xi'an Jiaotong University, interested in Machine Learning"
+  avatar           : "selfile.jpeg"
+  bio              : "Research Assistant at Xi'an Jiaotong University, interested in Machine Learning & Deep Learning"
   location         : "Xi'an, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=H4kqV1MAAAAJ&hl=en"
-  email            :
+  email            : "wyzjack990122@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/yizhou.wang.739/"
   foursquare       :
   github           : "wyzjack"
   google_plus      :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yizhou-wang-786603155/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
