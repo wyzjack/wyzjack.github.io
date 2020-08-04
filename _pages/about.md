@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
  
-I am now a Research Assistant to Prof. Jian Sun at Xi'an Jiaotong University.
+I am now a Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun) at Xi'an Jiaotong University.
