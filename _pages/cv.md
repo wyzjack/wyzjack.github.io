@@ -11,10 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Applied Mathematics (Honors Program), Xi'an Jiaotong University, 2020
-* Georgia Tech School of Mathematics Visiting Honors Student Program, Georgia Institute of Technology, 2019
-* DeeCamp (AI camp organized by Sinovation Ventures, acceptance rate: 4.28%), Peking University, 2018
-* International Undergraduate Summer Enrichment Program in Mathematics, University of Alberta, 2017
+* **Xi'an Jiaotong University** 2016-2020  
+B.S. in Mathematics and Applied Mathematics (Honors Program)  
+GPA: 3.96/4.3, 91.5/100
+* **Georgia Institute of Technology** 2019 Spring  
+Georgia Tech School of Mathematics Visiting Honors Student Program  
+GPA: 4.17/4.3
+* **Peking University** 2018 Summer
+DeeCamp (AI camp organized by Sinovation Ventures, acceptance rate: 4.28%)
+* **University of Alberta** 2017  
+International Undergraduate Summer Enrichment Program in Mathematics
 
 Work experience
 ======
@@ -43,10 +49,6 @@ Selected Awards
 * XJTU Pengkang Scholarship (Top 1.5%), 2018
 * National Endeavor Scholarship (Top 2%), 2017
   
-Service and leadership
-======
-* Georgia Tech One-Project Service Club
-* Mentor and member of XJTU BP English Debate Team
 
 Standard Tests
 ======
@@ -55,4 +57,12 @@ Standard Tests
 * IELTS: 7.0
 * CET-4: 637
 * CET-6: 639
+
+Programming Skills
+======
+* Languages: Python, C, C#, R, Julia
+* Libraries: PyTorch, Tensorflow, Gym, Numpy, Pandas, SciPy, Matplotlib, Seaborn
+* Softwares: Visual Studio, Vim, MATLAB, Maple, \latex
+
+
 
