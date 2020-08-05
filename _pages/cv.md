@@ -22,7 +22,7 @@ DeeCamp (AI camp organized by Sinovation Ventures, acceptance rate: 4.28%)
 * **University of Alberta**  2017  
 International Undergraduate Summer Enrichment Program in Mathematics
 
-Work experience
+Work Experience
 ======
 * Summer 2020: Research Assistant
   * Xi’an Jiaotong University
