@@ -15,8 +15,8 @@ My research focuses on designing efficient and sound machine learning algorithms
 * 2020.07: Graduated from XJTU with the highest honor
 
 # Preprints and Working Papers
-## A Prior Learning Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees.
-Will submit to *SIAM Journal on Imaging Sciences (SIIMS)*.
+### A Prior Learning Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees.
+Will submit to ***SIAM Journal on Imaging Sciences (SIIMS)***.
 
 # Miscellaneous
 I was born at Nantong, Jiangsu, China in 1999. Besides research, I am also a huge fan of sports. I love playing:
