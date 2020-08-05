@@ -42,8 +42,8 @@ Selected Awards
 * Zhufeng 1st Scholarship (Pilot Scheme of Top-notch Talent Cultivation in Basic Disciplines), 2019
 * XJTU 3rd Scholarship (Top 20%), 2019
 * Outstanding Student in XJTU (Top 20%), 2017&2019
-* Honorable Mentionin Interdisciplinary Contest in Modeling (ICM) 2018 (Top 15% teams), 2018
-* Special Prizein 2018 National English Competition for College Students (Top 0.1%), 2018
+* Honorable Mention in Interdisciplinary Contest in Modeling (ICM) 2018 (Top 15% teams), 2018
+* **Special Prize** in 2018 National English Competition for College Students (Top 0.1%), 2018
 * Outstanding Student Leader in XJTU (Top 3%), 2018
 * China Scholarship Council (CSC) Scholarship, 2018
 * XJTU Pengkang Scholarship (Top 1.5%), 2018
