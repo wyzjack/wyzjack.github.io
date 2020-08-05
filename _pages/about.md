@@ -13,3 +13,9 @@ I am now a Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jian
 I was a visiting student at [Georgia Tech](https://www.gatech.edu/) in 2019 Spring, where I was fortunate to work with Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/).
 
 My research focuses on designing efficient and sound machine learning algorithms with theoretical guarantees. I am particularly interested in deep learning and its applications in computer vision area.
+
+# Preprints and Working Papers
+
+A Prior Learning Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees
+
+
