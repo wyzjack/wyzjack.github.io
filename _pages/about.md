@@ -19,7 +19,8 @@ My research focuses on designing efficient and sound machine learning algorithms
 Will submit to ***SIAM Journal on Imaging Sciences (SIIMS)***.
 
 # Miscellaneous
-I was born at Nantong, Jiangsu, China in 1999. Besides research, I am also a huge fan of sports. I love playing:
+I was born in [Nantong](https://en.wikipedia.org/wiki/Nantong), Jiangsu, China in 1999.  
+Besides research, I am also a huge fan of sports. I love playing:
 ### Soccer
 Position: CB, ST  
 Favourite player: [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi)
@@ -29,6 +30,7 @@ Favourite player: [Lebron James](https://en.wikipedia.org/wiki/LeBron_James), [L
 ### Ping-pong
 Favourite player: [Hao Wang](https://en.wikipedia.org/wiki/Wang_Hao_(table_tennis,_born_1983))
 ### Badminton
+Proficient
 ### Go
 Amateur 2 Dan  
 Favourite player: [Li Gu](https://en.wikipedia.org/wiki/Gu_Li_(Go_player))
