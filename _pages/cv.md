@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* **Xi'an Jiaotong University** 2016-2020  
+* **Xi'an Jiaotong University**  2016-2020  
 B.S. in Mathematics and Applied Mathematics (Honors Program)  
 GPA: 3.96/4.3, 91.5/100
-* **Georgia Institute of Technology** 2019 Spring  
+* **Georgia Institute of Technology**  2019 Spring  
 Georgia Tech School of Mathematics Visiting Honors Student Program  
 GPA: 4.17/4.3
-* **Peking University** 2018 Summer
+* **Peking University**  2018 Summer
 DeeCamp (AI camp organized by Sinovation Ventures, acceptance rate: 4.28%)
-* **University of Alberta** 2017  
+* **University of Alberta**  2017  
 International Undergraduate Summer Enrichment Program in Mathematics
 
 Work experience
 ======
 * Summer 2020: Research Assistant
   * Xi’an Jiaotong University
-  * Supervisor: Professor Jian Sun
+  * Supervisor: Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun)
   
 
 Publications
