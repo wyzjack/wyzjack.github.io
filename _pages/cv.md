@@ -17,7 +17,7 @@ GPA: 3.96/4.3, 91.5/100
 * **Georgia Institute of Technology**  2019 Spring  
 Georgia Tech School of Mathematics Visiting Honors Student Program  
 GPA: 4.17/4.3
-* **Peking University**  2018 Summer
+* **Peking University**  2018 Summer  
 DeeCamp (AI camp organized by Sinovation Ventures, acceptance rate: 4.28%)
 * **University of Alberta**  2017  
 International Undergraduate Summer Enrichment Program in Mathematics
