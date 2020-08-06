@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Xi'an Jiaotong University**  2016-2020  
-B.S. in Mathematics and Applied Mathematics (Honors Program)  
+B.S. in {Mathematics and Applied Mathematics (Honors Program)}(http://bjb.xjtu.edu.cn/info/1071/2192.htm)  
 GPA: 3.96/4.3, 91.5/100
 * **Georgia Institute of Technology**  2019 Spring  
 Georgia Tech School of Mathematics Visiting Honors Student Program  
