@@ -62,7 +62,7 @@ Programming Skills
 ======
 * Languages: Python, C, C#, R, Julia
 * Libraries: PyTorch, Tensorflow, Gym, Numpy, Pandas, SciPy, Matplotlib, Seaborn
-* Softwares: Visual Studio, Vim, MATLAB, Maple, \LaTeX\
+* Softwares: Visual Studio, Vim, MATLAB, Maple, LaTeX
 
 
 
