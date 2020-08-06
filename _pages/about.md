@@ -15,7 +15,7 @@ My research focuses on designing efficient and sound machine learning algorithms
 * 2020.07: Graduated from XJTU with the highest honor
 
 # Preprints and Working Papers
-### <font color=red> A Prior Learning Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees</font>.
+<font color=red> ### A Prior Learning Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees</font>.
 Will submit to ***SIAM Journal on Imaging Sciences (SIIMS)***.
 
 # Miscellaneous
