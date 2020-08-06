@@ -19,7 +19,7 @@ Georgia Tech School of Mathematics Visiting Honors Student Program
 GPA: 4.17/4.3
 * **Peking University**  2018 Summer  
 DeeCamp (AI camp organized by Sinovation Ventures, acceptance rate: 4.28%)
-* **University of Alberta**  2017  
+* **University of Alberta**  2017 Summer 
 International Undergraduate Summer Enrichment Program in Mathematics
 
 Work Experience
@@ -62,7 +62,7 @@ Programming Skills
 ======
 * Languages: Python, C, C#, R, Julia
 * Libraries: PyTorch, Tensorflow, Gym, Numpy, Pandas, SciPy, Matplotlib, Seaborn
-* Softwares: Visual Studio, Vim, MATLAB, Maple, \LaTeX\
+* Softwares: Visual Studio, Vim, MATLAB, Maple, \LaTeX
 
 
 
