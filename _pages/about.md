@@ -36,7 +36,7 @@ Level: so-so
 Level: amateur 2 Dan   
 Favourite player: [Li Gu](https://en.wikipedia.org/wiki/Gu_Li_(Go_player))
 
-I love listening to music. Recently I have been into Rap Music. My favourite rappers are [PG One](https://zh.wikipedia.org/wiki/PG_One), [HHH](https://baike.baidu.com/item/%E7%BA%A2%E8%8A%B1%E4%BC%9A/6708707) [Eminem](https://www.eminem.com/) and [XXXTENTACION](https://en.wikipedia.org/wiki/XXXTentacion).
+I love listening to music. Recently I have been into Rap Music. My favourite rappers are [PG One](https://zh.wikipedia.org/wiki/PG_One), [HHH](https://baike.baidu.com/item/%E7%BA%A2%E8%8A%B1%E4%BC%9A/6708707), [Eminem](https://www.eminem.com/) and [XXXTENTACION](https://en.wikipedia.org/wiki/XXXTentacion).
 
 
 
