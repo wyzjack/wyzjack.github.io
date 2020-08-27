@@ -45,7 +45,6 @@ Selected Awards
 * Honorable Mention in Interdisciplinary Contest in Modeling (ICM) 2018 (Top 15% teams), 2018
 * **Special Prize** in 2018 National English Competition for College Students (Top 0.1%), 2018
 * Outstanding Student Leader in XJTU (Top 3%), 2018
-* China Scholarship Council (CSC) Scholarship, 2018
 * XJTU Pengkang Scholarship (Top 1.5%), 2018
 * National Endeavor Scholarship (Top 2%), 2017
   
