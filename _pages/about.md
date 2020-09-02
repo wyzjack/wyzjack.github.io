@@ -7,12 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am now a Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun) at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/index.htm) (XJTU). I received  B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm) from XJTU in 2020. I was a visiting student at [Georgia Tech](https://www.gatech.edu/) in 2019 Spring, where I was fortunate to work with Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). I will join [SmileLab](https://web.northeastern.edu/smilelab/) at [Northeastern Unversity](https://www.northeastern.edu/) as a Computer Engineering Ph.D. Student this fall.
+Hi, I am now a first-year Ph.D. student in Computer Engineering at [Northeastern Unversity (NEU)](https://www.northeastern.edu/). I am fortunate to be advised by [Prof. Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). 
 
-My research focuses on designing efficient and sound machine learning algorithms with theoretical guarantees. I am particularly interested in deep learning and its applications in computer vision area.
+I received  B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm) from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/index.htm) in 2020. During my undergraduate study at XJTU, I was supervised by Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun). I was a visiting student at [Georgia Tech](https://www.gatech.edu/) in 2019 Spring, where I worked with Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). 
+
+My research focuses on designing efficient and sound machine learning algorithms with theoretical guarantees. I am particularly interested in deep learning and its applications in computer vision area. 
 
 # News
-* 2020.07: Graduated from XJTU with the highest honor
+* 2020.09: Started my journey at NEU (remotely).
+* 2020.07: Graduated from XJTU with honors, XJTUer FOREVER!
 
 # Preprints and Working Papers
 A Prior Learning Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees.    
