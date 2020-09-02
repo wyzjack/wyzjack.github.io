@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* **Northeastern University**  2020- 
-Ph.D. in Computer Engineering
+* **Northeastern University**  2020-  
+Ph.D. in Computer Engineering  
 Advisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
 * **Xi'an Jiaotong University**  2016-2020  
 B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)  
