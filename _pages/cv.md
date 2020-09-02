@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
+* **Northeastern University**  2020- 
+Ph.D. in Computer Engineering
+Advisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
 * **Xi'an Jiaotong University**  2016-2020  
 B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)  
-GPA: 3.96/4.3, 91.5/100
+GPA: 3.95/4.3, 91.7/100
 * **Georgia Institute of Technology**  2019 Spring  
 Georgia Tech School of Mathematics Visiting Honors Student Program  
 GPA: 4.17/4.3
