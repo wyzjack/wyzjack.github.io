@@ -18,9 +18,14 @@ My research focuses on designing efficient and sound machine learning algorithms
 * 2020.07: Graduated from XJTU with honors, XJTUer FOREVER!
 
 # Preprints and Working Papers
-Self-Directed Online Learning for Topology Optimization.  
-Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu.  
-[arxiv](https://arxiv.org/pdf/2002.01927.pdf)
+## Self-Directed Online Learning for Topology Optimization   
+Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu    
+[[arxiv](https://arxiv.org/pdf/2002.01927.pdf)]
+
+# Publications
+## On Computation and Generalization of Generative Adversarial Imitation Learning  
+Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
+*International Conference on Learning Representations (**ICLR**)*, 2020 [[arxiv](https://arxiv.org/abs/2001.02792), [video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)] 
 
 # Miscellaneous
 * I was born in [Nantong](https://en.wikipedia.org/wiki/Nantong), Jiangsu, China in 1999.  
