@@ -24,7 +24,7 @@ Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu [[arXiv](https://arxiv.org/pdf
 # Publications
 ### On Computation and Generalization of Generative Adversarial Imitation Learning  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
-**International Conference on Learning Representations (ICLR)**, 2020 [[arXiv](https://arxiv.org/abs/2001.02792), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)] 
+***International Conference on Learning Representations (ICLR)***, 2020 [[arXiv](https://arxiv.org/abs/2001.02792), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)] 
 
 # Miscellaneous
 * I was born in [Nantong](https://en.wikipedia.org/wiki/Nantong), Jiangsu, China in 1999.  
