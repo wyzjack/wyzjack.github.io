@@ -18,8 +18,9 @@ My research focuses on designing efficient and sound machine learning algorithms
 * 2020.07: Graduated from XJTU with honors, XJTUer FOREVER!
 
 # Preprints and Working Papers
-A Prior Learning Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees.    
-Will submit to ***SIAM Journal on Imaging Sciences*** (**SIIMS**).
+Self-Directed Online Learning for Topology Optimization.  
+Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu.  
+[arxiv](https://arxiv.org/pdf/2002.01927.pdf)
 
 # Miscellaneous
 * I was born in [Nantong](https://en.wikipedia.org/wiki/Nantong), Jiangsu, China in 1999.  
