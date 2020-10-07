@@ -87,7 +87,7 @@ Miscellaneous
 * I am a huge fan of sports. I love playing Soccer (Position: CB, ST; Favourite player: [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi)), Basketball (Position: C, PF, SF; Favourite player: [Lebron James](https://en.wikipedia.org/wiki/LeBron_James), [Luka Doncic](https://en.wikipedia.org/wiki/Luka_Don%C4%8Di%C4%87)), Ping-pong( Level: proficient; Favourite player: [Hao Wang](https://en.wikipedia.org/wiki/Wang_Hao_(table_tennis,_born_1983)), Badminton (Level: so-so), Go (Level: amateur 2 Dan; Favourite player: [Li Gu](https://en.wikipedia.org/wiki/Gu_Li_(Go_player))) etc.   
 * I love listening to music. Recently I have been into Rap Music. My favourite rappers are [PG One](https://zh.wikipedia.org/wiki/PG_One), [HHH](https://baike.baidu.com/item/%E7%BA%A2%E8%8A%B1%E4%BC%9A/6708707), [Eminem](https://www.eminem.com/) and [XXXTentacion](https://en.wikipedia.org/wiki/XXXTentacion)(R.I.P.).
 
-
-
-
-
+Contact
+=====
+Email: wyzjack@gmail.com, wang.yizhou@northeastern.edu
+Wechat id: wyzjack
