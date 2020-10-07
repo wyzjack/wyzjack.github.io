@@ -54,6 +54,7 @@ Work Experience
 
 Selected Awards 
 ======
+* CoE Fellowship of Northeastern University, 2020
 * Outstanding graduate of XJTU, 2020
 * Honorary graduate of Qian Xuesen College, 2020
 * Zhufeng 1st Scholarship (Pilot Scheme of Top-notch Talent Cultivation in Basic Disciplines), 2019
@@ -76,8 +77,8 @@ Standard Tests
 
 Programming Skills
 ======
-* Languages: Python, C, C#, R
-* Libraries: PyTorch, Tensorflow, Gym, Numpy, Pandas, SciPy, Matplotlib, Seaborn
+* Languages: Python, C, C++, C#, R
+* Libraries: PyTorch, Tensorflow, Gym, Numpy, Pandas, SciPy, Matplotlib, Seaborn, Pillow
 * Softwares: Visual Studio, Vim, MATLAB, Maple, $\LaTeX\$
 
 Miscellaneous
