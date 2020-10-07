@@ -89,5 +89,5 @@ Miscellaneous
 
 Contact
 =====
-Email: wyzjack@gmail.com, wang.yizhou@northeastern.edu
+Email: wang.yizhou (at) northeastern (dot) edu  
 Wechat id: wyzjack
