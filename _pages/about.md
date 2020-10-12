@@ -15,6 +15,7 @@ My research focuses on designing efficient and sound machine learning algorithms
 
 
 # News
+* 2020.10: Congrats to Lebron James and Lakers for winning the NBA Champion!
 * 2020.09: Started my journey at NEU (remotely).
 * 2020.07: Graduated from XJTU with honors, XJTUer FOREVER!
 
