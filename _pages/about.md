@@ -7,15 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am now a first-year Ph.D. student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am fortunate to be advised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). 
+Hi, I am a first-year Ph.D. student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am fortunate to be advised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). 
 
 I received  B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/index.htm) (XJTU) in 2020. During my undergraduate study at XJTU, I was supervised by Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun). I was a visiting student at [Georgia Tech](https://www.gatech.edu/) in 2019 Spring, where I worked with Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). 
 
-My research focuses on designing efficient and sound machine learning algorithms with theoretical guarantees. I am particularly interested in deep learning and its applications in computer vision area. 
+My research focuses on designing efficient and sound machine learning algorithms with theoretical guarantees. I am particularly interested in deep learning and its applications in computer vision area. Recently I am working on anomaly detection problems. 
 
 
 # News
-* 2020.10: Congrats to Lebron James and Lakers for winning the NBA Champion!
 * 2020.09: Started my journey at NEU (remotely).
 * 2020.07: Graduated from XJTU with honors, XJTUer FOREVER!
 
@@ -55,14 +54,12 @@ Work Experience
 
 Selected Awards 
 ======
-* CoE Fellowship of Northeastern University, 2020
 * Outstanding graduate of XJTU, 2020
 * Honorary graduate of Qian Xuesen College, 2020
 * Zhufeng 1st Scholarship (Pilot Scheme of Top-notch Talent Cultivation in Basic Disciplines), 2019
-* XJTU 3rd Scholarship (Top 20%), 2019
 * Outstanding Student in XJTU (Top 20%), 2017&2019
 * Honorable Mention in Interdisciplinary Contest in Modeling (ICM) 2018 (Top 15% teams), 2018
-* **Special Prize** in 2018 National English Competition for College Students (Top 0.1%), 2018
+* Special Prize in 2018 National English Competition for College Students (Top 0.1%), 2018
 * Outstanding Student Leader in XJTU (Top 3%), 2018
 * XJTU Pengkang Scholarship (Top 1.5%), 2018
 * National Endeavor Scholarship (Top 2%), 2017
@@ -73,7 +70,6 @@ Standard Tests
 * TOEFL: 110 (R29 L28 S24 W29)
 * GRE: 325 (V155 Q170) AW3.5
 * IELTS: 7.0
-* CET-4: 637
 * CET-6: 639
 
 Programming Skills
@@ -86,9 +82,10 @@ Miscellaneous
 =====
 * I was born in [Nantong](https://en.wikipedia.org/wiki/Nantong), Jiangsu, China in 1999.  
 * I am a huge fan of sports. I love playing Soccer (Position: CB, ST; Favourite player: [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi)), Basketball (Position: C, PF, SF; Favourite player: [Lebron James](https://en.wikipedia.org/wiki/LeBron_James), [Luka Doncic](https://en.wikipedia.org/wiki/Luka_Don%C4%8Di%C4%87)), Ping-pong( Level: proficient; Favourite player: [Hao Wang](https://en.wikipedia.org/wiki/Wang_Hao_(table_tennis,_born_1983)), Badminton (Level: so-so), Go (Level: amateur 2 Dan; Favourite player: [Li Gu](https://en.wikipedia.org/wiki/Gu_Li_(Go_player))) etc.   
-* I love listening to music. Recently I have been into Rap Music. My favourite rappers are [PG One](https://zh.wikipedia.org/wiki/PG_One), [HHH](https://baike.baidu.com/item/%E7%BA%A2%E8%8A%B1%E4%BC%9A/6708707), [Eminem](https://www.eminem.com/) and [XXXTentacion](https://en.wikipedia.org/wiki/XXXTentacion)(R.I.P.).
+* I love listening to music. Recently I have been into Rap Music. My favourite rappers are [PG One](https://zh.wikipedia.org/wiki/PG_One), [Eminem](https://www.eminem.com/) and [XXXTentacion](https://en.wikipedia.org/wiki/XXXTentacion)(R.I.P.).
 
 Contact
 =====
 Email: wang.yizhou (at) northeastern (dot) edu  
+    or wyzjack990122 (at) gmail (dot) com 
 Wechat id: wyzjack
