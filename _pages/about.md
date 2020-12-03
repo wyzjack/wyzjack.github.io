@@ -64,6 +64,11 @@ Selected Awards
 * Outstanding Student Leader in XJTU (Top 3%), 2018
 * XJTU Pengkang Scholarship (Top 1.5%), 2018
 * National Endeavor Scholarship (Top 2%), 2017
+
+Academic Service
+======
+**Journal Reviewer**  
+* Knowledge and Information Systems (KAIS)
   
 
 Standard Tests
@@ -83,7 +88,7 @@ Miscellaneous
 =====
 * I was born in [Nantong](https://en.wikipedia.org/wiki/Nantong), Jiangsu, China in 1999.  
 * I am a huge fan of sports. I love playing Soccer (Position: CB, ST; Favourite player: [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi)), Basketball (Position: C, PF, SF; Favourite player: [Lebron James](https://en.wikipedia.org/wiki/LeBron_James), [Luka Doncic](https://en.wikipedia.org/wiki/Luka_Don%C4%8Di%C4%87)), Ping-pong( Level: proficient; Favourite player: [Hao Wang](https://en.wikipedia.org/wiki/Wang_Hao_(table_tennis,_born_1983)), Badminton (Level: so-so), Go (Level: amateur 2 Dan; Favourite player: [Li Gu](https://en.wikipedia.org/wiki/Gu_Li_(Go_player))) etc.   
-* I love listening to music. Recently I have been into Rap Music. My favourite rappers are [PG One](https://zh.wikipedia.org/wiki/PG_One), [Eminem](https://www.eminem.com/), [XXXTentacion](https://en.wikipedia.org/wiki/XXXTentacion) (R.I.P.) and [Post Malone](https://en.wikipedia.org/wiki/Post_Malon) (if he is ).
+* I love listening to music. Recently I have been into Hiphop Music. My favourite rappers are [PG One](https://zh.wikipedia.org/wiki/PG_One), [Eminem](https://www.eminem.com/), [XXXTentacion](https://en.wikipedia.org/wiki/XXXTentacion) (R.I.P.) and [Post Malone](https://en.wikipedia.org/wiki/Post_Malon) (if he is ).
 
 Contact
 =====
