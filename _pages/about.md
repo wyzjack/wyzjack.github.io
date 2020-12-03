@@ -68,7 +68,7 @@ Selected Awards
 Academic Service
 ======
 **Journal Reviewer**  
-* Knowledge and Information Systems (KAIS)
+* [Knowledge and Information Systems (KAIS)](https://www.springer.com/journal/10115)
   
 
 Standard Tests
