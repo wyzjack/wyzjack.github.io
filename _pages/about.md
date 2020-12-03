@@ -15,8 +15,8 @@ My research focuses on designing efficient and sound machine learning algorithms
 
 
 # News
-* 2020.09: Started my journey at NEU (remotely).
-* 2020.07: Graduated from XJTU with honors, XJTUer FOREVER!
+* 2020.09: I started my journey at NEU (remotely).
+* 2020.07: I graduated from XJTU with honors. XJTUer FOREVER!
 
 Preprints and Working Papers
 =====
@@ -54,6 +54,7 @@ Work Experience
 
 Selected Awards 
 ======
+* Dean's Fellowship of Northeastern University, 2020
 * Outstanding graduate of XJTU, 2020
 * Honorary graduate of Qian Xuesen College, 2020
 * Zhufeng 1st Scholarship (Pilot Scheme of Top-notch Talent Cultivation in Basic Disciplines), 2019
@@ -82,7 +83,7 @@ Miscellaneous
 =====
 * I was born in [Nantong](https://en.wikipedia.org/wiki/Nantong), Jiangsu, China in 1999.  
 * I am a huge fan of sports. I love playing Soccer (Position: CB, ST; Favourite player: [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi)), Basketball (Position: C, PF, SF; Favourite player: [Lebron James](https://en.wikipedia.org/wiki/LeBron_James), [Luka Doncic](https://en.wikipedia.org/wiki/Luka_Don%C4%8Di%C4%87)), Ping-pong( Level: proficient; Favourite player: [Hao Wang](https://en.wikipedia.org/wiki/Wang_Hao_(table_tennis,_born_1983)), Badminton (Level: so-so), Go (Level: amateur 2 Dan; Favourite player: [Li Gu](https://en.wikipedia.org/wiki/Gu_Li_(Go_player))) etc.   
-* I love listening to music. Recently I have been into Rap Music. My favourite rappers are [PG One](https://zh.wikipedia.org/wiki/PG_One), [Eminem](https://www.eminem.com/) and [XXXTentacion](https://en.wikipedia.org/wiki/XXXTentacion)(R.I.P.).
+* I love listening to music. Recently I have been into Rap Music. My favourite rappers are [PG One](https://zh.wikipedia.org/wiki/PG_One), [Eminem](https://www.eminem.com/), [XXXTentacion](https://en.wikipedia.org/wiki/XXXTentacion) (R.I.P.) and [Post Malone](https://en.wikipedia.org/wiki/Post_Malon) (if he is ).
 
 Contact
 =====
