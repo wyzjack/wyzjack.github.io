@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi, I am a first-year Ph.D. student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am fortunate to be advised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). 
 
-I received  B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/index.htm) (XJTU) in 2020. During my undergraduate study at XJTU, I was supervised by Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun). I was a visiting student at [Georgia Tech](https://www.gatech.edu/) in 2019 Spring, where I worked with Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). 
+I received  B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/index.htm) (XJTU) in 2020, where I was supervised by Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun). I was a visiting student at [Georgia Tech](https://www.gatech.edu/) in 2019 Spring, where I worked with Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). 
 
 My research focuses on designing efficient and sound machine learning algorithms with theoretical guarantees. I am particularly interested in deep learning and its applications in computer vision area. Recently I am working on anomaly detection problems. 
 
