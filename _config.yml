@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yizhou Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Yizhou Wang"
-description              : &description "RA at XJTU"
+description              : &description "Ph.D. student at NEU"
 url                      : https://wyzjack.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wyzjack.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yizhou Wang 王亦周"
   avatar           : "selfile.jpeg"
-  bio              : "Ph.D. student at NEU, interested in Machine Learning & Deep Learning"
+  bio              : "Ph.D. student at NEU, interested in Machine Learning"
   location         : "Nantong, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/yizhou.wang.739/"
+  facebook         : #"https://www.facebook.com/yizhou.wang.739/"
   foursquare       :
   github           : "wyzjack"
   google_plus      :
