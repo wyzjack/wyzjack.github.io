@@ -15,7 +15,7 @@ My research focuses on designing efficient and sound machine learning algorithms
 
 
 # News
-* 2020.11: I have been invited as a **reviewer** for **[Knowledge and Information Systems (KAIS)](https://www.springer.com/journal/10115)**.
+* 2020.11: I have been invited as a **reviewer** for **[Knowledge and Information Systems] (https://www.springer.com/journal/10115) (KAIS)**.
 * 2020.09: I start my journey at NEU (remotely).
 * 2020.07: I graduated from XJTU with honors. XJTUer FOREVER!
 
@@ -69,7 +69,7 @@ Selected Awards
 Academic Service
 ======
 **Journal Reviewer**  
-* [Knowledge and Information Systems (KAIS)](https://www.springer.com/journal/10115)
+* [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)
   
 
 Standard Tests
