@@ -11,7 +11,7 @@ Hi, I am a first-year Ph.D. student in Computer Engineering at [Northeastern Unv
 
 I received  B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm) from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/index.htm) (XJTU) in 2020, where I was supervised by Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun). I was a visiting student at [Georgia Tech](https://www.gatech.edu/) in 2019 Spring, where I worked with Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). 
 
-My research focuses on designing efficient and sound machine learning algorithms with theoretical guarantees. I am particularly interested in deep learning and its applications in computer vision area. Recently I am working on anomaly detection problems. 
+My research focuses on designing efficient machine learning algorithms with theoretical guarantees. I am particularly interested in deep learning and its applications in computer vision. Recently I am working on anomaly detection problems. 
 
 
 # News
@@ -41,10 +41,6 @@ GPA: 3.95/4.3, 91.7/100
 * **Georgia Institute of Technology**  2019 Spring  
 Georgia Tech School of Mathematics Visiting Honors Student Program  
 GPA: 4.17/4.3
-* **Peking University**  2018 Summer  
-[DeeCamp](https://deecamp.com/#/home) 2018 (AI camp organized by [Sinovation Ventures](http://www.sinovationventures.com/), acceptance rate: 4.28%)
-* **University of Alberta**  2017 Summer  
-International Undergraduate Summer Enrichment Program in Mathematics
 
 Work Experience
 ======
@@ -57,12 +53,8 @@ Selected Awards
 ======
 * Dean's Fellowship of Northeastern University, 2020
 * Outstanding graduate of XJTU, 2020
-* Honorary graduate of Qian Xuesen College, 2020
 * Zhufeng 1st Scholarship (Pilot Scheme of Top-notch Talent Cultivation in Basic Disciplines), 2019
-* Outstanding Student in XJTU (Top 20%), 2017&2019
-* Honorable Mention in Interdisciplinary Contest in Modeling (ICM) 2018 (Top 15% teams), 2018
 * Special Prize in 2018 National English Competition for College Students (Top 0.1%), 2018
-* Outstanding Student Leader in XJTU (Top 3%), 2018
 * XJTU Pengkang Scholarship (Top 1.5%), 2018
 * National Endeavor Scholarship (Top 2%), 2017
 
@@ -72,24 +64,11 @@ Academic Service
 * [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)
   
 
-Standard Tests
-======
-* TOEFL: 110 (R29 L28 S24 W29)
-* GRE: 325 (V155 Q170) AW3.5
-* IELTS: 7.0
-* CET-6: 639
-
-Programming Skills
-======
-* Languages: Python, C, C++, C#, R
-* Libraries: PyTorch, Tensorflow, Gym, Numpy, Pandas, SciPy, Matplotlib, Seaborn, Pillow
-* Softwares: Visual Studio, Vim, MATLAB, Maple, $\LaTeX\$
-
 Miscellaneous
 =====
 * I was born in [Nantong](https://en.wikipedia.org/wiki/Nantong), Jiangsu, China in 1999.  
 * I am a huge fan of sports. I love playing Soccer (Position: CB, ST; Favourite player: [Lionel Messi](https://en.wikipedia.org/wiki/Lionel_Messi)), Basketball (Position: C, PF, SF; Favourite player: [Lebron James](https://en.wikipedia.org/wiki/LeBron_James), [Luka Doncic](https://en.wikipedia.org/wiki/Luka_Don%C4%8Di%C4%87)), Ping-pong( Level: proficient; Favourite player: [Hao Wang](https://en.wikipedia.org/wiki/Wang_Hao_(table_tennis,_born_1983)), Badminton (Level: so-so), Go (Level: amateur 2 Dan; Favourite player: [Li Gu](https://en.wikipedia.org/wiki/Gu_Li_(Go_player))) etc.   
-* I love listening to music. Recently I have been into Hiphop Music. My favourite rappers are [PG One](https://zh.wikipedia.org/wiki/PG_One), [Eminem](https://www.eminem.com/), [XXXTentacion](https://en.wikipedia.org/wiki/XXXTentacion) (R.I.P.) and [Post Malone](https://en.wikipedia.org/wiki/Post_Malon) (if he is ).
+* I love listening to music. Recently I have been into Hiphop Music. My favourite rappers are [PG One](https://zh.wikipedia.org/wiki/PG_One), [Eminem](https://www.eminem.com/) and [Post Malone](https://en.wikipedia.org/wiki/Post_Malon) (if he is ).
 
 Contact
 =====
