@@ -22,8 +22,8 @@ My research focuses on designing efficient machine learning algorithms with theo
 Preprints and Working Papers
 =====
 * **Self-Directed Online Learning for Topology Optimization**  
-Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)] 
-Submitted to ***Nature Communications***, under revision
+Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu  
+Submitted to ***Nature Communications***, under revision [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)]
 
 Publications
 ======
