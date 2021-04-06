@@ -23,11 +23,11 @@ Preprints and Working Papers
 =====
 * **A Prior Learning Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees**  
 Yan Yang\*, **Yizhou Wang\***, Jiazhen Wang, Jian Sun and Zongben Xu (\* equal contribution)  
-In submission to ***SIAM Journal on Image Sciences (SIIMS)***
+In submission
 
 * **Self-Directed Online Learning for Topology Optimization**  
 Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu  
-Submitted to ***Nature Communications***, major revision [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)]
+[[arXiv](https://arxiv.org/pdf/2002.01927.pdf)]
 
 Publications
 ======
