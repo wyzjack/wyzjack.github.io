@@ -21,7 +21,7 @@ My research focuses on designing efficient machine learning algorithms with theo
 
 Preprints and Working Papers
 =====
-* **A Prior Learning Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees**  
+* **An Unrolled Prior Learning Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees**  
 Yan Yang\*, **Yizhou Wang\***, Jiazhen Wang, Jian Sun and Zongben Xu (\* equal contribution)  
 In submission
 
