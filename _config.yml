@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yizhou Wang 王亦周"
   avatar           : "selfile.jpg"
-  bio              : "Ph.D. student at NEU, interested in Machine Learning"
-  location         : "Nantong, China"
+  bio              : "Graduate student at NEU"
+  location         : #"Nantong, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=H4kqV1MAAAAJ&hl=en"
@@ -94,15 +94,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "yizhou.wang.739/"
+  facebook         : #"yizhou.wang.739/"
   foursquare       :
   github           : "wyzjack"
   google_plus      :
   keybase          :
-  instagram        : "wyzjack"
+  instagram        : #"wyzjack"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yizhou-wang-786603155"
+  linkedin         : #"yizhou-wang-786603155"
   orcid            : "https://orcid.org/0000-0003-1601-9649"
   pinterest        :
   soundcloud       :
