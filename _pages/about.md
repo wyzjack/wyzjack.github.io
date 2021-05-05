@@ -31,7 +31,7 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
 Education
 ======
 * **Northeastern University**  2020-  
-Ph.D. in Computer Engineering  
+MS./Ph.D. in Computer Engineering  
 Advisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
 * **Xi'an Jiaotong University**  2016-2020  
 B.S. in Mathematics 
