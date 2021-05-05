@@ -34,7 +34,7 @@ Education
 MS./Ph.D. in Computer Engineering  
 Advisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
 * **Xi'an Jiaotong University**  2016-2020  
-B.S. in Mathematics 
+B.S. in Mathematics  
 GPA: 3.95/4.3, 91.7/100
 * **Georgia Institute of Technology**  2019 Spring  
 Georgia Tech School of Mathematics Visiting Honors Student Program  
