@@ -18,6 +18,10 @@ I received  B.S. in Mathematics from [Xi'an Jiaotong University](http://en.xjtu.
 
 Preprints and Working Papers
 =====
+* **Adapting Stepsizes by Momentumized Gradients Improves Optimization and Generalization**  
+**Yizhou Wang**, Yue Kang, Can Qin, Yi Xu, Huan Wang, Yulun Zhang and Yun Fu  
+[[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]  
+
 * **Self-Directed Online Learning for Topology Optimization**  
 Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu  
 [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)]
@@ -26,7 +30,8 @@ Publications
 ======
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
-***International Conference on Learning Representations (ICLR)***, 2020 [[arXiv](https://arxiv.org/abs/2001.02792), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)] 
+***International Conference on Learning Representations (ICLR)***, 2020 [[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [\href{https://drive.google.com/open?id=1u8XrvGolZwaazezR60OwGtSP-n4MHd61}{Poster}][\href{https://drive.google.com/open?id=1vqoKZv4dN-lOzeaUmjEcorM4jeaXENY6}{Slides}], [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)] 
+***NeurIPS 2019 Optimization Foundations for Reinforcement Learning Workshop (Spotlight)***
 
 Education
 ======
