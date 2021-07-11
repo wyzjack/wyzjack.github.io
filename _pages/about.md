@@ -11,11 +11,6 @@ Hi, I am a graduate student in Computer Engineering at [Northeastern Unversity](
 
 I received  B.S. in Mathematics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/index.htm) (XJTU) in 2020, where I was supervised by Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun). I was a visiting student at [Georgia Tech](https://www.gatech.edu/) in 2019 Spring, where I worked with Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). 
 
-# News
-* 2021.07: I am serving as a reviewer for **[NeurIPS 2021](https://nips.cc/)**.
-* 2020.11: I am serving as a reviewer for **[Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)**.
-* 2020.09: I start my journey at NEU (remotely).
-* 2020.07: I graduated from XJTU. XJTUer FOREVER! 
 
 Preprints and Working Papers
 =====
