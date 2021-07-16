@@ -18,8 +18,8 @@ Preprints and Working Papers
 **Yizhou Wang**, Yue Kang, Can Qin, Yi Xu, Huan Wang, Yulun Zhang and Yun Fu  
 [[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]  
 
-* **An Unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees**
-Yan Yang*, **Yizhou Wang***, Jiazhen Wang, Jian Sun and Zongben Xu (* equal contribution)  
+* **An Unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees**  
+Yan Yang\*, **Yizhou Wang\***, Jiazhen Wang, Jian Sun and Zongben Xu (\* equal contribution)  
 In Submission
 
 * **Self-Directed Online Learning for Topology Optimization**  
@@ -62,7 +62,12 @@ Academic Service
 
 **Journal Reviewer**  
 * [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)
-  
+
+Miscellaneous
+======
+* I was born in Nantong, Jiangsu, China in 1999.  
+* I am a huge fan of sports. I like basketball (I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). Recently I am learning American football. My favourite basketball players are Lebron James and Luka Doncic. My favourite soccer player is Lionel Messi.  
+* I like listening to music and singing songs. Recently I am into Hiphop music. My favourite rapper is 8aceMak1r (a.k.a. PG One).
 
 Contact
 =====
