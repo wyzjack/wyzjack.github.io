@@ -7,11 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am a graduate student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am advised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). 
+Hi, I am a graduate student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am fortunate to be advised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research focuses on trustworthy machine learning and its applications in computer vision.
 
-I received  B.S. in Mathematics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/index.htm) (XJTU) in 2020, where I was supervised by Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun). I was a visiting student at [Georgia Tech](https://www.gatech.edu/) in 2019 Spring, where I worked with Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). 
-
-My research focuses on trustworthy machine learning and its applications in computer vision.
+Education
+======
+* **Northeastern University**  2020-  
+MS/Ph.D. in Computer Engineering  
+Advisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
+* **Xi'an Jiaotong University**  2016-2020  
+B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)  
+GPA: 3.95/4.3, 91.7/100  
+Advisor: Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun)
+* **Georgia Institute of Technology**  2019 Spring  
+Georgia Tech School of Mathematics Visiting Honors Student Program  
+GPA: 4.17/4.3  
+Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)
 
 Preprints and Working Papers
 =====
@@ -33,20 +43,7 @@ Publications
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020 [[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [Poster](https://drive.google.com/open?id=1u8XrvGolZwaazezR60OwGtSP-n4MHd61), [Slides](https://drive.google.com/open?id=1vqoKZv4dN-lOzeaUmjEcorM4jeaXENY6), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)]  
 ***NeurIPS 2019 Optimization Foundations for Reinforcement Learning Workshop (Spotlight)***
-
-Education
-======
-* **Northeastern University**  2020-  
-MS/Ph.D. in Computer Engineering  
-Advisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
-* **Xi'an Jiaotong University**  2016-2020  
-B.S. in Mathematics  
-GPA: 3.95/4.3, 91.7/100
-* **Georgia Institute of Technology**  2019 Spring  
-Georgia Tech School of Mathematics Visiting Honors Student Program  
-GPA: 4.17/4.3
   
-
 Selected Awards 
 ======
 * Dean's Fellowship of Northeastern University, 2020
@@ -67,7 +64,7 @@ Academic Service
 Miscellaneous
 ======
 * I was born in Nantong, Jiangsu, China in 1999.  
-* I am a huge fan of sports. I like basketball ( I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess ( I am Amateur 2 Dan). Recently I am learning American football. My favourite basketball players are Lebron James and Luka Doncic. My favourite soccer player is Lionel Messi.  
+* I am a huge fan of sports. I like basketball (I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). Recently I am learning American football. My favourite basketball players are Lebron James and Luka Doncic. My favourite soccer player is Lionel Messi.  
 * I like listening to music and singing songs. Recently I am into Hiphop music. My favourite rapper is 8aceMak1r (a.k.a. PG One).
 
 Contact
