@@ -11,6 +11,7 @@ Hi, I am a graduate student in Computer Engineering at [Northeastern Unversity](
 
 I received  B.S. in Mathematics from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/index.htm) (XJTU) in 2020, where I was supervised by Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun). I was a visiting student at [Georgia Tech](https://www.gatech.edu/) in 2019 Spring, where I worked with Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). 
 
+My research focuses on trustworthy machine learning and its applications in computer vision.
 
 Preprints and Working Papers
 =====
@@ -20,7 +21,7 @@ Preprints and Working Papers
 
 * **An Unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees**  
 Yan Yang\*, **Yizhou Wang\***, Jiazhen Wang, Jian Sun and Zongben Xu (\* equal contribution)  
-In Submission
+In submission
 
 * **Self-Directed Online Learning for Topology Optimization**  
 Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu  
@@ -36,7 +37,7 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
 Education
 ======
 * **Northeastern University**  2020-  
-MS./Ph.D. in Computer Engineering  
+MS/Ph.D. in Computer Engineering  
 Advisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
 * **Xi'an Jiaotong University**  2016-2020  
 B.S. in Mathematics  
@@ -66,9 +67,10 @@ Academic Service
 Miscellaneous
 ======
 * I was born in Nantong, Jiangsu, China in 1999.  
-* I am a huge fan of sports. I like basketball (I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). Recently I am learning American football. My favourite basketball players are Lebron James and Luka Doncic. My favourite soccer player is Lionel Messi.  
+* I am a huge fan of sports. I like basketball ( I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess ( I am Amateur 2 Dan). Recently I am learning American football. My favourite basketball players are Lebron James and Luka Doncic. My favourite soccer player is Lionel Messi.  
 * I like listening to music and singing songs. Recently I am into Hiphop music. My favourite rapper is 8aceMak1r (a.k.a. PG One).
 
 Contact
 =====
-Email: wyzjack990122 (at) gmail (dot) com / wang.yizhou (at) northeastern (dot) edu 
+Email: wyzjack990122 (at) gmail (dot) com / wang.yizhou (at) northeastern (dot) edu  
+WeChat ID: wyzjack
