@@ -18,6 +18,10 @@ Preprints and Working Papers
 **Yizhou Wang**, Yue Kang, Can Qin, Yi Xu, Huan Wang, Yulun Zhang and Yun Fu  
 [[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]  
 
+* **An Unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees**
+Yan Yang*, **Yizhou Wang***, Jiazhen Wang, Jian Sun and Zongben Xu (* equal contribution)  
+In Submission
+
 * **Self-Directed Online Learning for Topology Optimization**  
 Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu  
 [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)]
