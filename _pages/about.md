@@ -59,7 +59,8 @@ Academic Service
 * Neural Information Processing Systems (NeurIPS), 2021  
 
 **Journal Reviewer**  
-* [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)
+* [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)  
+* [ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD)
 
 Miscellaneous
 ======
