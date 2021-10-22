@@ -26,12 +26,12 @@ Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)
 Preprints and Working Papers
 =====
 * **Adapting Stepsizes by Momentumized Gradients Improves Optimization and Generalization**  
-**Yizhou Wang**, Yue Kang, Can Qin, Yi Xu, Huan Wang, Yulun Zhang and Yun Fu  
+**Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu  
 [[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]  
 
-* **An Unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees**  
+<!-- * **An Unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees**  
 Yan Yang\*, **Yizhou Wang\***, Jiazhen Wang, Jian Sun and Zongben Xu (\* equal contribution)  
-In submission
+In submission -->
 
 * **Self-Directed Online Learning for Topology Optimization**  
 Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu  
@@ -65,8 +65,8 @@ Academic Service
 Miscellaneous
 ======
 * I was born in Nantong, Jiangsu, China in 1999.  
-* I am a huge fan of sports. I like basketball (I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). Recently I am learning American football. My favourite basketball players are Lebron James and Luka Doncic. My favourite soccer player is Lionel Messi.  
-* I like listening to music and singing songs. Recently I am into Hiphop music. My favourite rapper is 8aceMak1r (a.k.a. PG One).
+* I am a huge fan of sports. I like basketball (I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). My favourite basketball players are Lebron James and Luka Doncic. My favourite soccer player is Lionel Messi.  
+* I like listening to music, especially Hiphop. My favourite rapper is 8aceMak1r (a.k.a. PG One).
 
 Contact
 =====
