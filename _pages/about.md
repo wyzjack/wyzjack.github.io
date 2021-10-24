@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am a graduate student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am advised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research focuses on trustworthy machine learning and its applications in computer vision.
+I am a graduate student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am advised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research focuses on trustworthy machine learning and its applications in computer vision.
 
 Education
 ======
