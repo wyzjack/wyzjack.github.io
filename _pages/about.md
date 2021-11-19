@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am advised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research focuses on trustworthy machine learning and its applications in computer vision.
+I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am advised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research focuses on trustworthy machine learning and its applications in computer vision. 
+
 
 Education
 ======
@@ -37,7 +38,7 @@ In submission -->
 Publications
 ======
 * **Self-Directed Online Learning for Topology Optimization**  
-Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu  
+Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2021 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)]  
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
