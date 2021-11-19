@@ -33,12 +33,12 @@ Preprints and Working Papers
 Yan Yang\*, **Yizhou Wang\***, Jiazhen Wang, Jian Sun and Zongben Xu (\* equal contribution)  
 In submission -->
 
-* **Self-Directed Online Learning for Topology Optimization**  
-Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu  
-[[arXiv](https://arxiv.org/pdf/2002.01927.pdf)]
 
 Publications
 ======
+* **Self-Directed Online Learning for Topology Optimization**  
+Changyu Deng, **Yizhou Wang**, Can Qin and Wei Lu  
+***Nature Communications (NC)*** [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)]  
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020 [[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [Poster](https://drive.google.com/open?id=1u8XrvGolZwaazezR60OwGtSP-n4MHd61), [Slides](https://drive.google.com/open?id=1vqoKZv4dN-lOzeaUmjEcorM4jeaXENY6), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)]  
