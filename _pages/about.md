@@ -13,15 +13,13 @@ I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https:/
 Education
 ======
 * **Northeastern University**  2020-  
-MS/Ph.D. in Computer Engineering  
+Ph.D. in Computer Engineering  
 Advisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
 * **Xi'an Jiaotong University**  2016-2020  
 B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)  
-GPA: 3.95/4.3, 91.7/100  
 Advisor: Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun)
 * **Georgia Institute of Technology**  2019 Spring  
 Georgia Tech School of Mathematics Visiting Honors Student Program  
-GPA: 4.17/4.3  
 Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)
 
 Preprints and Working Papers
@@ -37,7 +35,7 @@ In submission -->
 
 Publications
 ======
-* **Self-Directed Online Learning for Topology Optimization**  
+* **Self-Directed Online Machine Learning for Topology Optimization**  
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2021 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)]  
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
