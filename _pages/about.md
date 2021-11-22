@@ -37,7 +37,7 @@ Publications
 ======
 * **Self-Directed Online Machine Learning for Topology Optimization**  
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
-***Nature Communications (NC)***, 2021 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)]  
+***Nature Communications (NC)***, 2022 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)]  
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020 [[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [Poster](https://drive.google.com/open?id=1u8XrvGolZwaazezR60OwGtSP-n4MHd61), [Slides](https://drive.google.com/open?id=1vqoKZv4dN-lOzeaUmjEcorM4jeaXENY6), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)]  
@@ -60,7 +60,8 @@ Academic Service
 
 **Journal Reviewer**  
 * [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)  
-* [ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD)
+* [ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD)  
+* [IEEE Computational Intelligence Magazine](https://cis.ieee.org/publications/ci-magazine) (CIM)  
 
 Miscellaneous
 ======
