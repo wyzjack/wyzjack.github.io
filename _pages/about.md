@@ -16,7 +16,7 @@ Education
 Ph.D. in Computer Engineering  
 Advisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
 * **Xi'an Jiaotong University**  2016-2020  
-B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)  
+B.S. in [National Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)  
 Advisor: Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun)
 * **Georgia Institute of Technology**  2019 Spring  
 Georgia Tech School of Mathematics Visiting Honors Student Program  
@@ -47,7 +47,7 @@ Selected Awards
 ======
 * Dean's Fellowship of Northeastern University, 2020
 * Outstanding graduate of XJTU, 2020
-* Zhufeng 1st Scholarship (Pilot Scheme of Top-notch Talent Cultivation in Basic Disciplines), 2019
+* National Zhufeng 1st Scholarship (Pilot Scheme of Top-notch Talent Cultivation in Basic Disciplines), 2019
 * Special Prize in 2018 National English Competition for College Students (Top 0.1%), 2018
 * XJTU Pengkang Scholarship (Top 1.5%), 2018
 * National Endeavor Scholarship (Top 2%), 2017
