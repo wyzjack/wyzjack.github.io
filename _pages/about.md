@@ -10,6 +10,11 @@ redirect_from:
 I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am advised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research focuses on trustworthy machine learning and its applications in computer vision. 
 
 
+News
+======
+* 12/2021: Our paper about gradient-free topology optimization is accepted by Nature Communications.  
+* 09/2021: Start the journey at NEU, Boston, MA after one year remote study (due to Covid-19 and travel ban).  
+  
 Education
 ======
 * **Northeastern University**  2020-  
