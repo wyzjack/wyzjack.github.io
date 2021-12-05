@@ -24,10 +24,6 @@ Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)
 
 Preprints and Working Papers
 =====
-* **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**  
-**Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu and Yun Fu  
-[[arXiv](https://arxiv.org/pdf/2111.12896.pdf)]  
-
 * **Adapting Stepsizes by Momentumized Gradients Improves Optimization and Generalization**  
 **Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu  
 [[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]  
