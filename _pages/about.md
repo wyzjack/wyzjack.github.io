@@ -12,8 +12,8 @@ I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https:/
 
 News
 ======
-* 12/2021: Our paper about gradient-free topology optimization is accepted by Nature Communications.  
-* 09/2021: Start the journey at NEU, Boston, MA after one year remote study (due to Covid-19 and travel ban).  
+* 12/2021: Our paper about gradient-free topology optimization is accepted by **Nature Communications**.  
+* 09/2021: Start the journey at NEU, Boston, MA after one-year remote study (due to Covid-19 and travel ban).  
   
 Education
 ======
@@ -71,8 +71,8 @@ Academic Service
 
 Miscellaneous
 ======
-* I was born in Nantong, Jiangsu, China in 1999.  
-* I am a huge fan of sports. I like basketball (I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). My favourite basketball players are Lebron James and Luka Doncic. My favourite soccer player is Lionel Messi.  
+* I was born in Nantong, Jiangsu, China in 1999. I love my hometown, which is a beautiful and livable city.  
+* I am a huge fan of sports. I like basketball (I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). My favourite basketball players are Lebron James and Luka Doncic. My favourite soccer player is Lionel Messi. **If you want to play basketball with me, contact me via email or wechat (see Contact section below)**. My lab collegues and I usually play at second floor, [Marino Recreation Center](https://www.google.com/maps/place/Marino+Recreation+Center/@42.3401825,-71.092249,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a18c400467f:0xdb4ad70af6e7d61!8m2!3d42.3401919!4d-71.0900511).   
 * I like listening to music, especially Hiphop. My favourite rapper is 8aceMak1r (a.k.a. PG One).
 
 Contact
