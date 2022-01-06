@@ -59,13 +59,16 @@ Selected Awards
 Academic Service
 ======
 **Conference Reviewer**
-* Neural Information Processing Systems (NeurIPS), 2021  
-* International Conference on Learning Representations (ICLR), 2022   
+* International Conference on Machine Learning (ICML), 2022   
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022   
+* International Conference on Learning Representations (ICLR), 2022   
+* Neural Information Processing Systems (NeurIPS), 2021  
+
+
 
 **Journal Reviewer**  
+* [ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD)   
 * [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)  
-* [ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD)  
 * [IEEE Computational Intelligence Magazine](https://cis.ieee.org/publications/ci-magazine) (CIM)  
 
 Miscellaneous
