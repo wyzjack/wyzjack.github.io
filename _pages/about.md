@@ -11,6 +11,7 @@ I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https:/
 
 News
 ======
+* 1/2022: I will join [MERL](https://www.merl.com/) as a research intern for 2022 summer.  
 * 12/2021: Our paper about gradient-free topology optimization is accepted by [**Nature Communications**](https://www.nature.com/ncomms/).  
 * 09/2021: Start the journey at NEU, Boston, MA after one-year remote study (due to Covid-19 and travel ban).  
   
@@ -41,7 +42,7 @@ Publications
 ======
 * **Self-Directed Online Machine Learning for Topology Optimization**  
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
-***Nature Communications (NC)***, 2022 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)]  
+***Nature Communications (NC)***, 2022 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)][[code](https://github.com/deng-cy/deep_learning_topology_opt)]   
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020 [[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [Poster](https://drive.google.com/open?id=1u8XrvGolZwaazezR60OwGtSP-n4MHd61), [Slides](https://drive.google.com/open?id=1vqoKZv4dN-lOzeaUmjEcorM4jeaXENY6), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)]  
