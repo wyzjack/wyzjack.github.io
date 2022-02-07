@@ -11,7 +11,6 @@ I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https:/
 
 News
 ======
-* 1/2022: I will join [MERL](https://www.merl.com/) as a research intern for 2022 summer.  
 * 12/2021: Our paper about gradient-free topology optimization is accepted by [**Nature Communications**](https://www.nature.com/ncomms/).  
 * 09/2021: Start the journey at NEU, Boston, MA after one-year remote study (due to Covid-19 and travel ban).  
   
@@ -27,11 +26,11 @@ Advisor: Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun)
 Georgia Tech School of Mathematics Visiting Honors Student Program  
 Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)
 
-Preprints and Working Papers
+<!-- Preprints and Working Papers
 =====
 * **Adapting Stepsizes by Momentumized Gradients Improves Optimization and Generalization**  
 **Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu  
-[[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]  
+[[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]   -->
 
 <!-- * **An Unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees**  
 Yan Yang\*, **Yizhou Wang\***, Jiazhen Wang, Jian Sun and Zongben Xu (\* equal contribution)  
