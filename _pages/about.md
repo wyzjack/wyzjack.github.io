@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research focuses on trustworthy machine learning and its applications in computer vision.  
+I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research focuses on anomaly detection and optimization. I am generally interested in machine learning and its applications in computer vision.
 
 News
 ======
@@ -26,11 +26,15 @@ Advisor: Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun)
 Georgia Tech School of Mathematics Visiting Honors Student Program  
 Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)
 
-<!-- Preprints and Working Papers
+Preprints and Working Papers
 =====
-* **Adapting Stepsizes by Momentumized Gradients Improves Optimization and Generalization**  
+* **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**  
+**Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu  
+[[arXiv](https://arxiv.org/pdf/2111.12896.pdf)][Code will be released soon.]  
+
+* **Rethinking Adam: A Twofold Exponential Moving Average Approach**  
 **Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu  
-[[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]   -->
+[[arXiv](https://arxiv.org/pdf/2106.11514.pdf)][Code will be released soon.]  
 
 <!-- * **An Unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees**  
 Yan Yang\*, **Yizhou Wang\***, Jiazhen Wang, Jian Sun and Zongben Xu (\* equal contribution)  
