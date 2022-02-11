@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research focuses on anomaly detection and optimization. I am generally interested in machine learning and its applications in computer vision.
+I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research focuses on anomaly detection and optimization in machine learning.
 
 News
 ======
@@ -26,7 +26,7 @@ Advisor: Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun)
 Georgia Tech School of Mathematics Visiting Honors Student Program  
 Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)
 
-Preprints and Working Papers
+Preprints
 =====
 * **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**  
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu  
