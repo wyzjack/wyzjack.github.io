@@ -32,9 +32,9 @@ Preprints
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu  
 [[arXiv](https://arxiv.org/pdf/2111.12896.pdf)][Code will be released soon.]  
 
-* **Rethinking Adam: A Twofold Exponential Moving Average Approach**  
+<!-- * **Rethinking Adam: A Twofold Exponential Moving Average Approach**  
 **Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu  
-[[arXiv](https://arxiv.org/pdf/2106.11514.pdf)][Code will be released soon.]  
+[[arXiv](https://arxiv.org/pdf/2106.11514.pdf)][Code will be released soon.]   -->
 
 <!-- * **An Unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantees**  
 Yan Yang\*, **Yizhou Wang\***, Jiazhen Wang, Jian Sun and Zongben Xu (\* equal contribution)  
