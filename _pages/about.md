@@ -66,6 +66,7 @@ Academic Service
 * International Conference on Machine Learning (ICML), 2022   
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022   
 * International Conference on Learning Representations (ICLR), 2022   
+* IEEE International Conference on Multimedia and Expo (ICME), 2022   
 * Neural Information Processing Systems (NeurIPS), 2021  
 
 
