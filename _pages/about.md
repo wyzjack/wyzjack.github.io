@@ -26,11 +26,11 @@ Advisor: Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun)
 Georgia Tech School of Mathematics Visiting Honors Student Program  
 Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)
 
-Preprints
+<!-- Preprints
 =====
 * **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**  
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu  
-[[arXiv](https://arxiv.org/pdf/2111.12896.pdf)][Code will be released soon.]  
+[[arXiv](https://arxiv.org/pdf/2111.12896.pdf)][Code will be released soon.]   -->
 
 <!-- * **Rethinking Adam: A Twofold Exponential Moving Average Approach**  
 **Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu  
