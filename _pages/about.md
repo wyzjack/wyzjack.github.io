@@ -11,6 +11,7 @@ I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https:/
 
 News
 ======
+* 03/2022: One paper is accepted by CVPR 2022.  
 * 12/2021: Our paper about gradient-free topology optimization is accepted by [**Nature Communications**](https://www.nature.com/ncomms/).  
 * 09/2021: Start the journey at NEU, Boston, MA after one-year remote study (due to Covid-19 and travel ban).  
   
@@ -43,6 +44,9 @@ In submission -->
 
 Publications
 ======
+* **Adaptive Trajectory Prediction via Transferable GNN**  
+Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu   
+***Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022   
 * **Self-Directed Online Machine Learning for Topology Optimization**  
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2022 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)][[website](https://www.nature.com/articles/s41467-021-27713-7)][[code](https://github.com/deng-cy/deep_learning_topology_opt)]   
