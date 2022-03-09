@@ -46,7 +46,7 @@ Publications
 ======
 * **Adaptive Trajectory Prediction via Transferable GNN**  
 Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu   
-***Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022   
+***Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022 [arXiv][Code will be released soon]   
 * **Self-Directed Online Machine Learning for Topology Optimization**  
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2022 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf)][[website](https://www.nature.com/articles/s41467-021-27713-7)][[code](https://github.com/deng-cy/deep_learning_topology_opt)]   
@@ -67,6 +67,7 @@ Selected Awards
 Academic Service
 ======
 **Conference Reviewer**
+* European Conference on Computer Vision (ECCV), 2022   
 * International Conference on Machine Learning (ICML), 2022   
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022   
 * International Conference on Learning Representations (ICLR), 2022   
