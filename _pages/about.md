@@ -14,7 +14,7 @@ News
 * 03/2022: Our paper on trajectory prediction is accepted by CVPR 2022.   
 * 01/2022: I will join [**MERL**](https://www.merl.com/) for 2022 summer internship.   
 * 12/2021: Our paper on gradient-free topology optimization is accepted by [**Nature Communications**](https://www.nature.com/ncomms/).  
-* 09/2021: Start the journey at NEU, Boston, MA after one-year remote study (due to Covid-19 and travel ban).  
+* 09/2021: Start the journey at NEU, Boston, MA, after one-year remote study (due to Covid-19 and travel ban).  
   
 Education
 ======
@@ -47,10 +47,10 @@ Publications
 ======
 * **Adaptive Trajectory Prediction via Transferable GNN**   
 Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu   
-***Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022 [[arXiv](https://arxiv.org/pdf/2203.05046.pdf),Code]   
+***Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022 [[arXiv](https://arxiv.org/pdf/2203.05046.pdf), Code]   
 * **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
-***Nature Communications (NC)***, 2022 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf),[Website](https://www.nature.com/articles/s41467-021-27713-7),[Code](https://github.com/deng-cy/deep_learning_topology_opt)]   
+***Nature Communications (NC)***, 2022 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]   
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020 [[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [Poster](https://drive.google.com/open?id=1u8XrvGolZwaazezR60OwGtSP-n4MHd61), [Slides](https://drive.google.com/open?id=1vqoKZv4dN-lOzeaUmjEcorM4jeaXENY6), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)]  
@@ -84,9 +84,9 @@ Academic Service
 
 Miscellaneous
 ======
-* I was born in Nantong, Jiangsu, China in 1999. I love my hometown, which is a beautiful and livable city.  
-* I am a huge fan of sports. I like basketball (I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). My favourite basketball players are Lebron James and Luka Doncic. My favourite soccer player is Lionel Messi. **If you want to play basketball with me, contact me via email or wechat (see Contact section below)**. My lab collegues and I usually play at the second floor of [Marino Recreation Center](https://www.google.com/maps/place/Marino+Recreation+Center/@42.3401825,-71.092249,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a18c400467f:0xdb4ad70af6e7d61!8m2!3d42.3401919!4d-71.0900511).   
-* I like listening to music, especially Hiphop. My favourite rapper is 8aceMak1r (a.k.a. PG One).
+* I was born in Nantong, Jiangsu, China, in 1999. I love my hometown, which is a beautiful and livable city.  
+* I am a huge fan of sports. I like basketball (I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). My favorite basketball players are Lebron James and Luka Doncic. My favorite soccer player is Lionel Messi. **If you want to play basketball with me, contact me via email or WeChat (see Contact section below)**. My lab colleagues and I usually play at the second floor of [Marino Recreation Center](https://www.google.com/maps/place/Marino+Recreation+Center/@42.3401825,-71.092249,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a18c400467f:0xdb4ad70af6e7d61!8m2!3d42.3401919!4d-71.0900511).   
+* I like listening to music, especially HipHop. My favorite rapper is 8aceMak1r (a.k.a. PG One).
 
 Contact
 =====
