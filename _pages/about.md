@@ -45,12 +45,12 @@ In submission -->
 
 Publications
 ======
-* **Adaptive Trajectory Prediction via Transferable GNN**  
+* **Adaptive Trajectory Prediction via Transferable GNN**   
 Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu   
-***Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022 [[arXiv](https://arxiv.org/pdf/2203.05046.pdf),code]   
-* **Self-Directed Online Machine Learning for Topology Optimization**  
+***Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022 [[arXiv](https://arxiv.org/pdf/2203.05046.pdf),Code]   
+* **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
-***Nature Communications (NC)***, 2022 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf),[website](https://www.nature.com/articles/s41467-021-27713-7),[code](https://github.com/deng-cy/deep_learning_topology_opt)]   
+***Nature Communications (NC)***, 2022 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf),[Website](https://www.nature.com/articles/s41467-021-27713-7),[Code](https://github.com/deng-cy/deep_learning_topology_opt)]   
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020 [[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [Poster](https://drive.google.com/open?id=1u8XrvGolZwaazezR60OwGtSP-n4MHd61), [Slides](https://drive.google.com/open?id=1vqoKZv4dN-lOzeaUmjEcorM4jeaXENY6), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)]  
