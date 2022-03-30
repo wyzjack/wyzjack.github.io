@@ -12,7 +12,7 @@ I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https:/
 News
 ======
 * 03/2022: Our paper on trajectory prediction is accepted by CVPR 2022.   
-* 01/2022: I will join [**MERL**](https://www.merl.com/) for 2022 summer internship.   
+* 01/2022: I will join [**MERL**](https://www.merl.com/) as a research intern in 2022 summer.   
 * 12/2021: Our paper on gradient-free topology optimization is accepted by [**Nature Communications**](https://www.nature.com/ncomms/).  
 * 09/2021: Start the journey at NEU, Boston, MA, after one-year remote study (due to Covid-19 and travel ban).  
   
@@ -68,6 +68,7 @@ Selected Awards
 Academic Service
 ======
 **Conference Reviewer**
+* Neural Information Processing Systems (NeurIPS), 2022    
 * European Conference on Computer Vision (ECCV), 2022   
 * International Conference on Machine Learning (ICML), 2022   
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022   
