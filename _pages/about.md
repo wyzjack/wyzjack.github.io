@@ -11,6 +11,8 @@ I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https:/
 
 News
 ======
+* 04/2022: Our paper on cross-domain few-shot learning is accepted by IJCAI 2022.   
+* 03/2022: Our paper on trajectory prediction is accepted by CVPR 2022.   
 * 01/2022: I will join [**MERL**](https://www.merl.com/) as a research intern in 2022 summer.   
 * 12/2021: Our paper on gradient-free topology optimization is accepted by [**Nature Communications**](https://www.nature.com/ncomms/).  
 * 09/2021: Start the journey at NEU, Boston, MA, after one-year remote study (due to Covid-19 and travel ban).  
@@ -44,6 +46,12 @@ In submission -->
 
 Publications
 ====== 
+* **MemREIN: Rein the Domain Shift for Cross-Domain Few-Shot Learning**   
+Yi Xu, Lichen Wang, **Yizhou Wang**, Can Qin, Yulun Zhang and Yun Fu   
+***International Joint Conferences on Artificial Intelligence (IJCAI)***, 2022   
+* **Adaptive Trajectory Prediction via Transferable GNN**   
+Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu   
+***IEEE Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022 [[arXiv](https://arxiv.org/pdf/2203.05046.pdf)]   
 * **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2022 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]   
