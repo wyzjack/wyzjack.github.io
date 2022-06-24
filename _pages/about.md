@@ -48,10 +48,12 @@ Publications
 ====== 
 * **MemREIN: Rein the Domain Shift for Cross-Domain Few-Shot Learning**   
 Yi Xu, Lichen Wang, **Yizhou Wang**, Can Qin, Yulun Zhang and Yun Fu   
-***International Joint Conferences on Artificial Intelligence (IJCAI)***, 2022  [[arXiv](), [Code]()]  
+***International Joint Conferences on Artificial Intelligence (IJCAI)***, 2022   
+[[arXiv](), [Code]()]  
 * **Adaptive Trajectory Prediction via Transferable GNN**   
 Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu   
-***IEEE Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022 [[arXiv](https://arxiv.org/pdf/2203.05046.pdf), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Adaptive_Trajectory_Prediction_via_Transferable_GNN_CVPR_2022_paper.pdf), [Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xu_Adaptive_Trajectory_Prediction_CVPR_2022_supplemental.pdf), [Code]()]   
+***IEEE Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022  
+[[arXiv](https://arxiv.org/pdf/2203.05046.pdf), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Adaptive_Trajectory_Prediction_via_Transferable_GNN_CVPR_2022_paper.pdf), [Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xu_Adaptive_Trajectory_Prediction_CVPR_2022_supplemental.pdf), [Code]()]   
 * **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2022 (IF: 14.919)  
