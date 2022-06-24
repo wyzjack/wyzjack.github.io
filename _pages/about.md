@@ -57,7 +57,7 @@ Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu
 * **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2022 (IF: 14.919)  
-[[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [PDF](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Supp](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-27713-7/MediaObjects/41467_2021_27713_MOESM1_ESM.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Code](https://github.com/deng-cy/deep_learning_topology_opt), [Tech Xplore News](https://vmportal.net/news/2022-01-team-algorithm.html)]   
+[[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [PDF](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Supp](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-27713-7/MediaObjects/41467_2021_27713_MOESM1_ESM.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://vmportal.net/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]   
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020  
