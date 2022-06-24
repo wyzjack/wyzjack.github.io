@@ -54,10 +54,12 @@ Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu
 ***IEEE Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022 [[arXiv](https://arxiv.org/pdf/2203.05046.pdf), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Adaptive_Trajectory_Prediction_via_Transferable_GNN_CVPR_2022_paper.pdf), [Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xu_Adaptive_Trajectory_Prediction_CVPR_2022_supplemental.pdf), [Code]()]   
 * **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
-***Nature Communications (NC)***, 2022 (IF: 14.919) [[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Pdf](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Supp](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-27713-7/MediaObjects/41467_2021_27713_MOESM1_ESM.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]   
+***Nature Communications (NC)***, 2022 (IF: 14.919)  
+[[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [PDF](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Supp](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-27713-7/MediaObjects/41467_2021_27713_MOESM1_ESM.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Code](https://github.com/deng-cy/deep_learning_topology_opt), [Tech Xplore News](https://vmportal.net/news/2022-01-team-algorithm.html)]   
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
-***International Conference on Learning Representations (ICLR)***, 2020 [[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [Poster](https://drive.google.com/open?id=1u8XrvGolZwaazezR60OwGtSP-n4MHd61), [OpenReview](https://openreview.net/forum?id=BJl-5pNKDB), [Slides](https://drive.google.com/open?id=1vqoKZv4dN-lOzeaUmjEcorM4jeaXENY6), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)]  
+***International Conference on Learning Representations (ICLR)***, 2020  
+[[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [OpenReview](https://openreview.net/forum?id=BJl-5pNKDB), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)]  
 ***NeurIPS 2019 Optimization Foundations for Reinforcement Learning Workshop (Spotlight)***
   
 Selected Awards 
