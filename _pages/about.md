@@ -77,7 +77,8 @@ Academic Service
 ======
 **Conference Reviewer**
 * Neural Information Processing Systems (NeurIPS), 2022    
-* European Conference on Computer Vision (ECCV), 2022   
+* European Conference on Computer Vision (ECCV), 2022    
+* ECCV Workshop on Vision With Biased or Scarce Data, 2022   
 * International Conference on Machine Learning (ICML), 2022   
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022   
 * International Conference on Learning Representations (ICLR), 2022   
