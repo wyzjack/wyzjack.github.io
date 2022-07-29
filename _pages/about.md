@@ -76,14 +76,15 @@ Selected Awards
 Academic Service
 ======
 **Conference Reviewer**
-* Neural Information Processing Systems (NeurIPS), 2022    
+* Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023   
+* Neural Information Processing Systems (NeurIPS), 2021, 2022    
+* International Conference on Learning Representations (ICLR), 2022   
+* International Conference on Machine Learning (ICML), 2022  
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022  
 * European Conference on Computer Vision (ECCV), 2022    
 * ECCV Workshop on Vision With Biased or Scarce Data, 2022   
-* International Conference on Machine Learning (ICML), 2022   
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022   
-* International Conference on Learning Representations (ICLR), 2022   
 * IEEE International Conference on Multimedia and Expo (ICME), 2022   
-* Neural Information Processing Systems (NeurIPS), 2021  
+
 
 
 
