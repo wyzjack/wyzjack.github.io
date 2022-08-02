@@ -47,13 +47,13 @@ In submission -->
 
 Publications
 ====== 
-* **SLAP: Self-supervised Anomaly Detection with Adversarial Perturbation**
+* **SLAP: Self-supervised Anomaly Detection with Adversarial Perturbation**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
-***31st ACM International Conference on Information and Knowledge Management***, 2022     
+***31st ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
 [[arXiv](https://arxiv.org/pdf/2111.12896.pdf), [Code]()]   
-* **Robust Semi-supervised Domain Adaptation against Noisy Labels**
+* **Robust Semi-supervised Domain Adaptation against Noisy Labels**   
 Can Qin, **Yizhou Wang** and Yun Fu   
-***31st ACM International Conference on Information and Knowledge Management***, 2022     
+***31st ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
 [[arXiv](https://arxiv.org/pdf/2111.12896.pdf), [Code]()]   
 * **MemREIN: Rein the Domain Shift for Cross-Domain Few-Shot Learning**   
 Yi Xu, Lichen Wang, **Yizhou Wang**, Can Qin, Yulun Zhang and Yun Fu   
