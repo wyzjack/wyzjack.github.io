@@ -11,6 +11,7 @@ I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https:/
 
 News
 ======
+* 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022. Code will be released soon.   
 * 05/2022: I start my summer research internship at [**MERL**](https://www.merl.com/).   
 * 04/2022: Our paper on cross-domain few-shot learning is accepted by IJCAI 2022.   
 * 03/2022: Our paper on trajectory prediction is accepted by CVPR 2022.   
@@ -46,6 +47,14 @@ In submission -->
 
 Publications
 ====== 
+* **SLAP: Self-supervised Anomaly Detection with Adversarial Perturbation**
+**Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
+***31st ACM International Conference on Information and Knowledge Management***, 2022     
+[[arXiv](https://arxiv.org/pdf/2111.12896.pdf), [Code]()]   
+* **Robust Semi-supervised Domain Adaptation against Noisy Labels**
+Can Qin, **Yizhou Wang** and Yun Fu   
+***31st ACM International Conference on Information and Knowledge Management***, 2022     
+[[arXiv](https://arxiv.org/pdf/2111.12896.pdf), [Code]()]   
 * **MemREIN: Rein the Domain Shift for Cross-Domain Few-Shot Learning**   
 Yi Xu, Lichen Wang, **Yizhou Wang**, Can Qin, Yulun Zhang and Yun Fu   
 ***International Joint Conferences on Artificial Intelligence (IJCAI)***, 2022   
