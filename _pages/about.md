@@ -47,7 +47,7 @@ In submission -->
 
 Publications
 ====== 
-* **SLAP: Self-supervised Anomaly Detection with Adversarial Perturbation**   
+* **Self-supervision Meets Adversarial Perturbation: A Novel Framework for Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
 [[arXiv](https://arxiv.org/pdf/2111.12896.pdf), [Code]()]   
