@@ -9,6 +9,11 @@ redirect_from:
 ---
 I am a Ph.D. student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research focuses on anomaly detection and optimization in machine learning.
 
+Contact
+=====
+Email: wyzjack990122 (at) gmail (dot) com / wang.yizhou (at) northeastern (dot) edu  
+WeChat ID: wyzjack
+
 News
 ======
 * 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022. See you in Atlanta!    
@@ -50,7 +55,7 @@ Publications
 * **Self-supervision Meets Adversarial Perturbation: A Novel Framework for Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
-[[arXiv](https://arxiv.org/pdf/2111.12896.pdf), [Code](https://github.com/wyzjack/SLA2P)]   
+[[arXiv](), [Code](https://github.com/wyzjack/SLA2P)]   
 * **Robust Semi-supervised Domain Adaptation against Noisy Labels**   
 Can Qin, **Yizhou Wang** and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
@@ -108,7 +113,4 @@ Miscellaneous
 * I am a sports fan. I like basketball (I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). My favorite basketball players are Lebron James and Luka Doncic. My favorite soccer player is Lionel Messi. **If you want to play basketball with me, contact me via email or WeChat (see Contact section below)**. My lab colleagues and I usually play at the second floor of [Marino Recreation Center](https://www.google.com/maps/place/Marino+Recreation+Center/@42.3401825,-71.092249,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a18c400467f:0xdb4ad70af6e7d61!8m2!3d42.3401919!4d-71.0900511).   
 * I am a HipHop fan. My favorite rapper is Jack Harlow and 8aceMak1r (a.k.a. PG One).
 
-Contact
-=====
-Email: wyzjack990122 (at) gmail (dot) com / wang.yizhou (at) northeastern (dot) edu  
-WeChat ID: wyzjack
+
