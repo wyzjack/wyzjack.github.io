@@ -16,6 +16,8 @@ WeChat ID: wyzjack
 
 News
 ======
+* 08/2022: Our papers on video anomaly detection is accepted by ICDM 2022.     
+* 08/2022: I am honored to receive SIGIR Student Travel Grant.    
 * 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022. See you in Atlanta!    
 * 05/2022: I start my summer research internship at [**MERL**](https://www.merl.com/).   
 * 04/2022: Our paper on cross-domain few-shot learning is accepted by IJCAI 2022.   
@@ -52,6 +54,10 @@ In submission -->
 
 Publications
 ====== 
+* **Making Reconstruction-based Method Great Again for Video Anomaly Detection**   
+**Yizhou Wang**, Can Qin, Yue Bai, Yi Xu, Xu Ma and Yun Fu   
+***IEEE International Conference on Data Mining (ICDM)***, 2022     
+[[arXiv](), [Code]()]   
 * **Self-supervision Meets Adversarial Perturbation: A Novel Framework for Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
