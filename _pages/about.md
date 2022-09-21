@@ -16,8 +16,7 @@ WeChat ID: wyzjack
 
 News
 ======
-* 08/2022: Our papers on video anomaly detection is accepted by ICDM 2022.     
-* 08/2022: I am honored to receive SIGIR Student Travel Grant.    
+* 08/2022: Our papers on video anomaly detection is accepted by ICDM 2022.      
 * 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022. See you in Atlanta!    
 * 05/2022: I start my summer research internship at [**MERL**](https://www.merl.com/).   
 * 04/2022: Our paper on cross-domain few-shot learning is accepted by IJCAI 2022.   
