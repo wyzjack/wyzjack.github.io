@@ -16,7 +16,7 @@ WeChat ID: wyzjack
 
 News
 ======
-* 09/2022: I kind of feel that I am having a cursh on a girl （???!!!）          
+* 09/2022: I kind of feel that I am having a crush on a girl （???!!!）          
 * 08/2022: Our paper on video anomaly detection is accepted by ICDM 2022. See you in Orlando!     
 * 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022. See you in Atlanta!    
 * 05/2022: I start my summer research internship at [**MERL**](https://www.merl.com/).   
