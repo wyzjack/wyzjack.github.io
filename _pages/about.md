@@ -16,13 +16,14 @@ WeChat ID: wyzjack
 
 News
 ======
-* 08/2022: Our papers on video anomaly detection is accepted by ICDM 2022.      
+* 09/2022: I kind of feel that I am having a cursh on a girl （???!!!）          
+* 08/2022: Our paper on video anomaly detection is accepted by ICDM 2022. See you in Orlando!     
 * 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022. See you in Atlanta!    
 * 05/2022: I start my summer research internship at [**MERL**](https://www.merl.com/).   
 * 04/2022: Our paper on cross-domain few-shot learning is accepted by IJCAI 2022.   
 * 03/2022: Our paper on trajectory prediction is accepted by CVPR 2022.   
-* 12/2021: Our paper on gradient-free topology optimization is accepted by [**Nature Communications**](https://www.nature.com/ncomms/).  
-* 09/2021: Start the journey at NEU, Boston, MA, after one-year remote study (due to Covid-19 and travel ban).  
+* 12/2021: Our paper on gradient-free topology optimization is accepted by [**Nature Communications**](https://www.nature.com/ncomms/).   
+* 09/2021: Start the journey at NEU, Boston, MA, after one-year remote study (due to Covid-19 and travel ban).   
   
 Education
 ======
@@ -59,11 +60,10 @@ Publications
 * **Self-supervision Meets Adversarial Perturbation: A Novel Framework for Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
-[[Code](https://github.com/wyzjack/SLA2P) [Poster]()]   
+[[Code](https://github.com/wyzjack/SLA2P)]   
 * **Robust Semi-supervised Domain Adaptation against Noisy Labels**   
 Can Qin, **Yizhou Wang** and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
-[[Poster]()]   
 * **MemREIN: Rein the Domain Shift for Cross-Domain Few-Shot Learning**   
 Yi Xu, Lichen Wang, **Yizhou Wang**, Can Qin, Yulun Zhang and Yun Fu   
 ***International Joint Conferences on Artificial Intelligence (IJCAI)***, 2022   
@@ -80,7 +80,7 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020   
 ***NeurIPS 2019 Optimization Foundations for Reinforcement Learning Workshop (Spotlight)***   
-[[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [OpenReview](https://openreview.net/forum?id=BJl-5pNKDB), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)[Poster]()]   
+[[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [OpenReview](https://openreview.net/forum?id=BJl-5pNKDB), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)]   
   
 Selected Awards 
 ======
@@ -113,8 +113,8 @@ Academic Service
 
 Miscellaneous
 ======
-* I was born in Nantong, Jiangsu, China, in 1999. I love my hometown, which is a beautiful and livable city.  
-* I am a sports fan. I like basketball (I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). My favorite basketball players are Lebron James and Luka Doncic. My favorite soccer player is Lionel Messi. **If you want to play basketball with me, contact me via email or WeChat (see Contact section below)**. My lab colleagues and I usually play at the second floor of [Marino Recreation Center](https://www.google.com/maps/place/Marino+Recreation+Center/@42.3401825,-71.092249,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a18c400467f:0xdb4ad70af6e7d61!8m2!3d42.3401919!4d-71.0900511).   
-* I am a HipHop fan. My favorite rapper is Jack Harlow and 8aceMak1r (a.k.a. PG One).
+* I was born in Nantong, Jiangsu, China, in 1999. I love my hometown, which is a beautiful and livable city.   
+* I am a sports fan. I like basketball (I can dunk 2.95m basketball hoop), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). My favorite basketball players are Lebron James and Luka Doncic. My favorite soccer player is Lionel Messi (God bless Argentina in FIFA World Cup Qatar 2022!). **If you want to play basketball with me, contact me via email or WeChat (see Contact section below)**. My lab colleagues and I usually play at the second floor of [Marino Recreation Center](https://www.google.com/maps/place/Marino+Recreation+Center/@42.3401825,-71.092249,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a18c400467f:0xdb4ad70af6e7d61!8m2!3d42.3401919!4d-71.0900511).   
+* I am a HipHop fan. My favorite rappers are Jack Harlow, 8aceMak1r (a.k.a. PG One) and Post Malone (if he is).
 
 
