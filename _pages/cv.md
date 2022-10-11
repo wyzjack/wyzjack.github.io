@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * **Northeastern University**  2020-  
 Ph.D. in Computer Engineering  
@@ -64,7 +64,7 @@ Programming Skills
 ======
 * Languages: Python, C, C#, R
 * Libraries: PyTorch, Tensorflow, Gym, Numpy, Pandas, SciPy, Matplotlib, Seaborn
-* Softwares: Visual Studio, Vim, MATLAB, Maple, $\LaTeX\$
+* Softwares: Visual Studio, Vim, MATLAB, Maple, $\LaTeX\$ -->
 
 
 

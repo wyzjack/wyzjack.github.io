@@ -55,24 +55,23 @@ Publications
 ====== 
 * **Making Reconstruction-based Method Great Again for Video Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Yue Bai, Yi Xu, Xu Ma and Yun Fu   
-***IEEE International Conference on Data Mining (ICDM)***, 2022     
-[[arXiv](), [Code]()]   
+***IEEE International Conference on Data Mining (ICDM)***, 2022      
 * **Self-supervision Meets Adversarial Perturbation: A Novel Framework for Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
-[[arXiv](), [Code](https://github.com/wyzjack/SLA2P)]   
+[[Code](https://github.com/wyzjack/SLA2P) [Poster]()]   
 * **Robust Semi-supervised Domain Adaptation against Noisy Labels**   
 Can Qin, **Yizhou Wang** and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
-[[arXiv](), [Code]()]   
+[[Poster]()]   
 * **MemREIN: Rein the Domain Shift for Cross-Domain Few-Shot Learning**   
 Yi Xu, Lichen Wang, **Yizhou Wang**, Can Qin, Yulun Zhang and Yun Fu   
 ***International Joint Conferences on Artificial Intelligence (IJCAI)***, 2022   
-[[arXiv](), [Code]()]  
+[[PDF](https://www.ijcai.org/proceedings/2022/0505.pdf)]  
 * **Adaptive Trajectory Prediction via Transferable GNN**   
 Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu   
 ***IEEE Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022  
-[[arXiv](https://arxiv.org/pdf/2203.05046.pdf), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Adaptive_Trajectory_Prediction_via_Transferable_GNN_CVPR_2022_paper.pdf), [Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xu_Adaptive_Trajectory_Prediction_CVPR_2022_supplemental.pdf), [Code]()]   
+[[arXiv](https://arxiv.org/pdf/2203.05046.pdf), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Adaptive_Trajectory_Prediction_via_Transferable_GNN_CVPR_2022_paper.pdf), [Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xu_Adaptive_Trajectory_Prediction_CVPR_2022_supplemental.pdf)]   
 * **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2022 (IF: 14.919)  
@@ -81,7 +80,7 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020   
 ***NeurIPS 2019 Optimization Foundations for Reinforcement Learning Workshop (Spotlight)***   
-[[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [OpenReview](https://openreview.net/forum?id=BJl-5pNKDB), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)]   
+[[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [OpenReview](https://openreview.net/forum?id=BJl-5pNKDB), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)[Poster]()]   
   
 Selected Awards 
 ======
