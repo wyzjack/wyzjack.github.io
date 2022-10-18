@@ -60,12 +60,13 @@ Publications
 * **Self-supervision Meets Adversarial Perturbation: A Novel Framework for Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
-[[Code](https://github.com/wyzjack/SLA2P)]   
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557697), [Code](https://github.com/wyzjack/SLA2P)]   
 * **Robust Semi-supervised Domain Adaptation against Noisy Labels**   
 Can Qin, **Yizhou Wang** and Yun Fu   
-***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
+***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022    
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557685)]    
 * **MemREIN: Rein the Domain Shift for Cross-Domain Few-Shot Learning**   
-Yi Xu, Lichen Wang, **Yizhou Wang**, Can Qin, Yulun Zhang and Yun Fu   
+Yi Xu, Lichen Wang, **Yizhou Wang**, Can Qin, Yulun Zhang and Yun Fu    
 ***International Joint Conferences on Artificial Intelligence (IJCAI)***, 2022   
 [[PDF](https://www.ijcai.org/proceedings/2022/0505.pdf)]  
 * **Adaptive Trajectory Prediction via Transferable GNN**   
