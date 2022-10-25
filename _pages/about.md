@@ -85,6 +85,8 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
   
 Selected Awards 
 ======
+* IEEE ICDM 2022 Student Travel Award, 2022    
+* SIGIR Student Travel Grant, 2022   
 * Dean's Fellowship of Northeastern University, 2020
 * Outstanding graduate of XJTU, 2020
 * National Zhufeng 1st Scholarship (Pilot Scheme of Top-notch Talent Cultivation in Basic Disciplines), 2019
