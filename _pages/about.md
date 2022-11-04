@@ -11,8 +11,7 @@ I am a third-year Ph.D. student in Computer Engineering at [Northeastern Unversi
 
 News
 ======
-* 10/2022: I am honored to receive IEEE ICDM 2022 Student Travel Award.       
-* 09/2022: I kind of feel that I am having a crush on a girl （???!!!）          
+* 10/2022: I am honored to receive IEEE ICDM 2022 Student Travel Award.               
 * 08/2022: Our paper on video anomaly detection is accepted by ICDM 2022. See you in Orlando!      
 * 08/2022: I am honored to receive SIGIR Student Travel Grant.       
 * 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022. See you in Atlanta!     
