@@ -65,7 +65,7 @@ Yi Xu, Lichen Wang, **Yizhou Wang**, Can Qin, Yulun Zhang and Yun Fu
 [[PDF](https://www.ijcai.org/proceedings/2022/0505.pdf)]  
 * **Adaptive Trajectory Prediction via Transferable GNN**   
 Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu   
-***The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022  
+***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022  
 [[arXiv](https://arxiv.org/pdf/2203.05046.pdf), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Adaptive_Trajectory_Prediction_via_Transferable_GNN_CVPR_2022_paper.pdf), [Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xu_Adaptive_Trajectory_Prediction_CVPR_2022_supplemental.pdf)]   
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
