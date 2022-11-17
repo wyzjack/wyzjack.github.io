@@ -31,7 +31,9 @@ B.S. in [Mathematics and Applied Mathematics (National Honors Program)](http://b
 Advisor: Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun)
 * **Georgia Institute of Technology**  2019 Spring  
 Georgia Tech School of Mathematics Visiting Honors Student Program  
-Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)
+Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)   
+* **Peking University**  2018 Summer    
+[DeeCamp](https://deecamp.com/#/home) Member  
 
 <!-- Preprints
 =====
