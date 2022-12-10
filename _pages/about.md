@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a third-year Ph.D. student in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research mainly focuses on anomaly detection in machine learning and deep learning.   
 
-News
+<!-- News
 ======
 * 10/2022: I am honored to receive IEEE ICDM 2022 Student Travel Award.               
 * 08/2022: Our paper on video anomaly detection is accepted by ICDM 2022. See you in Orlando!      
@@ -19,25 +19,33 @@ News
 * 04/2022: Our paper on cross-domain few-shot learning is accepted by IJCAI 2022.    
 * 03/2022: Our paper on trajectory prediction is accepted by CVPR 2022.   
 * 12/2021: Our paper on gradient-free topology optimization is accepted by [**Nature Communications**](https://www.nature.com/ncomms/).   
-* 09/2021: Start the journey at NEU, Boston, MA, after one-year remote study (due to Covid-19 and travel ban).   
+* 09/2021: Start the journey at NEU, Boston, MA, after one-year remote study (due to Covid-19 and travel ban).    -->
   
 Education
 ======
-* **Northeastern University**  2020-  
+* **Northeastern University (NEU)**  2020-  
 Ph.D. in Computer Engineering  
 Supervisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
-* **Xi'an Jiaotong University**  2016-2020  
+* **Xi'an Jiaotong University (XJTU)**  2016-2020  
 B.S. in [Mathematics and Applied Mathematics (National Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)  
-Advisor: Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun)
-* **Georgia Institute of Technology**  2019 Spring  
+* **Georgia Institute of Technology (GaTech)**  2019 Spring  
 Georgia Tech School of Mathematics Visiting Honors Student Program  
 Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)   
-* **Peking University**  2018 Summer    
-[DeeCamp](https://deecamp.com/#/home) Member  
+* **Peking University (PKU)**  2018 Summer    
+[DeeCamp](https://deecamp.com/#/home) Member, mentored by [Megvii](https://en.megvii.com/)   
 * **University of Alberta**  2017 Summer    
 International Undergraduate Summer Enrichment Program in Mathematics   
 
-
+Working Experience
+======
+* **SMILE Lab, NEU, Boston, U.S.**  Sep 2021-   
+Research Assistant to Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), working on anomly detection and optimization    
+* **Mitsubishi Electric Research Laboratories (MERL), Cambridge, U.S.**  May 2022 - Sep 2022   
+Research Intern mentored by Dr. [Kuan-Chuan Peng](https://www.merl.com/people/kpeng), working on 3D Anomaly Detection   
+* **Imagine Lab, XJTU, Xi'an, China**  Jun 2020 - Aug 2020      
+Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun), working on deep unfolded iterative algorithm for medical images    
+* **FLASH Lab, GaTech**  Jan 2019 - May 2019    
+Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun), working on generative adversarial imitation learning     
 
 Publications
 ====== 
@@ -87,15 +95,15 @@ Selected Awards
 Academic Service
 ======
 **Conference Reviewer**   
-* The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, 2023      
-* Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023    
 * Neural Information Processing Systems (NeurIPS), 2021, 2022    
-* International Conference on Learning Representations (ICLR), 2022   
+* International Conference on Learning Representations (ICLR), 2022    
 * International Conference on Machine Learning (ICML), 2022    
+* The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, 2023    
 * European Conference on Computer Vision (ECCV), 2022    
+* Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023    
+* THE 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023     
+* IEEE International Conference on Multimedia and Expo (ICME), 2022    
 * ECCV Workshop on Vision With Biased or Scarce Data, 2022   
-* IEEE International Conference on Multimedia and Expo (ICME), 2022   
-
 
 
 
