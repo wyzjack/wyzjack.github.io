@@ -41,11 +41,11 @@ Working Experience
 * **SMILE Lab, NEU, Boston, U.S.**  Sep 2021-   
 Research Assistant to Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), working on anomly detection and optimization    
 * **Mitsubishi Electric Research Laboratories (MERL), Cambridge, U.S.**  May 2022 - Sep 2022   
-Research Intern mentored by Dr. [Kuan-Chuan Peng](https://www.merl.com/people/kpeng), working on 3D Anomaly Detection   
+Research Intern mentored by Dr. [Kuan-Chuan Peng](https://www.merl.com/people/kpeng), working on 3D anomaly detection   
 * **Imagine Lab, XJTU, Xi'an, China**  Jun 2020 - Aug 2020      
 Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun), working on deep unfolded iterative algorithm for medical images    
-* **FLASH Lab, GaTech**  Jan 2019 - May 2019    
-Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun), working on generative adversarial imitation learning     
+* **FLASH Lab, GaTech, Atlanta, U.S.**  Jan 2019 - May 2019    
+Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/), working on generative adversarial imitation learning     
 
 Publications
 ====== 
