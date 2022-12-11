@@ -114,7 +114,7 @@ Academic Service
 Miscellaneous
 ======
 * I was born in Nantong, Jiangsu, China, in 1999. I love my hometown, which is a beautiful and livable city.   
-* I am a sports fan. I like basketball (I can dunk 2.95m basketball hoop ([Video](https://www.youtube.com/watch?v=0DisiCS1Rww))), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). My favorite basketball players are Lebron James and Luka Doncic. My favorite soccer player is Lionel Messi (God bless Argentina in FIFA World Cup Qatar 2022!). **If you want to play basketball with me, contact me via email or WeChat (see Contact section below)**. My lab colleagues and I usually play at the second floor of [Marino Recreation Center](https://www.google.com/maps/place/Marino+Recreation+Center/@42.3401825,-71.092249,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a18c400467f:0xdb4ad70af6e7d61!8m2!3d42.3401919!4d-71.0900511).   
+* I am a sports fan. I like basketball (I can [dunk 2.95m basketball hoop](https://www.youtube.com/watch?v=0DisiCS1Rww)), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). My favorite basketball players are Lebron James and Luka Doncic. My favorite soccer player is Lionel Messi (God bless Argentina in FIFA World Cup Qatar 2022!). **If you want to play basketball with me, contact me via email or WeChat (see Contact section below)**. My lab colleagues and I usually play at the second floor of [Marino Recreation Center](https://www.google.com/maps/place/Marino+Recreation+Center/@42.3401825,-71.092249,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a18c400467f:0xdb4ad70af6e7d61!8m2!3d42.3401919!4d-71.0900511).   
 * I am a HipHop fan. My favorite rappers are Jack Harlow, 8aceMak1r (a.k.a. PG One) and Post Malone (if he is).     
 
 Contact
