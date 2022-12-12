@@ -27,7 +27,8 @@ Education
 Ph.D. in Computer Engineering  
 Supervisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
 * **Xi'an Jiaotong University (XJTU)**  2016-2020  
-B.S. in [Mathematics and Applied Mathematics (National Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)  
+B.S. in [Mathematics and Applied Mathematics (National Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)   
+GPA: 91.17/100 (3.85/4.00)    
 * **Georgia Institute of Technology (GaTech)**  2019 Spring  
 Georgia Tech School of Mathematics Visiting Honors Student Program   
 * **Peking University (PKU)**  2018 Summer    
