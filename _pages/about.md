@@ -14,7 +14,8 @@ I am a third-year Ph.D. candidate in Computer Engineering at [Northeastern Unver
 Contact
 =====
 Email: wyzjack990122 (at) gmail (dot) com / wang.yizhou (at) northeastern (dot) edu  
-WeChat ID: wyzjack 
+WeChat ID: wyzjack    
+
 <!-- News
 ======
 * 10/2022: I am honored to receive IEEE ICDM 2022 Student Travel Award.               
