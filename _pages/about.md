@@ -87,7 +87,11 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
 ***International Conference on Learning Representations (ICLR)***, 2020   
 ***NeurIPS 2019 Optimization Foundations for Reinforcement Learning Workshop (Spotlight)***   
 [[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [OpenReview](https://openreview.net/forum?id=BJl-5pNKDB), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)]   
-  
+
+Selected Presentations    
+======
+* Oral presentation at New England Computer Vision Workshop, MIT, Boston, MA, 2022    
+
 Selected Awards 
 ======
 * IEEE ICDM 2022 Student Travel Award, 2022    
