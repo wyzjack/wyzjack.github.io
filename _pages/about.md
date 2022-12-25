@@ -90,7 +90,7 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
 
 Selected Presentations    
 ======
-* Oral presentation at New England Computer Vision Workshop, MIT, Boston, MA, 2022    
+* Oral presentation at [New England Computer Vision Workshop](https://necv2022.github.io/), MIT, Boston, MA, 2022    
 
 Selected Awards 
 ======
