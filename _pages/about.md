@@ -113,7 +113,8 @@ Academic Service
 * European Conference on Computer Vision (ECCV), 2022   
 * SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023     
 * AAAI Conference on Artificial Intelligence (AAAI), 2023    
-* International Joint Conference on Artificial Intelligence (IJCAI), 2023     
+* International Joint Conference on Artificial Intelligence (IJCAI), 2023  
+* Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023      
 * IEEE International Conference on Multimedia and Expo (ICME), 2022    
 * ECCV Workshop on Vision With Biased or Scarce Data, 2022   
 
