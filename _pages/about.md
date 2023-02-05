@@ -64,8 +64,9 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 
 **Conference Papers**    
 * **Making Reconstruction-based Method Great Again for Video Anomaly Detection**   
-**Yizhou Wang**, Can Qin, Yue Bai, Yi Xu, Xu Ma and Yun Fu   
-***IEEE International Conference on Data Mining (ICDM)***, 2022      
+**Yizhou Wang**, Can Qin, Yue Bai, Yi Xu, Xu Ma and Yun Fu    
+***IEEE International Conference on Data Mining (ICDM)***, 2022       
+[[PDF](https://ieeexplore.ieee.org/abstract/document/10027694), [Code](https://github.com/wyzjack/MRMGA4VAD)]    
 * **Self-supervision Meets Adversarial Perturbation: A Novel Framework for Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
@@ -106,9 +107,9 @@ Selected Awards
 Academic Service
 ======
 **Conference Reviewer**   
+* International Conference on Machine Learning (ICML), 2022, 2023    
 * Neural Information Processing Systems (NeurIPS), 2021, 2022    
-* International Conference on Learning Representations (ICLR), 2022    
-* International Conference on Machine Learning (ICML), 2022    
+* International Conference on Learning Representations (ICLR), 2022      
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, 2023    
 * European Conference on Computer Vision (ECCV), 2022   
 * SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023     
