@@ -16,18 +16,16 @@ Contact
 Email: wyzjack990122 (at) gmail (dot) com / wang.yizhou (at) northeastern (dot) edu  
 WeChat ID: wyzjack    
 
-<!-- News
-======
-* 10/2022: I am honored to receive IEEE ICDM 2022 Student Travel Award.               
-* 08/2022: Our paper on video anomaly detection is accepted by ICDM 2022. See you in Orlando!      
-* 08/2022: I am honored to receive SIGIR Student Travel Grant.       
-* 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022. See you in Atlanta!     
-* 05/2022: I start my summer research internship at [**MERL**](https://www.merl.com/).    
+News
+======           
+* 08/2022: Our paper on video anomaly detection is accepted by ICDM 2022.          
+* 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022.    
 * 04/2022: Our paper on cross-domain few-shot learning is accepted by IJCAI 2022.    
 * 03/2022: Our paper on trajectory prediction is accepted by CVPR 2022.   
 * 12/2021: Our paper on gradient-free topology optimization is accepted by [**Nature Communications**](https://www.nature.com/ncomms/).   
-* 09/2021: Start the journey at NEU, Boston, MA, after one-year remote study (due to Covid-19 and travel ban).    -->
-  
+* 09/2021: Start the journey at NEU, Boston, MA, after one-year remote study (due to Covid-19 and travel ban).   
+
+
 Education
 ======
 * **Northeastern University (NEU)**  2020-  
@@ -110,7 +108,8 @@ Academic Service
 * International Conference on Machine Learning (ICML), 2022, 2023    
 * Neural Information Processing Systems (NeurIPS), 2021, 2022    
 * International Conference on Learning Representations (ICLR), 2022      
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, 2023    
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, 2023     
+* International Conference on Computer Vision (ICCV), 2023       
 * European Conference on Computer Vision (ECCV), 2022   
 * SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023     
 * AAAI Conference on Artificial Intelligence (AAAI), 2023    
