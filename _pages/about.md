@@ -54,6 +54,14 @@ Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/), 
 
 Publications
 ====== 
+**Preprints** 
+* **Towards Explainable Visual Anomaly Detection**   
+**Yizhou Wang***, Dongliang Guo*, Sheng Li and Yun Fu   
+[[arXiv](https://arxiv.org/pdf/2302.06670.pdf)]    
+* **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
+**Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
+[[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]   
+
 **Journal Papers**    
 * **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
