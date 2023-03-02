@@ -9,7 +9,6 @@ redirect_from:
 ---
 I am a third-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research mainly focuses on anomaly detection in machine learning and deep learning.  
 
-**I am actively looking for 2023 summer research internship opportunities on machine learning and deep learning. Please feel free to contact me if you are interested.**   
 
 Contact
 =====
@@ -29,7 +28,7 @@ News
 Education
 ======
 * **Northeastern University (NEU)**  2020-  
-Ph.D. in Computer Engineering  
+Ph.D. in Computer Engineering   
 Supervisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
 * **Xi'an Jiaotong University (XJTU)**  2016-2020  
 B.S. in [Mathematics and Applied Mathematics (National Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)   
@@ -46,7 +45,7 @@ Working Experience
 * **SMILE Lab, NEU, Boston, U.S.**  Sep 2021-   
 Research Assistant to Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), working on anomly detection and optimization    
 * **Mitsubishi Electric Research Laboratories (MERL), Cambridge, U.S.**  May 2022 - Sep 2022   
-Research Intern mentored by Dr. [Kuan-Chuan Peng](https://www.merl.com/people/kpeng), working on 3D anomaly detection   
+Research Intern     
 * **Imagine Lab, XJTU, Xi'an, China**  Jun 2020 - Aug 2020      
 Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun), working on deep unfolded iterative algorithm for medical images    
 * **FLASH Lab, GaTech, Atlanta, U.S.**  Jan 2019 - May 2019    
