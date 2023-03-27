@@ -17,6 +17,7 @@ WeChat ID: wyzjack
 
 News
 ======           
+* 12/2022: I successfully passed the qualifying exam and become a Ph.D. candidate.      
 * 08/2022: Our paper on video anomaly detection is accepted by ICDM 2022.          
 * 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022.    
 * 04/2022: Our paper on cross-domain few-shot learning is accepted by IJCAI 2022.    
@@ -65,34 +66,34 @@ Publications
 * **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2022 (IF: 14.919)  
-[[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [PDF](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Supp](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-021-27713-7/MediaObjects/41467_2021_27713_MOESM1_ESM.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://vmportal.net/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]      
+[[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://vmportal.net/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]      
 
 **Conference Papers**    
 * **Making Reconstruction-based Method Great Again for Video Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Yue Bai, Yi Xu, Xu Ma and Yun Fu    
 ***IEEE International Conference on Data Mining (ICDM)***, 2022       
-[[PDF](https://ieeexplore.ieee.org/abstract/document/10027694), [Code](https://github.com/wyzjack/MRMGA4VAD)]    
+[[arXiv](https://arxiv.org/abs/2301.12048), [Code](https://github.com/wyzjack/MRMGA4VAD)]    
 * **Self-supervision Meets Adversarial Perturbation: A Novel Framework for Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
-[[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557697), [Code](https://github.com/wyzjack/SLA2P)]   
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557697), [Code](https://github.com/wyzjack/SLA2P)]   
 * **Robust Semi-supervised Domain Adaptation against Noisy Labels**   
 Can Qin, **Yizhou Wang** and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022    
-[[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557685)]    
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557685)]    
 * **MemREIN: Rein the Domain Shift for Cross-Domain Few-Shot Learning**   
 Yi Xu, Lichen Wang, **Yizhou Wang**, Can Qin, Yulun Zhang and Yun Fu    
 ***International Joint Conferences on Artificial Intelligence (IJCAI)***, 2022   
-[[PDF](https://www.ijcai.org/proceedings/2022/0505.pdf)]  
+[[Paper](https://www.ijcai.org/proceedings/2022/0505.pdf)]  
 * **Adaptive Trajectory Prediction via Transferable GNN**   
 Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu   
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022  
-[[arXiv](https://arxiv.org/pdf/2203.05046.pdf), [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Adaptive_Trajectory_Prediction_via_Transferable_GNN_CVPR_2022_paper.pdf), [Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Xu_Adaptive_Trajectory_Prediction_CVPR_2022_supplemental.pdf)]   
+[[arXiv](https://arxiv.org/pdf/2203.05046.pdf)]   
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020   
 ***NeurIPS 2019 Optimization Foundations for Reinforcement Learning Workshop (Spotlight)***   
-[[arXiv](https://arxiv.org/pdf/2001.02792.pdf), [OpenReview](https://openreview.net/forum?id=BJl-5pNKDB), [Video](https://iclr.cc/virtual_2020/poster_BJl-5pNKDB.html)]   
+[[arXiv](https://arxiv.org/pdf/2001.02792.pdf)]   
 
 Selected Presentations    
 ======
