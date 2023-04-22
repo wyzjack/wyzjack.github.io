@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research mainly focuses on anomaly detection in machine learning and deep learning.  
+I am a third-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research mainly focuses on anomaly detection in machine learning and deep learning. 
+
+My ultimate goal of AI related research is to reach the goal of AGI (Artificial General Intelligence), a.k.a., strong AI. I actually do not believe current purely deep learning driven AI research (basicly fitting data and to generalize well on certain tasks) can lead to strong AI. I believe that assistance from Biological and Neuroscience field is needed. Nevertheless, I am on my way to realize it.
 
 
 Contact
@@ -17,6 +19,7 @@ WeChat ID: wyzjack
 
 News
 ======           
+* 12/2022:  We released a repository summarizing the state-of-the-art methods and the related papers on 3D anomaly detection: https://github.com/wyzjack/Awesome-3D-AnomalyDetection. Welcome to use and star!    
 * 12/2022: I successfully passed the qualifying exam and become a Ph.D. candidate.      
 * 08/2022: Our paper on video anomaly detection is accepted by ICDM 2022.          
 * 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022.    
