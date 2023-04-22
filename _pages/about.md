@@ -19,7 +19,7 @@ WeChat ID: wyzjack
 
 News
 ======           
-* 12/2022:  We released a [GitHub repository](https://github.com/wyzjack/Awesome-3D-AnomalyDetection) summarizing the state-of-the-art methods and the related papers on 3D anomaly detection. Welcome to use and star!    
+* 04/2023:  We released a [GitHub repository](https://github.com/wyzjack/Awesome-3D-AnomalyDetection) summarizing the state-of-the-art methods and the related papers on 3D anomaly detection. Welcome to use and star!    
 * 12/2022: I successfully passed the qualifying exam and become a Ph.D. candidate.      
 * 08/2022: Our paper on video anomaly detection is accepted by ICDM 2022.          
 * 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022.    
