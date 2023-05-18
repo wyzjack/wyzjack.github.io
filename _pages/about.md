@@ -59,13 +59,16 @@ Publications
 ====== 
 **Preprints** 
 * **Towards Explainable Visual Anomaly Detection**   
-**Yizhou Wang***, Dongliang Guo*, Sheng Li and Yun Fu   
+**Yizhou Wang**, Dongliang Guo (co-first), Sheng Li and Yun Fu   
 [[arXiv](https://arxiv.org/pdf/2302.06670.pdf)]    
 * **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
 **Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
 [[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]   
 
-**Journal Papers**    
+**Journal Papers** 
+* **An unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantee**   
+Yan Yang, **Yizhou Wang** ((co-first)), Jiazhen Wang, Jian Sun and Zongben Xu    
+***SIAM Journal on Imaging Sciences***, 2023 (IF: 1.938)           
 * **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2022 (IF: 14.919)  
