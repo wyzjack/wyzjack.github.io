@@ -19,7 +19,7 @@ WeChat ID: wyzjack
 
 News
 ======           
-* 12/2021: Our paper on parallel MR Imaging is accepted by [**Siam Journal on Image Sciences**](https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims).   
+* 05/2023: Our paper on parallel MR Imaging is accepted by [**Siam Journal on Image Sciences**](https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims).   
 * 04/2023:  We released a [GitHub repository](https://github.com/wyzjack/Awesome-3D-AnomalyDetection) summarizing the SOTA methods and the related papers on 3D anomaly detection. Welcome to use and star!    
 * 12/2022: I successfully passed the qualifying exam and become a Ph.D. candidate.      
 * 08/2022: Our paper on video anomaly detection is accepted by ICDM 2022.          
