@@ -19,7 +19,7 @@ WeChat ID: wyzjack
 
 News
 ======           
-* 05/2023: Our paper on parallel MR Imaging is accepted by [**Siam Journal on Image Sciences**](https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims).   
+* 05/2023: Our paper on parallel MR Imaging is accepted by [**SIAM Journal on Image Sciences**](https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims).   
 * 04/2023:  We released a [GitHub repository](https://github.com/wyzjack/Awesome-3D-AnomalyDetection) summarizing the SOTA methods and the related papers on 3D anomaly detection. Welcome to use and star!    
 * 12/2022: I successfully passed the qualifying exam and become a Ph.D. candidate.      
 * 08/2022: Our paper on video anomaly detection is accepted by ICDM 2022.          
@@ -50,7 +50,7 @@ Working Experience
 * **SMILE Lab, NEU, Boston, U.S.**  Sep 2021-   
 Research Assistant to Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), working on anomly detection and optimization    
 * **Mitsubishi Electric Research Laboratories (MERL), Cambridge, U.S.**  May 2022 - Sep 2022   
-Research Intern     
+Research Intern, mentored by Dr. [Kuan-Chuan Peng](https://www.merl.com/people/kpeng)     
 * **Imagine Lab, XJTU, Xi'an, China**  Jun 2020 - Aug 2020      
 Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun), working on deep unfolded iterative algorithm for medical images    
 * **FLASH Lab, GaTech, Atlanta, U.S.**  Jan 2019 - May 2019    
