@@ -12,11 +12,6 @@ I am a third-year Ph.D. candidate in Computer Engineering at [Northeastern Unver
 My ultimate goal of AI related research is to reach the goal of AGI (Artificial General Intelligence), a.k.a., strong AI. I actually do not believe current purely deep learning driven AI research (basicly fitting data and to generalize well on certain tasks) can lead to strong AI. I believe that assistance from Biological and Neuroscience field is needed. Nevertheless, I am on my way to realize it.
 
 
-Contact
-=====
-Email: wyzjack990122 (at) gmail (dot) com / wang.yizhou (at) northeastern (dot) edu  
-WeChat ID: wyzjack    
-
 News
 ======           
 * 05/2023: Our paper on parallel MR Imaging is accepted by [**SIAM Journal on Image Sciences**](https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims).   
@@ -107,7 +102,7 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
 Selected Presentations    
 ======
 * Oral presentation at [New England Computer Vision Workshop](https://necv2022.github.io/), MIT, Boston, MA, 2022  
-* Oral talk at [AI2healthcare](https://ai2healthcare.github.io/) [Talk](https://ai2healthcare.github.io/news/2023/05/29/Dr.Yizhou_Wang) [Video](https://www.youtube.com/watch?v=EvUnnUppEZ0&t=5s), Online, 2023  
+* Oral report at [AI2healthcare](https://ai2healthcare.github.io/) [Talk](https://ai2healthcare.github.io/news/2023/05/29/Dr.Yizhou_Wang) [Video](https://www.youtube.com/watch?v=EvUnnUppEZ0&t=5s), Online, 2023  
 
 Selected Awards 
 ======
@@ -148,9 +143,8 @@ Teaching Experience
 **Teaching Assistant (TA)**
 * EECE 5642: Data Visualization, Northeastern University, Spring 2023   
 
-Miscellaneous
-======     
-* I am a sports fan. I like basketball (I can [dunk 2.95m basketball hoop](https://www.youtube.com/watch?v=0DisiCS1Rww)), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). My favorite basketball players are Lebron James and Luka Doncic. My favorite soccer player is Lionel Messi ([Congratulations to Argentina for winning FIFA World Cup Qatar 2022!](https://www.youtube.com/watch?v=UPGsgrtkS9I)). **If you want to play basketball with me, contact me via email or WeChat (see Contact section below)**. My lab colleagues and I usually play at the second floor of [Marino Recreation Center](https://www.google.com/maps/place/Marino+Recreation+Center/@42.3401825,-71.092249,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a18c400467f:0xdb4ad70af6e7d61!8m2!3d42.3401919!4d-71.0900511). Recently I am into American football and NFL, feel free to contact me if you want to play together.     
-* I am a music fan. I love listening to Hiphop. My favorite rappers are Jack Harlow, 8aceMak1r (a.k.a. PG One) and Post Malone (if he is). I also like singing songs when I have time. [Here](https://static-play.kg.qq.com/node/personal?uid=639c9984272d348e&shareUid=639c9984272d348e&chain_share_id=tWOUPJ-mqo1xs8pd31NPft6aiOPRvemjZB2yD6MVJNs&pageId=homepage_me) is my “We Sing” (全民K歌) account where I record my singings. I am actually pretty good at singing as I can easily get SSS scores on "We Sing".
 
-
+Contact
+=====
+Email: wyzjack990122 (at) gmail (dot) com / wang.yizhou (at) northeastern (dot) edu  
+WeChat ID: wyzjack    
