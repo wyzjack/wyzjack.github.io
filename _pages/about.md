@@ -107,7 +107,7 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
 Selected Presentations    
 ======
 * Oral presentation at [New England Computer Vision Workshop](https://necv2022.github.io/), MIT, Boston, MA, 2022  
-* Oral talk at [AI2healthcare](https://ai2healthcare.github.io/)[Talk](https://ai2healthcare.github.io/news/2023/05/29/Dr.Yizhou_Wang)[Video](https://www.youtube.com/watch?v=EvUnnUppEZ0&t=5s), Online, 2023  
+* Oral talk at [AI2healthcare](https://ai2healthcare.github.io/) [Talk](https://ai2healthcare.github.io/news/2023/05/29/Dr.Yizhou_Wang) [Video](https://www.youtube.com/watch?v=EvUnnUppEZ0&t=5s), Online, 2023  
 
 Selected Awards 
 ======
