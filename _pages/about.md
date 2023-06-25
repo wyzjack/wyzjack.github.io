@@ -66,7 +66,7 @@ Publications
 **Journal Papers** 
 * **An unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantee**   
 Yan Yang, **Yizhou Wang** (co-first), Jiazhen Wang, Jian Sun and Zongben Xu    
-***SIAM Journal on Imaging Sciences***, 2023 (IF: 1.938)           
+***SIAM Journal on Imaging Sciences (SIIMS)***, 2023 (IF: 1.938)           
 * **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2022 (IF: 14.919)  
