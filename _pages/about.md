@@ -44,7 +44,7 @@ Working Experience
 ======
 * **SMILE Lab, NEU, Boston, U.S.**  Sep 2021-   
 Research Assistant to Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), working on anomly detection and optimization    
-* **Adobe Research, San Jose, U.S.**  May 2023 - Aug 2023   
+* **Adobe Research, San Jose, U.S.**  May 2023 - Dec 2023   
 Research Intern, mentored by Dr. [Gang Wu](https://wugangwu.github.io/), Dr. [Yu Shen](http://www.cs.umd.edu/~yushen/) and Dr. [Ruiyi Zhang](https://zhangry868.github.io/)       
 * **Mitsubishi Electric Research Laboratories (MERL), Cambridge, U.S.**  May 2022 - Sep 2022   
 Research Intern, mentored by Dr. [Kuan-Chuan Peng](https://www.merl.com/people/kpeng)        
@@ -120,7 +120,7 @@ Academic Service
 **Conference Reviewer**   
 * International Conference on Machine Learning (ICML), 2022, 2023    
 * Neural Information Processing Systems (NeurIPS), 2021, 2022, 2023     
-* International Conference on Learning Representations (ICLR), 2022      
+* International Conference on Learning Representations (ICLR), 2022, 2024          
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, 2023     
 * International Conference on Computer Vision (ICCV), 2023       
 * European Conference on Computer Vision (ECCV), 2022   
@@ -144,7 +144,7 @@ Teaching Experience
 ======
 **Teaching Assistant (TA)**
 * EECE 5642: Data Visualization, Northeastern University, Spring 2023   
-
+* DS 5230: Unsupervised Machine Learning, Northeastern University, Fall 2023   
 
 Miscellaneous
 ======     
