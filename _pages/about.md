@@ -14,7 +14,7 @@ My ultimate goal of AI related research is to reach the goal of AGI (Artificial 
 
 News
 ======    
-* 09/2023: Our papers on adaptive optimizer design and Face Forgery Detection is accepted by ICDM 2023.       
+* 09/2023: Our papers on adaptive optimizer design and face forgery detection is accepted by ICDM 2023.       
 * 05/2023: Our paper on parallel MR Imaging is accepted by [**SIAM Journal on Image Sciences**](https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims).   
 * 04/2023:  We released a [GitHub repository](https://github.com/wyzjack/Awesome-3D-AnomalyDetection) summarizing the SOTA methods and the related papers on 3D anomaly detection. Welcome to use and star!    
 * 12/2022: I successfully passed the qualifying exam and become a Ph.D. candidate.      
@@ -76,11 +76,11 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 **Conference Papers**    
 * **Concentric Ring Loss for Face Forgery Detection**   
 Yu Yin, Yue Bai, **Yizhou Wang**, and Yun Fu        
-***IEEE International Conference on Data Mining (ICDM)***, 2023       
-[[Code](https://github.com/wyzjack/AdaM3)]    
+***IEEE International Conference on Data Mining (ICDM)***, 2023         
 * **Momentum is All You Need for Data-Driven Adaptive Optimization**   
 **Yizhou Wang**, Yue Kang (co-first), Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu     
-***IEEE International Conference on Data Mining (ICDM)***, 2023
+***IEEE International Conference on Data Mining (ICDM)***, 2023     
+[[Code](https://github.com/wyzjack/AdaM3)]   
 * **Making Reconstruction-based Method Great Again for Video Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Yue Bai, Yi Xu, Xu Ma and Yun Fu    
 ***IEEE International Conference on Data Mining (ICDM)***, 2022       
