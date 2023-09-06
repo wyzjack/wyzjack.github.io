@@ -60,6 +60,9 @@ Publications
 * **Towards Explainable Visual Anomaly Detection**   
 **Yizhou Wang**, Dongliang Guo (co-first), Sheng Li and Yun Fu   
 [[arXiv](https://arxiv.org/pdf/2302.06670.pdf)]    
+* **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**   
+**Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
+[[arXiv](https://arxiv.org/pdf/2111.12896.pdf)]    
 * **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
 **Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
 [[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]   
