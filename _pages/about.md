@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research mainly focuses on anomaly detection in machine learning and deep learning. 
+I am a third-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research mainly focuses on anomaly detection in machine learning and deep learning. I am also interested in LLMs (Large Language Model) recently.
 
 My ultimate goal of AI related research is to reach the goal of AGI (Artificial General Intelligence), a.k.a., strong AI. I actually do not believe current purely deep learning driven AI research (basicly fitting data and to generalize well on certain tasks) can lead to strong AI. I believe that assistance from Biological and Neuroscience field is needed. Nevertheless, I am on my way to realize it.
 
