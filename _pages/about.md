@@ -7,14 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research mainly focuses on anomaly detection in machine learning and deep learning. I am also interested in LLMs (Large Language Model) recently.
+I am a fourth-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://web.northeastern.edu/smilelab/). My research mainly focuses on anomaly detection in machine learning and deep learning. I am also interested in Large Language Models recently.
 
 My ultimate goal of AI related research is to reach the goal of AGI (Artificial General Intelligence), a.k.a., strong AI. I actually do not believe current purely deep learning driven AI research (basicly fitting data and to generalize well on certain tasks) can lead to strong AI. I believe that assistance from Biological and Neuroscience field is needed. Nevertheless, I am on my way to realize it.
 
 
 News
 ======    
-* 09/2023: Our papers on adaptive optimizer design and face forgery detection are accepted by ICDM 2023.       
+* 09/2023: Our papers on adaptive optimizer design and face forgery detection are accepted by ICDM 2023.   
+* 08/2023: I get Master Degree in ECE from Northeastern University!        
 * 05/2023: Our paper on parallel MR Imaging is accepted by [**SIAM Journal on Image Sciences**](https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims).   
 * 04/2023:  We released a [GitHub repository](https://github.com/wyzjack/Awesome-3D-AnomalyDetection) summarizing the SOTA methods and the related papers on 3D anomaly detection. Welcome to use and star!    
 * 12/2022: I successfully passed the qualifying exam and become a Ph.D. candidate.      
@@ -28,9 +29,12 @@ News
 
 Education
 ======
-* **Northeastern University (NEU)**  2020-  
+* **Northeastern University (NEU)**  2020-   
 Ph.D. in Computer Engineering   
 Supervisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
+* **Northeastern University (NEU)**  2020-2023   
+M.S. in Elctrical Engineering    
+Concentration: Computer Vision Mach Learn&Alg    
 * **Xi'an Jiaotong University (XJTU)**  2016-2020  
 B.S. in [Mathematics and Applied Mathematics (National Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)   
 GPA: 91.17/100 (3.85/4.00)    
@@ -78,13 +82,13 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 [[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://vmportal.net/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]      
 
 **Conference Papers**    
-* **Concentric Ring Loss for Face Forgery Detection**   
-Yu Yin, Yue Bai, **Yizhou Wang**, and Yun Fu        
-***IEEE International Conference on Data Mining (ICDM)***, 2023         
 * **Momentum is All You Need for Data-Driven Adaptive Optimization**   
 **Yizhou Wang**, Yue Kang (co-first), Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu     
 ***IEEE International Conference on Data Mining (ICDM)***, 2023     
 [[Code](https://github.com/wyzjack/AdaM3)]   
+* **Concentric Ring Loss for Face Forgery Detection**   
+Yu Yin, Yue Bai, **Yizhou Wang**, and Yun Fu     
+***IEEE International Conference on Data Mining (ICDM)***, 2023         
 * **Making Reconstruction-based Method Great Again for Video Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Yue Bai, Yi Xu, Xu Ma and Yun Fu    
 ***IEEE International Conference on Data Mining (ICDM)***, 2022       
