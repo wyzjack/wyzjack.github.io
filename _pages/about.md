@@ -156,6 +156,8 @@ Academic Service
 * [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)
 * [ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD)   
 * [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)  
+* [International Journal of Fuzzy Systems](https://www.springer.com/journal/40815) (IJFS)    
+* [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) (IEEE Trans. Veh. Technol.)     
 * [IEEE Computational Intelligence Magazine](https://cis.ieee.org/publications/ci-magazine) (CIM) 
 
 Teaching Experience
