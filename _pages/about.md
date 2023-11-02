@@ -137,7 +137,7 @@ Academic Service
 * International Conference on Machine Learning (ICML), 2022, 2023    
 * Neural Information Processing Systems (NeurIPS), 2021, 2022, 2023     
 * International Conference on Learning Representations (ICLR), 2022, 2024          
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, 2023     
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, 2023, 2024       
 * International Conference on Computer Vision (ICCV), 2023       
 * European Conference on Computer Vision (ECCV), 2022   
 * SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023     
