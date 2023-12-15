@@ -61,6 +61,9 @@ Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/), 
 Publications
 ====== 
 **Preprints** 
+* **VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding**    
+**Yizhou Wang**, Ruiyi Zhang, Haoliang Wang, Uttaran Bhattacharya, Yun Fu and Gang Wu   
+[[arXiv](https://arxiv.org/pdf/2312.02310.pdf)]    
 * **Towards Explainable Visual Anomaly Detection**   
 **Yizhou Wang**, Dongliang Guo (co-first), Sheng Li and Yun Fu   
 [[arXiv](https://arxiv.org/pdf/2302.06670.pdf)]    
