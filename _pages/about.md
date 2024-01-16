@@ -85,6 +85,9 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 [[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://techxplore.com/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]      
 
 **Conference Papers**    
+* **Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition**   
+Yitian Zhang, Yue Bai, Huan Wang, **Yizhou Wang**, Yun Fu         
+***International Conference on Learning Representations (ICLR)***, 2024       
 * **Momentum is All You Need for Data-Driven Adaptive Optimization**   
 **Yizhou Wang**, Yue Kang (co-first), Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu     
 ***IEEE International Conference on Data Mining (ICDM)***, 2023     
