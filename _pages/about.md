@@ -14,6 +14,7 @@ My ultimate goal of AI related research is to reach the goal of AGI (Artificial 
 
 News
 ======    
+* 01/2024: Our paper on data augmentation for video recognition is accepted by ICLR 2024.      
 * 09/2023: Our papers on adaptive optimizer design and face forgery detection are accepted by ICDM 2023.   
 * 08/2023: I get Master Degree in ECE from Northeastern University!        
 * 05/2023: Our paper on parallel MR Imaging is accepted by [**SIAM Journal on Image Sciences**](https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims).   
