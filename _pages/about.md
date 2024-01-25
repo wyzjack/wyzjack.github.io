@@ -11,6 +11,8 @@ I am a fourth-year Ph.D. candidate in Computer Engineering at [Northeastern Unve
 
 My ultimate goal of AI related research is to reach the goal of AGI (Artificial General Intelligence), a.k.a., strong AI. I actually do not believe current purely deep learning driven AI research (basicly fitting data and to generalize well on certain tasks) can lead to strong AI. I believe that assistance from Biological and Neuroscience field is needed. Nevertheless, I am on my way to realize it.
 
+I am actively looking for 2024 summer reseach internships. Please drop me an email if you are interested.  
+
 
 News
 ======    
@@ -154,6 +156,7 @@ Academic Service
 * SIAM International Conference on Data Mining (SDM), 2024 
 * Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023      
 * IEEE International Conference on Multimedia and Expo (ICME), 2022  
+* The 17th Asian Conference on Computer Vision (ACCV), 2024   
 * ICCV Workshop on Analysis and Modeling of Faces and Gestures, 2023       
 * ECCV Workshop on Vision With Biased or Scarce Data, 2022   
 * AAAI Workshop on Artificial Intelligence with Biased or Scarse Data, 2024    
