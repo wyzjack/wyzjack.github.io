@@ -149,7 +149,7 @@ Academic Service
 * International Conference on Learning Representations (ICLR), 2022, 2024          
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, 2023, 2024       
 * International Conference on Computer Vision (ICCV), 2023       
-* European Conference on Computer Vision (ECCV), 2022, 2024    
+* European Conference on Computer Vision (ECCV), 2022, 2024  
 * SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023     
 * AAAI Conference on Artificial Intelligence (AAAI), 2023    
 * International Joint Conference on Artificial Intelligence (IJCAI), 2023, 2024       
