@@ -94,7 +94,7 @@ Yitian Zhang, Yue Bai, Huan Wang, **Yizhou Wang**, Yun Fu
 * **Momentum is All You Need for Data-Driven Adaptive Optimization**   
 **Yizhou Wang**, Yue Kang (co-first), Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu     
 ***IEEE International Conference on Data Mining (ICDM)***, 2023     
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415832)[Code](https://github.com/wyzjack/AdaM3), [Video](https://www.youtube.com/watch?v=w4_9vIBj7AI)]    
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415832), [Code](https://github.com/wyzjack/AdaM3), [Video](https://www.youtube.com/watch?v=w4_9vIBj7AI)]    
 * **Concentric Ring Loss for Face Forgery Detection**   
 Yu Yin, Yue Bai, **Yizhou Wang**, and Yun Fu     
 ***IEEE International Conference on Data Mining (ICDM)***, 2023    
