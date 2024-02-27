@@ -14,6 +14,7 @@ My ultimate goal of AI related research is to reach the goal of AGI (Artificial 
 
 News
 ======    
+* 02/2024: Our paper on foundamental DNN network design is accepted by CVPR 2024.    
 * 01/2024: Our paper on data augmentation for video recognition is accepted by ICLR 2024.      
 * 09/2023: Our papers on adaptive optimizer design and face forgery detection are accepted by ICDM 2023.   
 * 08/2023: I get Master Degree in ECE from Northeastern University!        
@@ -86,6 +87,9 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 [[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://techxplore.com/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]      
 
 **Conference Papers**    
+* **Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition**   
+Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang**, Yun Fu         
+***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2024       
 * **Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition**   
 Yitian Zhang, Yue Bai, Huan Wang, **Yizhou Wang**, Yun Fu         
 ***International Conference on Learning Representations (ICLR)***, 2024       
