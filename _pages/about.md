@@ -87,7 +87,7 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 [[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://techxplore.com/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]      
 
 **Conference Papers**    
-* **Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition**   
+* **Rewrite the stars**   
 Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang**, Yun Fu         
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2024       
 * **Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition**   
