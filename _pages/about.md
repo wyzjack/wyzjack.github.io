@@ -160,6 +160,7 @@ Academic Service
 * Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023      
 * IEEE International Conference on Multimedia and Expo (ICME), 2022  
 * The 17th Asian Conference on Computer Vision (ACCV), 2024   
+* CVPR Workshop on Multimodal Algorithmic Reasoning. 2024    
 * ICCV Workshop on Analysis and Modeling of Faces and Gestures, 2023       
 * ECCV Workshop on Vision With Biased or Scarce Data, 2022   
 * AAAI Workshop on Artificial Intelligence with Biased or Scarse Data, 2024    
