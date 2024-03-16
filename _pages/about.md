@@ -66,11 +66,13 @@ Publications
 * **VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding**    
 **Yizhou Wang**, Ruiyi Zhang, Haoliang Wang, Uttaran Bhattacharya, Yun Fu and Gang Wu   
 [[arXiv](https://arxiv.org/pdf/2312.02310.pdf)]    
-* **Towards Explainable Visual Anomaly Detection**   
-**Yizhou Wang**, Dongliang Guo (co-first), Sheng Li and Yun Fu   
+* **Explainable Anomaly Detection in Images and Videos: A Survey**   
+**Yizhou Wang**, Dongliang Guo (co-first), Sheng Li, Octavia Campus, and Yun Fu   
+Under review at ***IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*** (IF: 24.314)   
 [[arXiv](https://arxiv.org/pdf/2302.06670.pdf)]    
 * **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
+Major revision at ***IEEE Transactions on Knowledge and Data Engineering (TKDE)*** (IF: 8.9)    
 [[arXiv](https://arxiv.org/pdf/2111.12896.pdf)]    
 * **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
 **Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
@@ -92,7 +94,8 @@ Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang**, Yun Fu
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2024       
 * **Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition**   
 Yitian Zhang, Yue Bai, Huan Wang, **Yizhou Wang**, Yun Fu         
-***International Conference on Learning Representations (ICLR)***, 2024       
+***International Conference on Learning Representations (ICLR)***, 2024     
+[[Paper](https://openreview.net/pdf?id=RIcYTbpO38), [Code](https://github.com/BeSpontaneous/MCA-pytorch)]   
 * **Momentum is All You Need for Data-Driven Adaptive Optimization**   
 **Yizhou Wang**, Yue Kang (co-first), Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu     
 ***IEEE International Conference on Data Mining (ICDM)***, 2023     
