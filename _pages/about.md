@@ -14,7 +14,7 @@ My ultimate goal of AI related research is to reach the goal of AGI (Artificial 
 
 News
 ======    
-* 03/2024: We released a [GitHub repository](https://github.com/wyzjack/Awesome-XAD) on [Explainable Anomaly Detection in Images and Videos: A Survey](https://github.com/wyzjack/Awesome-XAD). Welcome to use and star! 
+* 03/2024: We released a [GitHub repository](https://github.com/wyzjack/Awesome-XAD) on [Explainable Anomaly Detection in Images and Videos: A Survey](https://arxiv.org/pdf/2302.06670.pdf). Welcome to use and star! 
 * 02/2024: Our paper on fundamental DNN network design is accepted by CVPR 2024.    
 * 01/2024: Our paper on data augmentation for video recognition is accepted by ICLR 2024.      
 * 09/2023: Our papers on adaptive optimizer design and face forgery detection are accepted by ICDM 2023.   
