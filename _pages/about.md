@@ -139,7 +139,8 @@ Selected Presentations
 
 Selected Awards 
 ======
-* IEEE ICDM 2022 Student Travel Award, 2022    
+* SDM Doctoral Forum Travel Award, 2024    
+* IEEE ICDM Student Travel Award, 2022    
 * SIGIR Student Travel Grant, 2022   
 * Dean's Fellowship of Northeastern University, 2020
 * Outstanding graduate of XJTU, 2020
@@ -150,6 +151,10 @@ Selected Awards
 
 Academic Service
 ======
+
+**Conference Session Chair**   
+* SIAM International Conference on Data Mining (SDM), 2024: Session 10 (Text, Web, Social Media)    
+
 **Conference Reviewer**   
 * International Conference on Machine Learning (ICML), 2022, 2023, 2024     
 * Neural Information Processing Systems (NeurIPS), 2021, 2022, 2023     
@@ -169,8 +174,6 @@ Academic Service
 * ICCV Workshop on Analysis and Modeling of Faces and Gestures, 2023       
 * ECCV Workshop on Vision With Biased or Scarce Data, 2022   
 * AAAI Workshop on Artificial Intelligence with Biased or Scarse Data, 2024    
-
-
 
 **Journal Reviewer**  
 * [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)
