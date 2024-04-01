@@ -93,6 +93,7 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 * **Rewrite the stars**   
 Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang**, Yun Fu         
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2024       
+[[Paper](https://arxiv.org/abs/2403.19967), [Code](https://github.com/ma-xu/Rewrite-the-Stars)]   
 * **Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition**   
 Yitian Zhang, Yue Bai, Huan Wang, **Yizhou Wang**, Yun Fu         
 ***International Conference on Learning Representations (ICLR)***, 2024     
