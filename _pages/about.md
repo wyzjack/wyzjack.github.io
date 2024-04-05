@@ -69,8 +69,7 @@ Publications
 **Yizhou Wang**, Ruiyi Zhang, Haoliang Wang, Uttaran Bhattacharya, Yun Fu and Gang Wu   
 [[arXiv](https://arxiv.org/pdf/2312.02310.pdf)]    
 * **Explainable Anomaly Detection in Images and Videos: A Survey**   
-**Yizhou Wang**, Dongliang Guo (co-first), Sheng Li, Octavia Campus, and Yun Fu   
-Under review at ***IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*** (IF: 24.314)   
+**Yizhou Wang**, Dongliang Guo (co-first), Sheng Li, Octavia Campus, and Yun Fu      
 [[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
 * **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
