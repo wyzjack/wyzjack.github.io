@@ -14,6 +14,7 @@ My ultimate goal of AI related research is to reach the goal of AGI (Artificial 
 
 News
 ======    
+* 04/2024: Kuan-Chuan Peng and I are organizing [the Workshop on Anomaly Detection with Foundation Models in conjunction with IJCAI 2024](https://adfmw.github.io/ijcai24/index.html)! Please consider submitting your relevant works and join us.    
 * 03/2024: We released a [GitHub repository](https://github.com/wyzjack/Awesome-XAD) on [Explainable Anomaly Detection in Images and Videos: A Survey](https://arxiv.org/pdf/2302.06670.pdf). Welcome to use and star! 
 * 02/2024: Our paper on fundamental DNN network design is accepted by CVPR 2024.    
 * 01/2024: Our paper on data augmentation for video recognition is accepted by ICLR 2024.      
@@ -155,6 +156,9 @@ Academic Service
 
 **Conference Session Chair**   
 * SIAM International Conference on Data Mining (SDM), 2024: Session 10 (Text, Web, Social Media)    
+
+**Workshop Organization**   
+* [the Workshop on Anomaly Detection with Foundation Models in conjunction with IJCAI 2024](https://adfmw.github.io/ijcai24/index.html)   
 
 **Conference Reviewer**   
 * International Conference on Machine Learning (ICML), 2022, 2023, 2024     
