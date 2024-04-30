@@ -14,7 +14,7 @@ My ultimate goal of AI related research is to reach the goal of AGI (Artificial 
 
 News
 ======    
-* 04/2024: Kuan-Chuan Peng and I are organizing [the Workshop on Anomaly Detection with Foundation Models in conjunction with IJCAI 2024](https://adfmw.github.io/ijcai24/index.html)! Please consider submitting your relevant works and join us.    
+* 04/2024: Prof. [Ziyue Li](https://bonaldli.github.io/), Dr. [Kuan-Chuan Peng](https://www.merl.com/people/kpeng) and I are organizing [the Workshop on Anomaly Detection with Foundation Models in conjunction with IJCAI 2024](https://adfmw.github.io/ijcai24/index.html)! Please consider submitting your relevant works and join us. The submission deadline has been extended to May 10.       
 * 03/2024: We released a [GitHub repository](https://github.com/wyzjack/Awesome-XAD) on [Explainable Anomaly Detection in Images and Videos: A Survey](https://arxiv.org/pdf/2302.06670.pdf). Welcome to use and star! 
 * 02/2024: Our paper on fundamental DNN network design is accepted by CVPR 2024.    
 * 01/2024: Our paper on data augmentation for video recognition is accepted by ICLR 2024.      
