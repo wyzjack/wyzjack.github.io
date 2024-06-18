@@ -51,8 +51,10 @@ International Undergraduate Summer Enrichment Program in Mathematics
 
 Working Experience
 ======
-* **SMILE Lab, NEU, Boston, U.S.**  Sep 2021-   
+* **SMILE Lab, NEU, Boston, U.S.**  Sep 2021- Now  
 Research Assistant to Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), working on anomly detection and optimization    
+* **Adobe Research, San Jose, U.S.**  May 2024 - Now   
+AI/ML Intern - GenAI Research, mentored by Dr. [Lingzhi Zhang](https://owenzlz.github.io/), Dr. [Sohrab Amirghodsi](https://scholar.google.com/citations?user=aFrtZOIAAAAJ&hl=en), Dr. [Yuqian Zhou](https://yzhouas.github.io/), Dr. [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), Dr. [Connelly Barnes](https://www.connellybarnes.com/work/), Dr. [Zhe Lin](https://sites.google.com/site/zhelin625/), Dr. [Mang tik Chiu](https://scholar.google.com/citations?user=TZMDZPwAAAAJ&hl=en), Dr. [Qing Liu](https://qliu24.github.io/)   
 * **Adobe Research, San Jose, U.S.**  May 2023 - Dec 2023   
 Research Intern, mentored by Dr. [Gang Wu](https://wugangwu.github.io/), Dr. [Ruiyi Zhang](https://zhangry868.github.io/) and Dr. [Haoliang Wang](https://research.adobe.com/person/haoliang-wang/)       
 * **Mitsubishi Electric Research Laboratories (MERL), Cambridge, U.S.**  May 2022 - Sep 2022   
