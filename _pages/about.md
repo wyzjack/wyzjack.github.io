@@ -182,7 +182,7 @@ Academic Service
 * AAAI Workshop on Artificial Intelligence with Biased or Scarse Data, 2024    
 
 **Journal Reviewer**  
-* [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)
+* [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)   
 * [International Journal of Computer Vision](https://link.springer.com/journal/11263) (IJCV)    
 * [ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD)   
 * [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)  
