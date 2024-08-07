@@ -73,15 +73,15 @@ Publications
 * **Explainable Anomaly Detection in Images and Videos: A Survey**   
 **Yizhou Wang**, Dongliang Guo (co-first), Sheng Li, Octavia Campus, and Yun Fu      
 [[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
-* **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**   
-**Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
-Major revision at ***IEEE Transactions on Knowledge and Data Engineering (TKDE)*** (IF: 8.9)    
-[[arXiv](https://arxiv.org/pdf/2111.12896.pdf)]    
 * **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
 **Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
 [[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]   
 
 **Journal Papers** 
+* **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**   
+**Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
+***IEEE Transactions on Knowledge and Data Engineering (TKDE)*** (IF: 8.9)    
+[[arXiv](https://arxiv.org/pdf/2111.12896.pdf)]    
 * **An unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantee**   
 Yan Yang, **Yizhou Wang** (co-first), Jiazhen Wang, Jian Sun and Zongben Xu    
 ***SIAM Journal on Imaging Sciences (SIIMS)***, 2023 (IF: 1.938)
