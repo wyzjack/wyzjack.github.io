@@ -12,26 +12,6 @@ I am a fourth-year Ph.D. candidate in Computer Engineering at [Northeastern Unve
 My ultimate goal of AI related research is to reach the goal of AGI (Artificial General Intelligence), a.k.a., strong AI. 
 
 
-News
-======    
-* 08/2024: Our paper on unsupervised anomaly detection is accepted by TKDE.      
-* 04/2024: Prof. [Ziyue Li](https://bonaldli.github.io/), Dr. [Kuan-Chuan Peng](https://www.merl.com/people/kpeng) and I are organizing [the Workshop on Anomaly Detection with Foundation Models in conjunction with IJCAI 2024](https://adfmw.github.io/ijcai24/index.html)! Please consider submitting your relevant works and join us. The submission deadline has been extended to May 10.       
-* 03/2024: We released a [GitHub repository](https://github.com/wyzjack/Awesome-XAD) on [Explainable Anomaly Detection in Images and Videos: A Survey](https://arxiv.org/pdf/2302.06670.pdf). Welcome to use and star! 
-* 02/2024: Our paper on fundamental DNN network design is accepted by CVPR 2024.    
-* 01/2024: Our paper on data augmentation for video recognition is accepted by ICLR 2024.      
-* 09/2023: Our papers on adaptive optimizer design and face forgery detection are accepted by ICDM 2023.   
-* 08/2023: I get Master Degree in ECE from Northeastern University!        
-* 05/2023: Our paper on parallel MR Imaging is accepted by [**SIAM Journal on Image Sciences**](https://www.siam.org/publications/journals/siam-journal-on-imaging-sciences-siims).   
-* 04/2023:  We released a [GitHub repository](https://github.com/wyzjack/Awesome-3D-AnomalyDetection) summarizing the SOTA methods and the related papers on 3D anomaly detection. Welcome to use and star!    
-* 12/2022: I successfully passed the qualifying exam and become a Ph.D. candidate.      
-* 08/2022: Our paper on video anomaly detection is accepted by ICDM 2022.          
-* 08/2022: Our papers on unsupervised anomaly detection and semi-supervised domain adaptation are accepted by CIKM 2022.    
-* 04/2022: Our paper on cross-domain few-shot learning is accepted by IJCAI 2022.    
-* 03/2022: Our paper on trajectory prediction is accepted by CVPR 2022.   
-* 12/2021: Our paper on gradient-free topology optimization is accepted by [**Nature Communications**](https://www.nature.com/ncomms/).   
-* 09/2021: Start the journey at NEU, Boston, MA, after one-year remote study (due to Covid-19 and travel ban).   
-
-
 Education
 ======
 * **Northeastern University (NEU)**  2020-   
