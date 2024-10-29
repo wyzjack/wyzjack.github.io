@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://fulab.sites.northeastern.edu/). My research mainly focuses on anomaly detection in machine learning and deep learning. I am also interested in Large Language Models recently.
+I am a 5th-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://fulab.sites.northeastern.edu/). My research mainly focuses on LLM, Multimodal LLM and anomaly detection
 
-My ultimate goal of AI related research is to reach the goal of AGI (Artificial General Intelligence), a.k.a., strong AI. 
+My ultimate goal of AI related research is to reach AI consciousness safely, which might help human beings escape the earth and explore the universe.
 
 
 Education
@@ -56,23 +56,12 @@ Publications
 [[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
 * **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
 **Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
-[[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]   
+[[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]    
 
-**Journal Papers** 
-* **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**   
-**Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
-***IEEE Transactions on Knowledge and Data Engineering (TKDE)*** (IF: 8.9)    
-[[arXiv](https://arxiv.org/pdf/2111.12896.pdf)]    
-* **An unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantee**   
-Yan Yang, **Yizhou Wang** (co-first), Jiazhen Wang, Jian Sun and Zongben Xu    
-***SIAM Journal on Imaging Sciences (SIIMS)***, 2023 (IF: 1.938)
-[[Paper](https://epubs.siam.org/doi/epdf/10.1137/22M1502094)]               
-* **Self-Directed Online Machine Learning for Topology Optimization**   
-Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
-***Nature Communications (NC)***, 2022 (IF: 14.919)   
-[[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://techxplore.com/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]      
-
-**Conference Papers**    
+**Conference Papers**  
+* **Towards Zero-shot 3D Anomaly Localization**   
+**Yizhou Wang**, Kuan-Chuan Peng, Yun Fu         
+***IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)***, 2025        
 * **Rewrite the stars**   
 Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang**, Yun Fu         
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2024       
@@ -115,6 +104,21 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
 ***NeurIPS 2019 Optimization Foundations for Reinforcement Learning Workshop (Spotlight)***   
 [[arXiv](https://arxiv.org/pdf/2001.02792.pdf)]   
 
+
+**Journal Papers** 
+* **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**   
+**Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
+***IEEE Transactions on Knowledge and Data Engineering (TKDE)*** (IF: 8.9)    
+[[arXiv](https://arxiv.org/pdf/2111.12896.pdf)]    
+* **An unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantee**   
+Yan Yang, **Yizhou Wang** (co-first), Jiazhen Wang, Jian Sun and Zongben Xu    
+***SIAM Journal on Imaging Sciences (SIIMS)***, 2023 (IF: 1.938)
+[[Paper](https://epubs.siam.org/doi/epdf/10.1137/22M1502094)]               
+* **Self-Directed Online Machine Learning for Topology Optimization**   
+Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
+***Nature Communications (NC)***, 2022 (IF: 14.919)   
+[[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://techxplore.com/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]     
+
 Selected Presentations    
 ======
 * Oral report at [CAS SIAM](http://lsec.cc.ac.cn/~siamstuc/index.html), Online, 2023  
@@ -143,19 +147,20 @@ Academic Service
 * [the Workshop on Anomaly Detection with Foundation Models in conjunction with IJCAI 2024](https://adfmw.github.io/ijcai24/index.html)   
 
 **Conference Reviewer**   
-* International Conference on Machine Learning (ICML), 2022, 2023, 2024     
-* Neural Information Processing Systems (NeurIPS), 2021, 2022, 2023     
-* International Conference on Learning Representations (ICLR), 2022, 2024, 2025               
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022, 2023, 2024       
-* International Conference on Computer Vision (ICCV), 2023       
-* European Conference on Computer Vision (ECCV), 2022, 2024   
-* SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023     
-* AAAI Conference on Artificial Intelligence (AAAI), 2023    
-* International Joint Conference on Artificial Intelligence (IJCAI), 2023, 2024       
-* SIAM International Conference on Data Mining (SDM), 2024 
-* Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023      
-* IEEE International Conference on Multimedia and Expo (ICME), 2022  
-* The 17th Asian Conference on Computer Vision (ACCV), 2024   
+* ICML 2022, 2023, 2024     
+* NeurIPS 2021, 2022, 2023     
+* ICLR 2022, 2024, 2025               
+* CVPR 2022, 2023, 2024       
+* ICCV 2023       
+* ECCV 2022, 2024   
+* KDD 2023     
+* AISTATS 2025
+* AAAI 2023    
+* IJCAI 2023, 2024       
+* SDM 2024 
+* PAKDD 2023      
+* ICME 2022  
+* ACCV 2024   
 * ECCV Workshop on Unlearning and Model Editing, 2024   
 * CVPR Workshop on Fair, Data-efficient, and Trusted Computer Vision, 2024      
 * CVPR Workshop on Multimodal Algorithmic Reasoning, 2024    
@@ -175,13 +180,9 @@ Academic Service
 Teaching Experience
 ======
 **Teaching Assistant (TA)**
+* EECE 7398 ST: Advances in Deep Learning, Fall 2024   
 * EECE 5642: Data Visualization, Northeastern University, Spring 2023 and Spring 2024    
 * DS 5230: Unsupervised Machine Learning, Northeastern University, Fall 2023   
-
-Miscellaneous
-======     
-* I am a sports fan. I like basketball (I can [dunk 2.95m basketball hoop](https://www.youtube.com/watch?v=0DisiCS1Rww)), soccer, badminton, table tennis and Go chess (I am Amateur 2 Dan). My favorite basketball players are Lebron James and Luka Doncic. My favorite soccer player is Lionel Messi. **If you want to play basketball with me, contact me via email or WeChat (see Contact section below)**. My lab colleagues and I usually play at the second floor of [Marino Recreation Center](https://www.google.com/maps/place/Marino+Recreation+Center/@42.3401825,-71.092249,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a18c400467f:0xdb4ad70af6e7d61!8m2!3d42.3401919!4d-71.0900511).          
-* I am a music fan. I love listening to Hiphop. My favorite rappers are 8aceMak1r (a.k.a. PG One) and Post Malone (if he is). I also like singing songs when I have time. [Here](https://static-play.kg.qq.com/node/personal?uid=639c9984272d348e&shareUid=639c9984272d348e&chain_share_id=tWOUPJ-mqo1xs8pd31NPft6aiOPRvemjZB2yD6MVJNs&pageId=homepage_me) is my “We Sing” (全民K歌) account where I record my singings. I am actually pretty good at singing as I can easily get SSS scores on "We Sing".
 
 
 Contact
