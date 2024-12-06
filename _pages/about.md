@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 5th-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://fulab.sites.northeastern.edu/). My research mainly focuses on LLM, Multimodal LLM and anomaly detection
+I am a 5th-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://fulab.sites.northeastern.edu/). My research mainly focuses on LLM, Multimodal LLM and anomaly detection.  
 
 My ultimate goal of AI related research is to reach AI consciousness safely, which might help human beings escape the earth and explore the universe.
 
@@ -61,7 +61,8 @@ Publications
 **Conference Papers**  
 * **Towards Zero-shot 3D Anomaly Localization**   
 **Yizhou Wang**, Kuan-Chuan Peng, Yun Fu         
-***IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)***, 2025        
+***IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)***, 2025    
+[[arXiv](https://arxiv.org/pdf/2412.04304), [Project Page]]    
 * **Rewrite the stars**   
 Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang**, Yun Fu         
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2024       
@@ -108,15 +109,15 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
 **Journal Papers** 
 * **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
-***IEEE Transactions on Knowledge and Data Engineering (TKDE)*** (IF: 8.9)    
-[[arXiv](https://arxiv.org/pdf/2111.12896.pdf)]    
+***IEEE Transactions on Knowledge and Data Engineering (TKDE)***   
+[[Paper](https://ieeexplore.ieee.org/document/10645289), [Code]]    
 * **An unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantee**   
 Yan Yang, **Yizhou Wang** (co-first), Jiazhen Wang, Jian Sun and Zongben Xu    
-***SIAM Journal on Imaging Sciences (SIIMS)***, 2023 (IF: 1.938)
+***SIAM Journal on Imaging Sciences (SIIMS)***, 2023   
 [[Paper](https://epubs.siam.org/doi/epdf/10.1137/22M1502094)]               
 * **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
-***Nature Communications (NC)***, 2022 (IF: 14.919)   
+***Nature Communications (NC)***, 2022   
 [[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://techxplore.com/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]     
 
 Selected Presentations    
@@ -150,7 +151,7 @@ Academic Service
 * ICML 2022, 2023, 2024     
 * NeurIPS 2021, 2022, 2023     
 * ICLR 2022, 2024, 2025               
-* CVPR 2022, 2023, 2024       
+* CVPR 2022, 2023, 2024, 2025       
 * ICCV 2023       
 * ECCV 2022, 2024   
 * KDD 2023     
@@ -166,12 +167,14 @@ Academic Service
 * CVPR Workshop on Multimodal Algorithmic Reasoning, 2024    
 * ICCV Workshop on Analysis and Modeling of Faces and Gestures, 2023       
 * ECCV Workshop on Vision With Biased or Scarce Data, 2022   
+* AAAI Workshop on Scalable and Efficient Artificial Intelligence Systems, 2025    
 * AAAI Workshop on Artificial Intelligence with Biased or Scarse Data, 2024    
 
 **Journal Reviewer**  
 * [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)   
 * [International Journal of Computer Vision](https://link.springer.com/journal/11263) (IJCV)    
 * [ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD)   
+* [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) (IoT)    
 * [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)  
 * [International Journal of Fuzzy Systems](https://www.springer.com/journal/40815) (IJFS)    
 * [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) (IEEE Trans. Veh. Technol.)     
