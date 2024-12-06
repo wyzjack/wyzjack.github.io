@@ -62,7 +62,7 @@ Publications
 * **Towards Zero-shot 3D Anomaly Localization**   
 **Yizhou Wang**, Kuan-Chuan Peng, Yun Fu         
 ***IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)***, 2025    
-[[arXiv](https://arxiv.org/pdf/2412.04304), [Project Page]]    
+[[arXiv](https://arxiv.org/pdf/2412.04304), [Project Page]()to]    
 * **Rewrite the stars**   
 Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang**, Yun Fu         
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2024       
@@ -110,7 +110,7 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
 * **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***IEEE Transactions on Knowledge and Data Engineering (TKDE)***   
-[[Paper](https://ieeexplore.ieee.org/document/10645289), [Code]]    
+[[Paper](https://ieeexplore.ieee.org/document/10645289), [Code]()]    
 * **An unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantee**   
 Yan Yang, **Yizhou Wang** (co-first), Jiazhen Wang, Jian Sun and Zongben Xu    
 ***SIAM Journal on Imaging Sciences (SIIMS)***, 2023   
