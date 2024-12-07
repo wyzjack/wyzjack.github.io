@@ -62,7 +62,7 @@ Publications
 * **Towards Zero-shot 3D Anomaly Localization**   
 **Yizhou Wang**, Kuan-Chuan Peng, Yun Fu         
 ***IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)***, 2025    
-[[arXiv](https://arxiv.org/pdf/2412.04304), [Project Page]()]    
+[[arXiv](https://arxiv.org/pdf/2412.04304), [Project Page](https://wyzjack.github.io/3DzAL/)]    
 * **Rewrite the stars**   
 Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang**, Yun Fu         
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2024       
