@@ -86,7 +86,7 @@ Yu Yin, Yue Bai, **Yizhou Wang**, and Yun Fu
 * **Self-supervision Meets Adversarial Perturbation: A Novel Framework for Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557697), [Code](https://github.com/wyzjack/SLA2P)]   
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557697), [Code](https://github.com/wyzjack/SLA2P/tree/CIKM-2022)]   
 * **Robust Semi-supervised Domain Adaptation against Noisy Labels**   
 Can Qin, **Yizhou Wang** and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022    
@@ -110,7 +110,7 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
 * **SLA$^2$P: Self-supervised Anomaly Detection with Adversarial Perturbation**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***IEEE Transactions on Knowledge and Data Engineering (TKDE)***   
-[[Paper](https://ieeexplore.ieee.org/document/10645289), [Code]()]    
+[[Paper](https://ieeexplore.ieee.org/document/10645289), [Code](https://github.com/wyzjack/SLA2P)]    
 * **An unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantee**   
 Yan Yang, **Yizhou Wang** (co-first), Jiazhen Wang, Jian Sun and Zongben Xu    
 ***SIAM Journal on Imaging Sciences (SIIMS)***, 2023   
@@ -157,7 +157,7 @@ Academic Service
 * KDD 2023     
 * AISTATS 2025
 * AAAI 2023    
-* IJCAI 2023, 2024       
+* IJCAI 2023, 2024          
 * SDM 2024 
 * PAKDD 2023      
 * ICME 2022  
