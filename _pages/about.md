@@ -48,6 +48,9 @@ Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/), 
 Publications
 ====== 
 **Preprints** 
+* **Efficient Reasoning with Hidden Thinking**    
+Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu   
+[[arXiv](https://arxiv.org/pdf/2501.19201), [Code](https://github.com/shawnricecake/Heima)]    
 * **VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding**    
 **Yizhou Wang**, Ruiyi Zhang, Haoliang Wang, Uttaran Bhattacharya, Yun Fu and Gang Wu   
 [[arXiv](https://arxiv.org/pdf/2312.02310.pdf)]    
@@ -61,7 +64,7 @@ Publications
 **Conference Papers**  
 * **Towards Zero-shot 3D Anomaly Localization**   
 **Yizhou Wang**, Kuan-Chuan Peng, Yun Fu         
-***IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)***, 2025    
+***IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)***, 2025 (oral)    
 [[arXiv](https://arxiv.org/pdf/2412.04304), [Project](https://wyzjack.github.io/3DzAL/)]    
 * **Rewrite the stars**   
 Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang**, Yun Fu         
