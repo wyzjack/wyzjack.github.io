@@ -64,7 +64,7 @@ Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu
 **Conference Papers**  
 * **Towards Zero-shot 3D Anomaly Localization**   
 **Yizhou Wang**, Kuan-Chuan Peng, Yun Fu         
-***IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)***, 2025 (oral)    
+***(Oral) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)***, 2025    
 [[arXiv](https://arxiv.org/pdf/2412.04304), [Project](https://wyzjack.github.io/3DzAL/)]    
 * **Rewrite the stars**   
 Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang**, Yun Fu         
@@ -105,7 +105,7 @@ Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020   
-***NeurIPS 2019 Optimization Foundations for Reinforcement Learning Workshop (Spotlight)***   
+***(Spotlight) NeurIPS 2019 Optimization Foundations for Reinforcement Learning Workshop***   
 [[arXiv](https://arxiv.org/pdf/2001.02792.pdf)]   
 
 
@@ -121,7 +121,17 @@ Yan Yang, **Yizhou Wang** (co-first), Jiazhen Wang, Jian Sun and Zongben Xu
 * **Self-Directed Online Machine Learning for Topology Optimization**   
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2022   
-[[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://techxplore.com/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]     
+[[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://techxplore.com/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]  
+
+**Book Chapter** 
+* **Human Activity Recognition and Anomaly Detection---4th International Workshop, DL-HAR 2024, and First International Workshop, ADFM 2024, Held in Conjunction with IJCAI 2024, Jeju, South Korea, August 3–9, 2024, Revised Selected Papers**
+Kuan-Chuan Peng, **Yizhou Wang**, Ziyue Li, Zhenghua Chen, Jianfei Yang, Sungho Suh, Min Wu     
+Part of the book series: Communications in Computer and Information Science (CCIS, volume 2201)   
+Included in the following conference series:   
+IJCAI: International Joint Conference on Artificial Intelligence   
+Conference proceedings info: IJCAI 2024.    
+[[Book](https://link.springer.com/book/10.1007/978-981-97-9003-6)]
+
 
 Selected Presentations    
 ======
@@ -151,11 +161,11 @@ Academic Service
 * [the Workshop on Anomaly Detection with Foundation Models in conjunction with IJCAI 2024](https://adfmw.github.io/ijcai24/index.html)   
 
 **Conference Reviewer**   
-* ICML 2022, 2023, 2024     
-* NeurIPS 2021, 2022, 2023     
+* ICML 2022, 2023, 2024, 2025     
+* NeurIPS 2021, 2022, 2023, 2024, 2025      
 * ICLR 2022, 2024, 2025               
 * CVPR 2022, 2023, 2024, 2025       
-* ICCV 2023       
+* ICCV 2023, 2025       
 * ECCV 2022, 2024   
 * KDD 2023     
 * AISTATS 2025
@@ -176,6 +186,7 @@ Academic Service
 **Journal Reviewer**  
 * [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)   
 * [International Journal of Computer Vision](https://link.springer.com/journal/11263) (IJCV)    
+* [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) (PR)    
 * [ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD)   
 * [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) (IoT)    
 * [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)  
