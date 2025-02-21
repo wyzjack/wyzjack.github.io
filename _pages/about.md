@@ -124,12 +124,12 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 [[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://techxplore.com/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]  
 
 **Book Chapter** 
-* **Human Activity Recognition and Anomaly Detection---4th International Workshop, DL-HAR 2024, and First International Workshop, ADFM 2024, Held in Conjunction with IJCAI 2024, Jeju, South Korea, August 3–9, 2024, Revised Selected Papers**
+* **Human Activity Recognition and Anomaly Detection---4th International Workshop, DL-HAR 2024, and First International Workshop, ADFM 2024, Held in Conjunction with IJCAI 2024, Jeju, South Korea, August 3–9, 2024, Revised Selected Papers**    
 Kuan-Chuan Peng, **Yizhou Wang**, Ziyue Li, Zhenghua Chen, Jianfei Yang, Sungho Suh, Min Wu     
-Part of the book series: Communications in Computer and Information Science (CCIS, volume 2201)   
-Included in the following conference series:   
-IJCAI: International Joint Conference on Artificial Intelligence   
-Conference proceedings info: IJCAI 2024.    
+***Part of the book series: Communications in Computer and Information Science (CCIS, volume 2201)***   
+***Included in the following conference series:***   
+***IJCAI: International Joint Conference on Artificial Intelligence***   
+***Conference proceedings info: IJCAI 2024.***    
 [[Book](https://link.springer.com/book/10.1007/978-981-97-9003-6)]
 
 
