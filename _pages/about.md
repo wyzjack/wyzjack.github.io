@@ -65,7 +65,7 @@ Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu
 * **Towards Zero-shot 3D Anomaly Localization**   
 **Yizhou Wang**, Kuan-Chuan Peng, Yun Fu         
 ***(Oral, top 8%) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)***, 2025    
-[[Paper](https://arxiv.org/pdf/2412.04304), [Project](https://wyzjack.github.io/3DzAL/)], [Video](https://youtu.be/GAoRO-hOvuw)         
+[[Paper](https://arxiv.org/pdf/2412.04304), [Project](https://wyzjack.github.io/3DzAL/), [Video](https://youtu.be/GAoRO-hOvuw)]         
 * **Rewrite the stars**   
 Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang**, Yun Fu         
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2024       
