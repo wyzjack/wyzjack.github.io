@@ -175,10 +175,10 @@ Academic Service
 * PAKDD 2023      
 * ICME 2022  
 * ACCV 2024   
-* ECCV Workshop on Unlearning and Model Editing, 2024   
-* CVPR Workshop on Fair, Data-efficient, and Trusted Computer Vision, 2024      
-* CVPR Workshop on Multimodal Algorithmic Reasoning, 2024    
-* ICCV Workshop on Analysis and Modeling of Faces and Gestures, 2023       
+* CVPR Workshop on Fair, Data-efficient, and Trusted Computer Vision, 2024, 2025          
+* CVPR Workshop on Multimodal Algorithmic Reasoning, 2024     
+* ICCV Workshop on Analysis and Modeling of Faces and Gestures, 2023   
+* ECCV Workshop on Unlearning and Model Editing, 2024       
 * ECCV Workshop on Vision With Biased or Scarce Data, 2022   
 * AAAI Workshop on Scalable and Efficient Artificial Intelligence Systems, 2025    
 * AAAI Workshop on Artificial Intelligence with Biased or Scarse Data, 2024    
@@ -186,6 +186,7 @@ Academic Service
 **Journal Reviewer**  
 * [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)   
 * [International Journal of Computer Vision](https://link.springer.com/journal/11263) (IJCV)    
+* [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS)    
 * [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) (PR)    
 * [ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD)   
 * [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) (IoT)    
