@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 5th-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://fulab.sites.northeastern.edu/). My research mainly focuses on LLM, Multimodal LLM and anomaly detection.  **All my first-authored papers on applied AI are open-sourced except for the ones within internship companies, some of which the code can not be released due to company policies.**
+I am a 5th-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://fulab.sites.northeastern.edu/). My research mainly focuses on LLM, Multimodal LLM and anomaly detection.  **All my first-authored papers on applied AI are open-sourced except for some of the ones within internship companies, which code can not be released due to company policies.**
 
 My ultimate goal of AI related research is to reach AI consciousness safely, which might help human beings escape the earth and explore the universe.
 
