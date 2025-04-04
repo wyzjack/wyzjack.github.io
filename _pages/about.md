@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 5th-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://fulab.sites.northeastern.edu/). My research mainly focuses on LLM, Multimodal LLM and anomaly detection.  
+I am a 5th-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://fulab.sites.northeastern.edu/). My research mainly focuses on LLM, Multimodal LLM and anomaly detection.  **All my first-authored papers on applied AI are open-sourced except for the ones within internship companies, some of which can not be released due to company policies.**
 
 My ultimate goal of AI related research is to reach AI consciousness safely, which might help human beings escape the earth and explore the universe.
 
@@ -45,9 +45,12 @@ Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun), worki
 * **FLASH Lab, GaTech, Atlanta, U.S.**  Jan 2019 - May 2019    
 Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/), working on generative adversarial imitation learning     
 
-Publications
+Selected Publications (Full list can be found on my [Google Scholar](https://scholar.google.com/citations?user=H4kqV1MAAAAJ&hl=en))
 ====== 
 **Preprints** 
+* **Boosting Large Language Models with Mask Fine-Tuning**    
+Mingyuan Zhang, Yue Bai, Huan Wang, **Yizhou Wang**, Qihua Dong, Yun Fu    
+[[arXiv](https://www.arxiv.org/pdf/2503.22764), [Code](https://github.com/Ming-K9/MFT)]  
 * **Efficient Reasoning with Hidden Thinking**    
 Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu   
 [[arXiv](https://arxiv.org/pdf/2501.19201), [Code](https://github.com/shawnricecake/Heima)]    
@@ -77,11 +80,7 @@ Yitian Zhang, Yue Bai, Huan Wang, **Yizhou Wang**, Yun Fu
 * **Momentum is All You Need for Data-Driven Adaptive Optimization**   
 **Yizhou Wang**, Yue Kang (co-first), Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu     
 ***IEEE International Conference on Data Mining (ICDM)***, 2023     
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415832), [Code](https://github.com/wyzjack/AdaM3), [Video](https://www.youtube.com/watch?v=w4_9vIBj7AI)]    
-* **Concentric Ring Loss for Face Forgery Detection**   
-Yu Yin, Yue Bai, **Yizhou Wang**, and Yun Fu     
-***IEEE International Conference on Data Mining (ICDM)***, 2023    
-[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415851)]     
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415832), [Code](https://github.com/wyzjack/AdaM3), [Video](https://www.youtube.com/watch?v=w4_9vIBj7AI)]       
 * **Making Reconstruction-based Method Great Again for Video Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Yue Bai, Yi Xu, Xu Ma and Yun Fu    
 ***IEEE International Conference on Data Mining (ICDM)***, 2022       
@@ -90,18 +89,8 @@ Yu Yin, Yue Bai, **Yizhou Wang**, and Yun Fu
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557697), [Code](https://github.com/wyzjack/SLA2P/tree/CIKM-2022)]   
-* **Robust Semi-supervised Domain Adaptation against Noisy Labels**   
-Can Qin, **Yizhou Wang** and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022    
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557685)]    
-* **MemREIN: Rein the Domain Shift for Cross-Domain Few-Shot Learning**   
-Yi Xu, Lichen Wang, **Yizhou Wang**, Can Qin, Yulun Zhang and Yun Fu    
-***International Joint Conferences on Artificial Intelligence (IJCAI)***, 2022   
-[[Paper](https://www.ijcai.org/proceedings/2022/0505.pdf)]  
-* **Adaptive Trajectory Prediction via Transferable GNN**   
-Yi Xu, Lichen Wang, **Yizhou Wang** and Yun Fu   
-***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022  
-[[arXiv](https://arxiv.org/pdf/2203.05046.pdf)]   
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020   
