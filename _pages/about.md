@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 5th-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://fulab.sites.northeastern.edu/). My research mainly focuses on LLM, Multimodal LLM and anomaly detection.  **All my first-authored papers on applied AI are open-sourced except for the ones within internship companies, some of which can not be released due to company policies.**
+I am a 5th-year Ph.D. candidate in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/) (NEU). I am supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) and I am a member of [SmileLab](https://fulab.sites.northeastern.edu/). My research mainly focuses on LLM, Multimodal LLM and anomaly detection.  **All my first-authored papers on applied AI are open-sourced except for the ones within internship companies, some of which the code can not be released due to company policies.**
 
 My ultimate goal of AI related research is to reach AI consciousness safely, which might help human beings escape the earth and explore the universe.
 
@@ -62,7 +62,7 @@ Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu
 [[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
 * **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
 **Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
-[[arXiv](https://arxiv.org/pdf/2106.11514.pdf)]    
+[[arXiv](https://arxiv.org/pdf/2106.11514.pdf), [Code](https://github.com/wyzjack/AdaM3)]     
 
 **Conference Papers**  
 * **Towards Zero-shot 3D Anomaly Localization**   
