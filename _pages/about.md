@@ -88,9 +88,7 @@ Yitian Zhang, Yue Bai, Huan Wang, **Yizhou Wang**, Yun Fu
 * **Self-supervision Meets Adversarial Perturbation: A Novel Framework for Anomaly Detection**   
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu   
 ***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022     
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557697), [Code](https://github.com/wyzjack/SLA2P/tree/CIKM-2022)]   
-***ACM International Conference on Information and Knowledge Management (CIKM)***, 2022    
-[[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557685)]    
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3511808.3557697), [Code](https://github.com/wyzjack/SLA2P/tree/CIKM-2022)]     
 * **On Computation and Generalization of Generative Adversarial Imitation Learning**  
 Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wang and Tuo Zhao  
 ***International Conference on Learning Representations (ICLR)***, 2020   
