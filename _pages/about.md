@@ -188,4 +188,5 @@ Teaching Experience
 
 Contact
 =====
+WeChat ID: wyzjack    
 Email: wyzjack990122 (at) gmail (dot) com / wang.yizhou (at) northeastern (dot) edu     
