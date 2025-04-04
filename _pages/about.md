@@ -22,13 +22,8 @@ M.S. in Elctrical Engineering
 Concentration: Computer Vision Mach Learn&Alg    
 * **Xi'an Jiaotong University (XJTU)**  2016-2020  
 B.S. in [Mathematics and Applied Mathematics (National Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)   
-GPA: 91.17/100 (3.85/4.00)    
 * **Georgia Institute of Technology (GaTech)**  2019 Spring  
 Georgia Tech School of Mathematics Visiting Honors Student Program   
-* **Peking University (PKU)**  2018 Summer    
-[DeeCamp](https://deecamp.com/#/home) Member, mentored by [Megvii](https://en.megvii.com/)   
-* **University of Alberta**  2017 Summer    
-International Undergraduate Summer Enrichment Program in Mathematics   
 
 Working Experience
 ======
