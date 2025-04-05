@@ -40,7 +40,7 @@ Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun), worki
 * **FLASH Lab, GaTech, Atlanta, U.S.**  Jan 2019 - May 2019    
 Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/), working on generative adversarial imitation learning     
 
-Selected Publications (Full list can be found on my [Google Scholar](https://scholar.google.com/citations?user=H4kqV1MAAAAJ&hl=en))
+Selected Publications (Full list can be found on my [Google Scholar](https://scholar.google.com/citations?user=H4kqV1MAAAAJ&hl=en), * indicates equal contribution)
 ====== 
 **Preprints** 
 * **Boosting Large Language Models with Mask Fine-Tuning**    
@@ -53,7 +53,7 @@ Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu
 **Yizhou Wang**, Ruiyi Zhang, Haoliang Wang, Uttaran Bhattacharya, Yun Fu and Gang Wu   
 [[arXiv](https://arxiv.org/pdf/2312.02310.pdf)]    
 * **Explainable Anomaly Detection in Images and Videos: A Survey**   
-**Yizhou Wang**, Dongliang Guo (co-first), Sheng Li, Octavia Campus, and Yun Fu      
+**Yizhou Wang**<sup>*</sup>, Dongliang Guo<sup>*</sup>, Sheng Li, Octavia Campus, and Yun Fu      
 [[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
 * **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
 **Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
@@ -73,7 +73,7 @@ Yitian Zhang, Yue Bai, Huan Wang, **Yizhou Wang**, Yun Fu
 ***International Conference on Learning Representations (ICLR)***, 2024     
 [[Paper](https://openreview.net/pdf?id=RIcYTbpO38), [Code](https://github.com/BeSpontaneous/MCA-pytorch)]   
 * **Momentum is All You Need for Data-Driven Adaptive Optimization**   
-**Yizhou Wang**, Yue Kang (co-first), Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu     
+**Yizhou Wang**<sup>*</sup>, Yue Kang<sup>*</sup>, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu     
 ***IEEE International Conference on Data Mining (ICDM)***, 2023     
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415832), [Code](https://github.com/wyzjack/AdaM3), [Video](https://www.youtube.com/watch?v=w4_9vIBj7AI)]       
 * **Making Reconstruction-based Method Great Again for Video Anomaly Detection**   
@@ -97,7 +97,7 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
 ***IEEE Transactions on Knowledge and Data Engineering (TKDE)***   
 [[Paper](https://ieeexplore.ieee.org/document/10645289), [Code](https://github.com/wyzjack/SLA2P)]    
 * **An unrolled Implicit Regularization Network for Joint Image and Sensitivity Estimation in Parallel MR Imaging with Convergence Guarantee**   
-Yan Yang, **Yizhou Wang** (co-first), Jiazhen Wang, Jian Sun and Zongben Xu    
+Yan Yang<sup>*</sup>, **Yizhou Wang**<sup>*</sup>, Jiazhen Wang, Jian Sun and Zongben Xu    
 ***SIAM Journal on Imaging Sciences (SIIMS)***, 2023   
 [[Paper](https://epubs.siam.org/doi/epdf/10.1137/22M1502094)]               
 * **Self-Directed Online Machine Learning for Topology Optimization**   
