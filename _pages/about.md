@@ -44,7 +44,7 @@ Selected Publications (Full list can be found on my [Google Scholar](https://sch
 ====== 
 **Preprints** 
 * **Boosting Large Language Models with Mask Fine-Tuning**    
-Mingyuan Zhang, Yue Bai, Huan Wang, **Yizhou Wang**, Qihua Dong, Yun Fu    
+Mingyuan Zhang\*, Yue Bai\*, Huan Wang, **Yizhou Wang**, Qihua Dong, Yun Fu    
 [[arXiv](https://www.arxiv.org/pdf/2503.22764), [Code](https://github.com/Ming-K9/MFT)]  
 * **Efficient Reasoning with Hidden Thinking**    
 Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu   
@@ -56,7 +56,7 @@ Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu
 **Yizhou Wang**\*, Dongliang Guo\*, Sheng Li, Octavia Campus, and Yun Fu      
 [[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
 * **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
-**Yizhou Wang**, Yue Kang, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
+**Yizhou Wang**\*, Yue Kang\*, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
 [[arXiv](https://arxiv.org/pdf/2106.11514.pdf), [Code](https://github.com/wyzjack/AdaM3)]     
 
 **Conference Papers**  
