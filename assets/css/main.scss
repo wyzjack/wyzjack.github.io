@@ -42,7 +42,14 @@
 
 /* Custom X (Twitter) Icon */
 .fa-brands.fa-x-twitter:before {
-  content: "X";
-  font-weight: bold;
-  font-family: Arial, sans-serif;
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400;
+  content: "\58"; /* X character */
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  font-weight: 900; /* Make it bold like the official X logo */
+  font-family: Arial, sans-serif; /* Use a clean sans-serif font */
 }
