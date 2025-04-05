@@ -52,4 +52,12 @@
   line-height: 1;
   font-weight: 900; /* Make it bold like the official X logo */
   font-family: Arial, sans-serif; /* Use a clean sans-serif font */
+  width: 1.28571429em; /* Same width as other FA icons */
+  text-align: center; /* Center the X */
+}
+
+/* Fix X alignment in profile */
+.social-icons .fa-fw.fa-x-twitter {
+  margin-left: 2px; /* Add a small left margin to align with other icons */
+  padding-right: 2px; /* Add padding to push the text to align with other items */
 }
