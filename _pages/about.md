@@ -123,6 +123,7 @@ Selected Presentations
 
 Selected Awards 
 ======
+* Best Reviewer Award of AISTAT 2025 (126 recipients worldwide), 2025  
 * SDM Doctoral Forum Travel Award, 2024    
 * IEEE ICDM Student Travel Award, 2022    
 * SIGIR Student Travel Grant, 2022   
