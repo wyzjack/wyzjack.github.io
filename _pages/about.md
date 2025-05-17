@@ -60,16 +60,19 @@ Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu
 [[arXiv](https://arxiv.org/pdf/2106.11514.pdf), [Code](https://github.com/wyzjack/AdaM3)]     
 
 **Conference Papers**  
+* **Cautious Next Token Prediction**   
+**Yizhou Wang**, Lingzhi Zhang, Yue Bai, Mang Tik Chiu, Zhengmian Hu, Mingyuan Zhang, Qihua Dong, Yu Yin, Sohrab Amirghodsi and Yun Fu       
+***Findings of Annual Meeting of the Association for Computational Linguistics (ACL)***, 2025    
 * **Towards Zero-shot 3D Anomaly Localization**   
-**Yizhou Wang**, Kuan-Chuan Peng, Yun Fu         
+**Yizhou Wang**, Kuan-Chuan Peng and Yun Fu         
 ***(Oral, top 8%) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)***, 2025    
 [[Paper](https://arxiv.org/pdf/2412.04304), [Project](https://wyzjack.github.io/3DzAL/), [Video](https://youtu.be/GAoRO-hOvuw)]         
 * **Rewrite the stars**   
-Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang**, Yun Fu         
+Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang** and Yun Fu         
 ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2024       
 [[Paper](https://arxiv.org/abs/2403.19967), [Code](https://github.com/ma-xu/Rewrite-the-Stars)]   
 * **Don't Judge by the Look: A Motion Coherent Augmentation for Video Recognition**   
-Yitian Zhang, Yue Bai, Huan Wang, **Yizhou Wang**, Yun Fu         
+Yitian Zhang, Yue Bai, Huan Wang, **Yizhou Wang** and Yun Fu         
 ***International Conference on Learning Representations (ICLR)***, 2024     
 [[Paper](https://openreview.net/pdf?id=RIcYTbpO38), [Code](https://github.com/BeSpontaneous/MCA-pytorch)]   
 * **Momentum is All You Need for Data-Driven Adaptive Optimization**   
@@ -155,6 +158,7 @@ Academic Service
 * AAAI 2023    
 * IJCAI 2023, 2024          
 * SDM 2024 
+* ACM MM 2025
 * PAKDD 2023      
 * ICME 2022  
 * ACCV 2024   
