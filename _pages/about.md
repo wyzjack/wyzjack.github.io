@@ -44,6 +44,9 @@ Selected Publications (Full list can be found on my [Google Scholar](https://sch
 ====== 
 **Preprints** 
 * **Boosting Large Language Models with Mask Fine-Tuning**    
+Yi Xu, Ruining Yang, Yitian Zhang, **Yizhou Wang**, Jianglin Lu, Mingyuan Zhang, Lili Su, Yun Fu        
+[[arXiv](https://arxiv.org/pdf/2506.03408), [Code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]  
+* **Boosting Large Language Models with Mask Fine-Tuning**    
 Mingyuan Zhang\*, Yue Bai\*, Huan Wang, **Yizhou Wang**, Qihua Dong, Yun Fu    
 [[arXiv](https://www.arxiv.org/pdf/2503.22764), [Code](https://github.com/Ming-K9/MFT)]  
 * **Efficient Reasoning with Hidden Thinking**    
