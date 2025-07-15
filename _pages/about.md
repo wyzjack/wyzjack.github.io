@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a 5th-year Ph.D. candidate in Computer Engineering at Northeastern Unversity, supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/). I am working on AI, and my research mainly focuses on LLM, Computer Vision and Anomaly Detection. 
 
-I believe in the importance of Open AI. **All my first-authored papers on applied AI are open-sourced** except for some of the ones within internship companies, which code can not be released due to company policies. My ultimate goal is to reach super-intelligence and AI consciousness safely, which might help human beings escape the earth and explore the universe. I believe that bio-intelligence (us human beings) is designed to unlock the super digital intelligence to find the ultimate answer: the potential higher civilization which created everything.
+My ultimate goal is to reach super-intelligence and AI consciousness safely, which might help human beings escape the earth and explore the universe. I believe that bio-intelligence (us human beings) is designed to unlock the super digital intelligence to find the ultimate answer: the potential higher civilization which created everything.
 
 
 Education
@@ -62,7 +62,8 @@ Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu
 **Conference Papers**  
 * **Cautious Next Token Prediction**   
 **Yizhou Wang**, Lingzhi Zhang, Yue Bai, Mang Tik Chiu, Zhengmian Hu, Mingyuan Zhang, Qihua Dong, Yu Yin, Sohrab Amirghodsi and Yun Fu       
-***Findings of Annual Meeting of the Association for Computational Linguistics (ACL)***, 2025    
+***Findings of Annual Meeting of the Association for Computational Linguistics (ACL)***, 2025   
+[[Paper](https://www.arxiv.org/pdf/2507.03038), [Code](https://github.com/wyzjack/CNTP)]     
 * **Towards Zero-shot 3D Anomaly Localization**   
 **Yizhou Wang**, Kuan-Chuan Peng and Yun Fu         
 ***(Oral, top 8%) IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)***, 2025    
@@ -148,17 +149,18 @@ Academic Service
 
 **Conference Reviewer**   
 * ICML 2022, 2023, 2024, 2025     
-* NeurIPS 2021, 2022, 2023, 2024, 2025      
+* NeurIPS 2021, 2022, 2023, 2024          
 * ICLR 2022, 2024, 2025               
 * CVPR 2022, 2023, 2024, 2025       
 * ICCV 2023, 2025       
 * ECCV 2022, 2024   
+* WACV 2026   
 * KDD 2023     
 * AISTATS 2025
 * AAAI 2023    
 * IJCAI 2023, 2024          
 * SDM 2024 
-* ACM MM 2025
+* ACM MM 2025   
 * PAKDD 2023      
 * ICME 2022  
 * ACCV 2024   
@@ -174,6 +176,7 @@ Academic Service
 * [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) (TPAMI)   
 * [International Journal of Computer Vision](https://link.springer.com/journal/11263) (IJCV)    
 * [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) (TNNLS)    
+* [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)  
 * [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition) (PR)    
 * [ACM Transactions on Knowledge Discovery from Data](https://dl.acm.org/journal/tkdd) (TKDD)   
 * [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) (IoT)    
