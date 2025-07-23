@@ -163,7 +163,8 @@ Academic Service
 * AAAI 2023    
 * IJCAI 2023, 2024          
 * SDM 2024 
-* ACM MM 2025   
+* ACM MM 2025 
+* ACM MM 2025 Datasets Track  
 * PAKDD 2023      
 * ICME 2022  
 * ACCV 2024   
