@@ -43,7 +43,7 @@ Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/), 
 Selected Publications (Full list can be found on my [Google Scholar](https://scholar.google.com/citations?user=H4kqV1MAAAAJ&hl=en), * indicates equal contribution)
 ====== 
 **Preprints** 
-* **Boosting Large Language Models with Mask Fine-Tuning**    
+* **Trajectory Prediction Meets Large Language Models: A Survey**    
 Yi Xu, Ruining Yang, Yitian Zhang, **Yizhou Wang**, Jianglin Lu, Mingyuan Zhang, Lili Su, Yun Fu        
 [[arXiv](https://arxiv.org/pdf/2506.03408), [Code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]  
 * **Boosting Large Language Models with Mask Fine-Tuning**    
@@ -55,7 +55,7 @@ Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu
 * **VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding**    
 **Yizhou Wang**, Ruiyi Zhang, Haoliang Wang, Uttaran Bhattacharya, Yun Fu and Gang Wu   
 [[arXiv](https://arxiv.org/pdf/2312.02310.pdf)]    
-* **Explainable Anomaly Detection in Images and Videos: A Survey**   
+* **Unveiling the Unseen: A Comprehensive Survey on Explainable Anomaly Detection in Images and Videos**   
 **Yizhou Wang**\*, Dongliang Guo\*, Sheng Li, Octavia Campus, and Yun Fu      
 [[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
 * **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
@@ -164,7 +164,8 @@ Academic Service
 * IJCAI 2023, 2024          
 * SDM 2024 
 * ACM MM 2025 
-* ACM MM 2025 Datasets Track  
+* ACM MM 2025 Datasets Track 
+* ACM MM Asia 2025 
 * PAKDD 2023      
 * ICME 2022  
 * ACCV 2024   
