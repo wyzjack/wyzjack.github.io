@@ -64,10 +64,10 @@ Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu
 
 **Conference Papers**  
 * **D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**   
-Yiyang Huang,**Yizhou Wang** and Yun Fu       
+Yiyang Huang, **Yizhou Wang** and Yun Fu       
 ***Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2025    
 * **Emergent Representation Convergence in Foundation Models: A Survey**   
-Jianglin Lu, Hailing Wang, Yi Xu,**Yizhou Wang**, Kuo Yang and Yun Fu       
+Jianglin Lu, Hailing Wang, Yi Xu, **Yizhou Wang**, Kuo Yang and Yun Fu       
 ***Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2025   
 * **Cautious Next Token Prediction**   
 **Yizhou Wang**, Lingzhi Zhang, Yue Bai, Mang Tik Chiu, Zhengmian Hu, Mingyuan Zhang, Qihua Dong, Yu Yin, Sohrab Amirghodsi and Yun Fu       
