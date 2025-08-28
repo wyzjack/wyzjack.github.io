@@ -46,42 +46,7 @@ Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun), worki
 Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/), working on generative adversarial imitation learning     
 
 Selected Publications (Full list can be found on my [Google Scholar](https://scholar.google.com/citations?user=H4kqV1MAAAAJ&hl=en), * indicates equal contribution)
-======   
-**In submission** 
-* ***MLLM for Image Composition Recommendation***    
-**Yizhou Wang**, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, Zhe Lin, Eli Shechtman, Yuqian Zhou, Qihua Dong, Sohrab Amirghodsi and Yun Fu        
-In submission to ***ICLR 2026***   
-* ***MLLM+SAM/MaskFormer for Instruction Distractor Segmentation***    
-**Yizhou Wang**, Mang Tik Chiu, Xiaohang Zhan, Lingzhi Zhang, Connelly Barnes, Zijun Wei, Zhe Lin, Holly Huey, Sohrab Amirghodsi and Yun Fu        
-In submission to ***ICLR 2026***    
-* ***Theoretical Analysis of GRPO for LLMs and MLLMs***    
-**Yizhou Wang** and Yun Fu        
-Under review at ***NeurIPS 2025***             
-* ***Survey on LLMs in Image and Video Segmentation***    
-**Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xuan Shen, Sohrab Amirghodsi and Yun Fu        
-Under review at ***ACL ARR July 2025***    
-
-**Preprints** 
-* **Trajectory Prediction Meets Large Language Models: A Survey**    
-Yi Xu, Ruining Yang, Yitian Zhang, **Yizhou Wang**, Jianglin Lu, Mingyuan Zhang, Lili Su, Yun Fu         
-[[arXiv](https://arxiv.org/pdf/2506.03408), [Code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]   
-* **Boosting Large Language Models with Mask Fine-Tuning**    
-Mingyuan Zhang\*, Yue Bai\*, Huan Wang, **Yizhou Wang**, Qihua Dong, Yun Fu    
-[[arXiv](https://www.arxiv.org/pdf/2503.22764), [Code](https://github.com/Ming-K9/MFT)]    
-* **Efficient Reasoning with Hidden Thinking**    
-Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu   
-[[arXiv](https://arxiv.org/pdf/2501.19201), [Code](https://github.com/shawnricecake/Heima)]    
-* **VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding**    
-**Yizhou Wang**, Ruiyi Zhang, Haoliang Wang, Uttaran Bhattacharya, Yun Fu and Gang Wu   
-[[arXiv](https://arxiv.org/pdf/2312.02310.pdf)]    
-* **Unveiling the Unseen: A Comprehensive Survey on Explainable Anomaly Detection in Images and Videos**   
-**Yizhou Wang**\*, Dongliang Guo\*, Sheng Li, Octavia Campus, and Yun Fu      
-[[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
-* **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
-**Yizhou Wang**\*, Yue Kang\*, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
-[[arXiv](https://arxiv.org/pdf/2106.11514.pdf), [Code](https://github.com/wyzjack/AdaM3)]     
- 
-
+======      
 **Conference Papers**  
 * **D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**   
 Yiyang Huang, **Yizhou Wang** and Yun Fu       
@@ -137,6 +102,40 @@ Yan Yang\*, **Yizhou Wang**\*, Jiazhen Wang, Jian Sun and Zongben Xu
 Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu  
 ***Nature Communications (NC)***, 2022   
 [[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://techxplore.com/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]  
+
+**In submission** 
+* ***MLLM for Image Composition Recommendation***    
+**Yizhou Wang**, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, Zhe Lin, Eli Shechtman, Yuqian Zhou, Qihua Dong, Sohrab Amirghodsi and Yun Fu        
+In submission to ***ICLR 2026***   
+* ***MLLM+SAM/MaskFormer for Instruction Distractor Segmentation***    
+**Yizhou Wang**, Mang Tik Chiu, Xiaohang Zhan, Lingzhi Zhang, Connelly Barnes, Zijun Wei, Zhe Lin, Holly Huey, Sohrab Amirghodsi and Yun Fu        
+In submission to ***ICLR 2026***    
+* ***Theoretical Analysis of GRPO for LLMs and MLLMs***    
+**Yizhou Wang** and Yun Fu        
+Under review at ***NeurIPS 2025***             
+* ***Survey on LLMs in Image and Video Segmentation***    
+**Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xuan Shen, Sohrab Amirghodsi and Yun Fu        
+Under review at ***ACL ARR July 2025***    
+
+**Preprints** 
+* **Trajectory Prediction Meets Large Language Models: A Survey**    
+Yi Xu, Ruining Yang, Yitian Zhang, **Yizhou Wang**, Jianglin Lu, Mingyuan Zhang, Lili Su, Yun Fu         
+[[arXiv](https://arxiv.org/pdf/2506.03408), [Code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]   
+* **Boosting Large Language Models with Mask Fine-Tuning**    
+Mingyuan Zhang\*, Yue Bai\*, Huan Wang, **Yizhou Wang**, Qihua Dong, Yun Fu    
+[[arXiv](https://www.arxiv.org/pdf/2503.22764), [Code](https://github.com/Ming-K9/MFT)]    
+* **Efficient Reasoning with Hidden Thinking**    
+Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu   
+[[arXiv](https://arxiv.org/pdf/2501.19201), [Code](https://github.com/shawnricecake/Heima)]    
+* **VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding**    
+**Yizhou Wang**, Ruiyi Zhang, Haoliang Wang, Uttaran Bhattacharya, Yun Fu and Gang Wu   
+[[arXiv](https://arxiv.org/pdf/2312.02310.pdf)]    
+* **Unveiling the Unseen: A Comprehensive Survey on Explainable Anomaly Detection in Images and Videos**   
+**Yizhou Wang**\*, Dongliang Guo\*, Sheng Li, Octavia Campus, and Yun Fu      
+[[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
+* **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
+**Yizhou Wang**\*, Yue Kang\*, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
+[[arXiv](https://arxiv.org/pdf/2106.11514.pdf), [Code](https://github.com/wyzjack/AdaM3)]  
 
 **Book Chapter** 
 * **Human Activity Recognition and Anomaly Detection---4th International Workshop, DL-HAR 2024, and First International Workshop, ADFM 2024, Held in Conjunction with IJCAI 2024, Jeju, South Korea, August 3–9, 2024, Revised Selected Papers**    
