@@ -57,7 +57,7 @@ In submission to ***ICLR 2026***
 * ***Theoretical Analysis of GRPO for LLMs and MLLMs***    
 **Yizhou Wang** and Yun Fu        
 Under review at ***NeurIPS 2025***             
-* ***Survey on LLMs in Image and Video Segmentation ***    
+* ***Survey on LLMs in Image and Video Segmentation***    
 **Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xuan Shen, Sohrab Amirghodsi and Yun Fu        
 Under review at ***ACL ARR July 2025***    
 
