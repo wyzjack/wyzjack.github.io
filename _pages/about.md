@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 5th-year Ph.D. candidate in Computer Engineering at Northeastern Unversity, supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/). I am working on AI, and my research mainly focuses on LLM, Computer Vision and Anomaly Detection. 
+I am a 5th-year Ph.D. candidate in Computer Engineering at Northeastern Unversity, supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/). I am working on AI, and my research mainly focuses on LLM, Multimodal LLM and Anomaly Detection. 
 
 My ultimate goal is to reach super-intelligence and AI consciousness safely, which might help human beings escape the earth and explore the universe. I believe that bio-intelligence (us human beings) is designed to unlock the super digital intelligence to find the ultimate answer: the potential higher civilization which created everything.
 
@@ -28,27 +28,46 @@ Georgia Tech School of Mathematics Visiting Honors Student Program
 Working Experience
 ======
 * **SMILE Lab, NEU, Boston, U.S.**  Sep 2021- Now  
-Research Assistant to Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), working on anomly detection and optimization    
-* **Adobe, San Jose, U.S.**  May 2024 - Now   
-AI/ML Intern - GenAI Research, mentored by Dr. [Lingzhi Zhang](https://owenzlz.github.io/), Dr. [Qing Liu](https://qliu24.github.io/), Dr. [Mang tik Chiu](https://scholar.google.com/citations?user=TZMDZPwAAAAJ&hl=en), Dr. [Connelly Barnes](https://www.connellybarnes.com/work/), Dr. [Yuqian Zhou](https://yzhouas.github.io/), Dr. [Sohrab Amirghodsi](https://scholar.google.com/citations?user=aFrtZOIAAAAJ&hl=en), Dr. [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/) and Dr. [Zhe Lin](https://sites.google.com/site/zhelin625/)       
+Research Assistant to Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), working on LLM, Multimodal LLM and Anomaly Detection             
+* **Adobe Photoshop, Seattle, U.S.**  May 2024 - Now   
+AI/ML Applied Research Scientist Intern    
+Mentors: Dr. [Lingzhi Zhang](https://owenzlz.github.io/), Dr. [Mang tik Chiu](https://scholar.google.com/citations?user=TZMDZPwAAAAJ&hl=en), Dr. [Xiaohang Zhan](https://xiaohangzhan.github.io/), , Dr. [Connelly Barnes](https://www.connellybarnes.com/work/), Dr. [Yuqian Zhou](https://yzhouas.github.io/), Dr. [Qing Liu](https://qliu24.github.io/), Dr. [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), Dr. [Zhe Lin](https://sites.google.com/site/zhelin625/), Dr. [Zijun Wei](https://scholar.google.com/citations?user=8l3bFYYAAAAJ&hl=en), Dr. [Holly Huey](https://hollyhuey.github.io/)         
+Manager: Dr. [Sohrab Amirghodsi](https://scholar.google.com/citations?user=aFrtZOIAAAAJ&hl=en)   
 * **Adobe Research, San Jose, U.S.**  May 2023 - Dec 2023   
-Research Intern, mentored by Dr. [Gang Wu](https://wugangwu.github.io/), Dr. [Ruiyi Zhang](https://zhangry868.github.io/), Dr. [Haoliang Wang](https://research.adobe.com/person/haoliang-wang/) and Dr. [Uttaran Bhattacharya](https://uttaranb127.github.io/)       
+Research Intern  
+Mentors: Dr. [Gang Wu](https://wugangwu.github.io/), Dr. [Ruiyi Zhang](https://zhangry868.github.io/), Dr. [Haoliang Wang](https://research.adobe.com/person/haoliang-wang/) and Dr. [Uttaran Bhattacharya](https://uttaranb127.github.io/)      
+Manager:  Dr. [Saayan Mitra](https://research.adobe.com/person/saayan-mitra/)   
 * **Mitsubishi Electric Research Laboratories (MERL), Cambridge, U.S.**  May 2022 - Sep 2022   
-Research Intern, mentored by Dr. [Kuan-Chuan Peng](https://www.merl.com/people/kpeng)        
+Research Intern    
+Mentor: Dr. [Kuan-Chuan Peng](https://www.merl.com/people/kpeng)        
 * **Imagine Lab, XJTU, Xi'an, China**  Jun 2020 - Aug 2020      
 Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun), working on deep unfolded iterative algorithm for medical images    
 * **FLASH Lab, GaTech, Atlanta, U.S.**  Jan 2019 - May 2019    
 Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/), working on generative adversarial imitation learning     
 
 Selected Publications (Full list can be found on my [Google Scholar](https://scholar.google.com/citations?user=H4kqV1MAAAAJ&hl=en), * indicates equal contribution)
-====== 
+======   
+**In submission** 
+* ***MLLM for Image Composition Recommendation***    
+**Yizhou Wang**, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, Zhe Lin, Eli Shechtman, Yuqian Zhou, Qihua Dong, Sohrab Amirghodsi and Yun Fu        
+In submission to ***ICLR 2026***   
+* ***MLLM+SAM/MaskFormer for Instruction Distractor Segmentation***    
+**Yizhou Wang**, Mang Tik Chiu, Xiaohang Zhan, Lingzhi Zhang, Connelly Barnes, Zijun Wei, Zhe Lin, Holly Huey, Sohrab Amirghodsi and Yun Fu        
+In submission to ***ICLR 2026***    
+* ***Theoretical Analysis of GRPO for LLMs and MLLMs***    
+**Yizhou Wang** and Yun Fu        
+Under review at ***NeurIPS 2025***             
+* ***Survey on LLMs in Image and Video Segmentation ***    
+**Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xuan Shen, Sohrab Amirghodsi and Yun Fu        
+Under review at ***ACL ARR July 2025***    
+
 **Preprints** 
 * **Trajectory Prediction Meets Large Language Models: A Survey**    
-Yi Xu, Ruining Yang, Yitian Zhang, **Yizhou Wang**, Jianglin Lu, Mingyuan Zhang, Lili Su, Yun Fu        
-[[arXiv](https://arxiv.org/pdf/2506.03408), [Code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]  
+Yi Xu, Ruining Yang, Yitian Zhang, **Yizhou Wang**, Jianglin Lu, Mingyuan Zhang, Lili Su, Yun Fu         
+[[arXiv](https://arxiv.org/pdf/2506.03408), [Code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]   
 * **Boosting Large Language Models with Mask Fine-Tuning**    
 Mingyuan Zhang\*, Yue Bai\*, Huan Wang, **Yizhou Wang**, Qihua Dong, Yun Fu    
-[[arXiv](https://www.arxiv.org/pdf/2503.22764), [Code](https://github.com/Ming-K9/MFT)]  
+[[arXiv](https://www.arxiv.org/pdf/2503.22764), [Code](https://github.com/Ming-K9/MFT)]    
 * **Efficient Reasoning with Hidden Thinking**    
 Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu   
 [[arXiv](https://arxiv.org/pdf/2501.19201), [Code](https://github.com/shawnricecake/Heima)]    
@@ -61,6 +80,7 @@ Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu
 * **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
 **Yizhou Wang**\*, Yue Kang\*, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
 [[arXiv](https://arxiv.org/pdf/2106.11514.pdf), [Code](https://github.com/wyzjack/AdaM3)]     
+ 
 
 **Conference Papers**  
 * **D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**   
