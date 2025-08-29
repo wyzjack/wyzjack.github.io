@@ -28,10 +28,10 @@ Georgia Tech School of Mathematics Visiting Honors Student Program
 Working Experience
 ======
 * **SMILE Lab, NEU, Boston, U.S.**  Sep 2021- Now  
-Research Assistant to Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), working on LLM, Multimodal LLM and Anomaly Detection             
+Research Assistant to Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)                
 * **Adobe Photoshop, Seattle, U.S.**  May 2024 - Now   
-AI/ML Applied Research Scientist Intern    
-Mentors: Dr. [Lingzhi Zhang](https://owenzlz.github.io/), Dr. [Mang tik Chiu](https://scholar.google.com/citations?user=TZMDZPwAAAAJ&hl=en), Dr. [Xiaohang Zhan](https://xiaohangzhan.github.io/), , Dr. [Connelly Barnes](https://www.connellybarnes.com/work/), Dr. [Yuqian Zhou](https://yzhouas.github.io/), Dr. [Qing Liu](https://qliu24.github.io/), Dr. [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), Dr. [Zhe Lin](https://sites.google.com/site/zhelin625/), Dr. [Zijun Wei](https://scholar.google.com/citations?user=8l3bFYYAAAAJ&hl=en), Dr. [Holly Huey](https://hollyhuey.github.io/)         
+AI/ML Applied Research Scientist Intern       
+Mentors: Dr. [Lingzhi Zhang](https://owenzlz.github.io/), Dr. [Mang tik Chiu](https://scholar.google.com/citations?user=TZMDZPwAAAAJ&hl=en), Dr. [Xiaohang Zhan](https://xiaohangzhan.github.io/), Dr. [Connelly Barnes](https://www.connellybarnes.com/work/), Dr. [Yuqian Zhou](https://yzhouas.github.io/), Dr. [Qing Liu](https://qliu24.github.io/), Dr. [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), Dr. [Zhe Lin](https://sites.google.com/site/zhelin625/), Dr. [Zijun Wei](https://scholar.google.com/citations?user=8l3bFYYAAAAJ&hl=en), Dr. [Holly Huey](https://hollyhuey.github.io/)         
 Manager: Dr. [Sohrab Amirghodsi](https://scholar.google.com/citations?user=aFrtZOIAAAAJ&hl=en)   
 * **Adobe Research, San Jose, U.S.**  May 2023 - Dec 2023   
 Research Intern  
@@ -41,9 +41,9 @@ Manager:  Dr. [Saayan Mitra](https://research.adobe.com/person/saayan-mitra/)
 Research Intern    
 Mentor: Dr. [Kuan-Chuan Peng](https://www.merl.com/people/kpeng)        
 * **Imagine Lab, XJTU, Xi'an, China**  Jun 2020 - Aug 2020      
-Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun), working on deep unfolded iterative algorithm for medical images    
+Research Assistant to Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun)       
 * **FLASH Lab, GaTech, Atlanta, U.S.**  Jan 2019 - May 2019    
-Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/), working on generative adversarial imitation learning     
+Research Assistant to Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)         
 
 Selected Publications (Full list can be found on my [Google Scholar](https://scholar.google.com/citations?user=H4kqV1MAAAAJ&hl=en), * indicates equal contribution)
 ======      
