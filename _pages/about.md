@@ -49,8 +49,9 @@ Selected Publications (Full list can be found on my [Google Scholar](https://sch
 ======      
 **Conference Papers**  
 * **D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**   
-Yiyang Huang, **Yizhou Wang** and Yun Fu       
-***Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2025    
+Yiyang Huang, **Yizhou Wang** and Yun Fu      
+***Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2025   
+[[Code](https://github.com/hukcc/D-CoDe)]      
 * **Emergent Representation Convergence in Foundation Models: A Survey**   
 Jianglin Lu, Hailing Wang, Yi Xu, **Yizhou Wang**, Kuo Yang and Yun Fu       
 ***Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2025   
