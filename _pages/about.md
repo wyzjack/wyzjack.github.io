@@ -110,6 +110,8 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 In submission to ***ICLR 2026***   
 * ***MLLM+SAM/MaskFormer for Instruction Distractor Segmentation***    
 **Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xiaohang Zhan, Zijun Wei, Connelly Barnes, Zhe Lin, Holly Huey, Sohrab Amirghodsi and Yun Fu        
+* ***Image Generation using Autoregressive Model with Guidance***    
+Xu Ma*, Yitian Zhang*, **Yizhou Wang**\*, Yue Bai, Hailing Wang, Huimin Zeng, Yi Xu and Yun Fu      
 In submission to ***ICLR 2026***    
 * ***Theoretical Analysis of GRPO for LLMs and MLLMs***    
 **Yizhou Wang** and Yun Fu        
