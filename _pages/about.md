@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 5th-year Ph.D. candidate in Computer Engineering at Northeastern Unversity, supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/). I am working on AI, and my research mainly focuses on LLM, Multimodal LLM and Anomaly Detection. 
+I am a 6th-year Ph.D. candidate in Computer Engineering at Northeastern Unversity, supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/). I am working on AI, and my research mainly focuses on LLM, Multimodal LLM and Anomaly Detection. 
 
 My ultimate goal is to reach super-intelligence and AI consciousness safely, which might help human beings escape Earth and explore the universe. I believe that bio-intelligence (us human beings) is designed to unlock the super digital intelligence to find the ultimate answer: the potential higher civilization that created everything.
 
