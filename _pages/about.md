@@ -109,34 +109,34 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 **Yizhou Wang**, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, Zhe Lin, Eli Shechtman, Yuqian Zhou, Qihua Dong, Sohrab Amirghodsi and Yun Fu        
 In submission to ***ICLR 2026***   
 * ***MLLM+SAM/MaskFormer for Instruction Distractor Segmentation***    
-**Yizhou Wang**, Mang Tik Chiu, Xiaohang Zhan, Lingzhi Zhang, Connelly Barnes, Zijun Wei, Zhe Lin, Holly Huey, Sohrab Amirghodsi and Yun Fu        
+**Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xiaohang Zhan, Zijun Wei, Connelly Barnes, Zhe Lin, Holly Huey, Sohrab Amirghodsi and Yun Fu        
 In submission to ***ICLR 2026***    
 * ***Theoretical Analysis of GRPO for LLMs and MLLMs***    
 **Yizhou Wang** and Yun Fu        
-Under review at ***NeurIPS 2025***             
+Under review at ***NeurIPS 2025***, pre-rebuttal score: 2/4/4/5                 
 * ***Survey on LLMs in Image and Video Segmentation***    
 **Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xuan Shen, Sohrab Amirghodsi and Yun Fu        
-Under review at ***ACL ARR July 2025***    
+Under review at ***ACL ARR July 2025***, pre-rebuttal score: 2/3/3.5         
 
-**Preprints** 
-* **Trajectory Prediction Meets Large Language Models: A Survey**    
-Yi Xu, Ruining Yang, Yitian Zhang, **Yizhou Wang**, Jianglin Lu, Mingyuan Zhang, Lili Su, Yun Fu         
-[[arXiv](https://arxiv.org/pdf/2506.03408), [Code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]   
-* **Boosting Large Language Models with Mask Fine-Tuning**    
-Mingyuan Zhang\*, Yue Bai\*, Huan Wang, **Yizhou Wang**, Qihua Dong, Yun Fu    
-[[arXiv](https://www.arxiv.org/pdf/2503.22764), [Code](https://github.com/Ming-K9/MFT)]    
-* **Efficient Reasoning with Hidden Thinking**    
-Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu   
-[[arXiv](https://arxiv.org/pdf/2501.19201), [Code](https://github.com/shawnricecake/Heima)]    
+**Preprints**  
 * **VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding**    
 **Yizhou Wang**, Ruiyi Zhang, Haoliang Wang, Uttaran Bhattacharya, Yun Fu and Gang Wu   
-[[arXiv](https://arxiv.org/pdf/2312.02310.pdf)]    
+Under review [[arXiv](https://arxiv.org/pdf/2312.02310.pdf)]    
 * **Unveiling the Unseen: A Comprehensive Survey on Explainable Anomaly Detection in Images and Videos**   
 **Yizhou Wang**\*, Dongliang Guo\*, Sheng Li, Octavia Campus, and Yun Fu      
-[[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
+Under review at ***TPAMI*** [[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
 * **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
 **Yizhou Wang**\*, Yue Kang\*, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
-[[arXiv](https://arxiv.org/pdf/2106.11514.pdf), [Code](https://github.com/wyzjack/AdaM3)]  
+[[arXiv](https://arxiv.org/pdf/2106.11514.pdf), [Code](https://github.com/wyzjack/AdaM3)]   
+* **Trajectory Prediction Meets Large Language Models: A Survey**    
+Yi Xu, Ruining Yang, Yitian Zhang, **Yizhou Wang**, Jianglin Lu, Mingyuan Zhang, Lili Su, Yun Fu         
+Under review[[arXiv](https://arxiv.org/pdf/2506.03408), [Code](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers)]   
+* **Boosting Large Language Models with Mask Fine-Tuning**    
+Mingyuan Zhang\*, Yue Bai\*, Huan Wang, **Yizhou Wang**, Qihua Dong, Yun Fu    
+Under review [[arXiv](https://www.arxiv.org/pdf/2503.22764), [Code](https://github.com/Ming-K9/MFT)]    
+* **Efficient Reasoning with Hidden Thinking**    
+Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu   
+Under review[[arXiv](https://arxiv.org/pdf/2501.19201), [Code](https://github.com/shawnricecake/Heima)]     
 
 **Book Chapter** 
 * **Human Activity Recognition and Anomaly Detection---4th International Workshop, DL-HAR 2024, and First International Workshop, ADFM 2024, Held in Conjunction with IJCAI 2024, Jeju, South Korea, August 3–9, 2024, Revised Selected Papers**    
