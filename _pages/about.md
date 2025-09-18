@@ -108,14 +108,15 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 * ***MLLM for Image Composition Recommendation***    
 **Yizhou Wang**, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, Zhe Lin, Eli Shechtman, Yuqian Zhou, Qihua Dong, Sohrab Amirghodsi and Yun Fu        
 In submission to ***ICLR 2026***   
-* ***MLLM+SAM/MaskFormer for Instruction Distractor Segmentation***    
-**Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xiaohang Zhan, Zijun Wei, Connelly Barnes, Zhe Lin, Holly Huey, Sohrab Amirghodsi and Yun Fu        
 * ***Image Generation using Autoregressive Model with Guidance***    
 Xu Ma\*, Yitian Zhang\*, **Yizhou Wang**\*, Yue Bai, Hailing Wang, Huimin Zeng, Yi Xu and Yun Fu      
 In submission to ***ICLR 2026***    
 * ***Theoretical Analysis of GRPO for LLMs and MLLMs***    
 **Yizhou Wang** and Yun Fu        
-Under review at ***NeurIPS 2025***, pre-rebuttal score: 2/4/4/5                 
+In submission to ***ICLR 2026***           
+* ***MLLM+SAM/MaskFormer for Instruction Distractor Segmentation***    
+**Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xiaohang Zhan, Zijun Wei, Connelly Barnes, Zhe Lin, Holly Huey, Sohrab Amirghodsi and Yun Fu            
+In submission to ***CVPR 2026***     
 * ***Survey on LLMs in Image and Video Segmentation***    
 **Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xuan Shen, Sohrab Amirghodsi and Yun Fu        
 Under review at ***ACL ARR July 2025***, pre-rebuttal score: 2/3/3.5         
