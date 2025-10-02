@@ -104,22 +104,22 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 ***Nature Communications (NC)***, 2022   
 [[arXiv](https://arxiv.org/pdf/2002.01927.pdf), [Paper](https://www.nature.com/articles/s41467-021-27713-7.pdf), [Website](https://www.nature.com/articles/s41467-021-27713-7), [Tech Xplore News](https://techxplore.com/news/2022-01-team-algorithm.html), [Code](https://github.com/deng-cy/deep_learning_topology_opt)]  
 
-**In submission** 
-* ***MLLM for Image Composition Recommendation***    
-**Yizhou Wang**, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, Zhe Lin, Eli Shechtman, Yuqian Zhou, Qihua Dong, Sohrab Amirghodsi and Yun Fu        
-In submission to ***ICLR 2026***   
+**In submission**  
 * ***Image Generation using Autoregressive Model with Guidance***    
 Xu Ma\*, Yitian Zhang\*, **Yizhou Wang**\*, Yue Bai, Hailing Wang, Huimin Zeng, Yi Xu and Yun Fu      
-In submission to ***ICLR 2026***    
-* ***Theoretical Analysis of GRPO for LLMs and MLLMs***    
-**Yizhou Wang** and Yun Fu        
-In submission to ***ICLR 2026***           
+In submission to ***CVPR 2026***    
 * ***MLLM+SAM/MaskFormer for Instruction Distractor Segmentation***    
 **Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xiaohang Zhan, Zijun Wei, Connelly Barnes, Zhe Lin, Holly Huey, Sohrab Amirghodsi and Yun Fu            
 In submission to ***CVPR 2026***     
+* ***MLLM for Image Composition Recommendation***    
+**Yizhou Wang**, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, Zhe Lin, Eli Shechtman, Yuqian Zhou, Qihua Dong, Sohrab Amirghodsi and Yun Fu        
+Under review at ***ICLR 2026***   
+* ***Theoretical Analysis of GRPO for LLMs and MLLMs***    
+**Yizhou Wang** and Yun Fu        
+Under review at ***ICLR 2026***           
 * ***Survey on LLMs in Image and Video Segmentation***    
 **Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xuan Shen, Sohrab Amirghodsi and Yun Fu        
-Under review at ***ACL ARR July 2025***, pre-rebuttal score: 2/3/3.5         
+Under review at ***ACL ARR July 2025***, pre-rebuttal score: 2.5/3/3.5, meta: 3.5            
 
 **Preprints**  
 * **VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding**    
