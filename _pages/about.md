@@ -51,10 +51,11 @@ Selected Publications (Full list can be found on my [Google Scholar](https://sch
 * **D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**   
 Yiyang Huang, **Yizhou Wang** and Yun Fu      
 ***Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2025   
-[[Code](https://github.com/hukcc/D-CoDe)]      
-* **Emergent Representation Convergence in Foundation Models: A Survey**   
+[[Paper](https://arxiv.org/pdf/2510.08818), [Code](https://github.com/hukcc/D-CoDe)]      
+* **Representation Potentials of Foundation Models for Multimodal Alignment: A Survey**   
 Jianglin Lu, Hailing Wang, Yi Xu, **Yizhou Wang**, Kuo Yang and Yun Fu       
 ***Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2025   
+[[Paper](https://arxiv.org/pdf/2510.05184), [Code](https://github.com/Jianglin954/Representation-Alignment-Survey)]     
 * **Cautious Next Token Prediction**   
 **Yizhou Wang**, Lingzhi Zhang, Yue Bai, Mang Tik Chiu, Zhengmian Hu, Mingyuan Zhang, Qihua Dong, Yu Yin, Sohrab Amirghodsi and Yun Fu       
 ***Annual Meeting of the Association for Computational Linguistics (ACL)***, 2025   
@@ -183,7 +184,7 @@ Academic Service
 * ICML 2022, 2023, 2024, 2025     
 * NeurIPS 2021, 2022, 2023, 2024          
 * ICLR 2022, 2024, 2025, 2026                 
-* CVPR 2022, 2023, 2024, 2025       
+* CVPR 2022, 2023, 2024, 2025, 2026         
 * ICCV 2023, 2025       
 * ECCV 2022, 2024   
 * WACV 2026   
