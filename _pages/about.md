@@ -219,8 +219,7 @@ Academic Service
 * [Journal of Big Data](https://journalofbigdata.springeropen.com/)    
 * [International Journal of Fuzzy Systems](https://www.springer.com/journal/40815) (IJFS)    
 * [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857) (IEEE Trans. Veh. Technol.)     
-* [IEEE Computational Intelligence Magazine](https://cis.ieee.org/publications/ci-magazine) (CIM) 
-* [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)    
+* [IEEE Computational Intelligence Magazine](https://cis.ieee.org/publications/ci-magazine) (CIM)   
 
 Teaching Experience
 ======
