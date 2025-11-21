@@ -128,7 +128,7 @@ Under review at ***ACL ARR July 2025***, pre-rebuttal score: 2.5/3/3.5, meta: 3.
 Under review [[arXiv](https://arxiv.org/pdf/2312.02310.pdf)]    
 * **Unveiling the Unseen: A Comprehensive Survey on Explainable Anomaly Detection in Images and Videos**   
 **Yizhou Wang**\*, Dongliang Guo\*, Sheng Li, Octavia Campus, and Yun Fu      
-Under review at ***TPAMI*** [[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
+Major Revision at ***TPAMI*** [[arXiv](https://arxiv.org/pdf/2302.06670.pdf), [Code](https://github.com/wyzjack/Awesome-XAD)]    
 * **Rethinking Adam: A Twofold Exponential Moving Average Approach**   
 **Yizhou Wang**\*, Yue Kang\*, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu   
 [[arXiv](https://arxiv.org/pdf/2106.11514.pdf), [Code](https://github.com/wyzjack/AdaM3)]   
