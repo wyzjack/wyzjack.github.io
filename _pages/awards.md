@@ -26,12 +26,3 @@ author_profile: true
 | 2018 | **Special Prize** in National English Competition for College Students (Top 0.1%) |
 | 2018 | **XJTU Pengkang Scholarship** (Top 1.5%) |
 | 2017 | **National Endeavor Scholarship** (Top 2%) |
-
----
-
-## Selected Presentations
-
-- **Oral Report** at [CAS SIAM](http://lsec.cc.ac.cn/~siamstuc/index.html), Online, 2023
-- **Oral Report** at [AI2healthcare](https://ai2healthcare.github.io/) [[Talk](https://ai2healthcare.github.io/news/2023/05/29/Dr.Yizhou_Wang)] [[Video](https://www.youtube.com/watch?v=EvUnnUppEZ0&t=5s)], Online, 2023
-- **Oral Presentation** at [New England Computer Vision Workshop](https://necv2022.github.io/), MIT, Boston, MA, 2022
-
