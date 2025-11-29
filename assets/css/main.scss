@@ -172,7 +172,8 @@ h2 + ul li {
 
   .page {
     @include span(9 of 12 last); /* Decreased from 10 of 12 */
-    @include prefix(0.25 of 12); /* Adjusted prefix */
+    @include prefix(0); /* Removed prefix to reduce gap */
     @include suffix(0); /* Removed suffix to give more room */
+    padding-left: 1em; /* Add small padding instead of grid prefix */
   }
 }
