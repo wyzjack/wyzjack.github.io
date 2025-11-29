@@ -17,7 +17,7 @@ author_profile: true
   <h3>Oral Report at AI2healthcare</h3>
   <p class="talk-meta"><strong>2023</strong> &nbsp;|&nbsp; Online</p>
   <p>
-    Presented research on AI applications in healthcare.<br>
+    Presented research on Anomaly Detection.<br>
     <a href="https://ai2healthcare.github.io/news/2023/05/29/Dr.Yizhou_Wang">[Talk Page]</a>
     <a href="https://www.youtube.com/watch?v=EvUnnUppEZ0&t=5s">[Video]</a>
   </p>
