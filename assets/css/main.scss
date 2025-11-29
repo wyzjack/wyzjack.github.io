@@ -164,15 +164,19 @@ h2 + ul li {
   margin-bottom: 0.5em;
 }
 
-/* 7. Widen Sidebar and Fix Layout */
+/* 7. Widen Sidebar and Fix Layout with Flexbox */
 @include breakpoint($large) {
+  #main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
   .sidebar {
-    /* Replace Susy grid with standard CSS floats to force layout */
-    float: left;
-    width: 22%; 
-    margin-right: 3%;
-    text-align: center; 
-    clear: left;
+    width: 22%;
+    margin-right: 0;
+    text-align: center;
+    float: none; /* Reset floats */
   }
 
   /* Center the list block, but keep items left aligned */
@@ -192,10 +196,9 @@ h2 + ul li {
     text-align: center;
   }
 
-  .page {
-    /* Standard CSS floats */
-    float: right;
+  .archive, .page {
     width: 75%;
+    float: none; /* Reset floats */
     padding-left: 0;
     padding-right: 0;
     clear: none; 
