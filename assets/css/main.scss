@@ -189,7 +189,7 @@ h2 + ul li {
   }
 
   .page {
-    @include span(9 of 12 last);
+    @include span(8.5 of 12 last); /* Reduced from 9 to 8.5 to fix layout drop */
     padding-left: 2em; /* spacing */
     clear: none; /* Ensure it doesn't drop down */
   }
