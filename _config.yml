@@ -82,24 +82,24 @@ analytics:
 author:
   name             : "Yizhou Wang 王亦周"
   avatar           : "selfile.jpg"
-  bio              : "Ph.D. student at NEU"
+  bio              : "AI Ph.D. candidate at NEU"
   location         : "Boston, U.S."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=H4kqV1MAAAAJ&hl=en"
   email            : "wyzjack990122@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Yizhou_Wang29"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "yizhou.wang.739/"
+  facebook         :
   foursquare       :
   github           : "wyzjack"
   google_plus      :
   keybase          :
-  instagram        : "wyzjack"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yizhou-wang-786603155"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "yizhouwang2989"
+  youtube          : 
   wikipedia        :
 
 
