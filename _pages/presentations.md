@@ -33,12 +33,4 @@ author_profile: true
   <p>Presented at <a href="https://necv2022.github.io/">NECV 2022</a></p>
 </div>
 
-<div class="talk-item">
-  <h3>Oral Presentation at WACV 2025</h3>
-  <p class="talk-meta"><strong>2025</strong> &nbsp;|&nbsp; Tucson, Arizona</p>
-  <p>
-    Presented "Towards Zero-shot 3D Anomaly Localization" (Top 8% Oral)<br>
-    <a href="https://youtu.be/GAoRO-hOvuw">[Video]</a>
-  </p>
-</div>
 
