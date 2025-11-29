@@ -189,8 +189,8 @@ h2 + ul li {
   }
 
   .page {
-    @include span(9.5 of 12 last); /* Increased to fill space */
-    padding-left: 1em; 
+    @include span(9 of 12 last); /* Reduced from 9.5 to 9 to leave space for gap */
+    padding-left: 0; /* Removed padding to prevent width overflow */
     clear: none; 
   }
 }
