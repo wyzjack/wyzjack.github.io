@@ -61,3 +61,106 @@
   margin-left: 2px; /* Add a small left margin to align with other icons */
   padding-right: 2px; /* Add padding to push the text to align with other items */
 }
+
+/* --- Custom Enhancements --- */
+
+/* 1. Card-like styling for Experience, Education, Talks */
+.experience-item, 
+.education-item,
+.talk-item,
+.teaching-item {
+  background: #fff;
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+  border: 1px solid #f2f3f3;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.experience-item:hover, 
+.education-item:hover,
+.talk-item:hover,
+.teaching-item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  border-color: #e6e6e6;
+}
+
+.experience-item h3, 
+.education-item h3,
+.talk-item h3,
+.teaching-item h3 {
+  margin-top: 0;
+  margin-bottom: 0.2em;
+  font-size: 1.1em;
+  color: #2c3e50;
+}
+
+.experience-meta, 
+.talk-meta,
+.teaching-meta {
+  font-size: 0.9em;
+  color: #7f8c8d;
+  margin-bottom: 0.8em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* 2. News & Highlights Section Styling */
+h2 + ul li {
+  margin-bottom: 0.8em;
+  line-height: 1.6;
+}
+
+/* 3. Sidebar Profile Enhancements */
+.author__avatar img {
+  border-radius: 50%; /* Make it circular */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.author__avatar img:hover {
+  transform: scale(1.05);
+}
+
+.sidebar {
+  background-color: #fafafa; /* Subtle background for sidebar */
+  border-radius: 8px;
+  padding: 1em;
+}
+
+/* 4. Navigation Hover Effect */
+.greedy-nav a {
+  position: relative;
+}
+
+.greedy-nav a:after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #2980b9; /* Your theme accent color */
+  transition: width 0.3s;
+}
+
+.greedy-nav a:hover:after {
+  width: 100%;
+}
+
+/* 5. Button Polish */
+.btn {
+  border-radius: 30px; /* More rounded buttons */
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 1px;
+  padding: 0.75em 1.5em;
+}
+
+/* 6. Publication List Improvements (if wrapping isn't possible yet, style generic lists) */
+/* Giving a bit more breathing room to lists */
+.page__content ul li {
+  margin-bottom: 0.5em;
+}
