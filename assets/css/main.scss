@@ -164,16 +164,33 @@ h2 + ul li {
   margin-bottom: 0.5em;
 }
 
-/* 7. Widen Sidebar to fit Name on one line */
+/* 7. Widen Sidebar and Fix Layout */
 @include breakpoint($large) {
   .sidebar {
-    @include span(3 of 12); /* Increased from 2 of 12 */
+    @include span(3 of 12);
+    text-align: center; /* Center align sidebar content */
+  }
+
+  /* Align text left for the info list to look neat */
+  .sidebar .author__urls-wrapper {
+    text-align: left;
+    display: inline-block; /* Centers the block but keeps text left-aligned */
+    width: 100%;
+  }
+
+  .author__avatar {
+    display: block;
+    margin: 0 auto; /* Center the avatar */
+  }
+
+  .sidebar .author__name, 
+  .sidebar .author__bio {
+    text-align: center;
   }
 
   .page {
-    @include span(9 of 12 last); /* Decreased from 10 of 12 */
-    @include prefix(0); /* Removed prefix to reduce gap */
-    @include suffix(0); /* Removed suffix to give more room */
-    padding-left: 1em; /* Add small padding instead of grid prefix */
+    @include span(9 of 12 last);
+    padding-left: 2em; /* spacing */
+    clear: none; /* Ensure it doesn't drop down */
   }
 }
