@@ -167,8 +167,12 @@ h2 + ul li {
 /* 7. Widen Sidebar and Fix Layout */
 @include breakpoint($large) {
   .sidebar {
-    @include span(2.5 of 12); /* Slightly narrower than 3 to reduce blank space */
+    /* Replace Susy grid with standard CSS floats to force layout */
+    float: left;
+    width: 22%; 
+    margin-right: 3%;
     text-align: center; 
+    clear: left;
   }
 
   /* Center the list block, but keep items left aligned */
@@ -189,8 +193,11 @@ h2 + ul li {
   }
 
   .page {
-    @include span(9 of 12 last); /* Reduced from 9.5 to 9 to leave space for gap */
-    padding-left: 0; /* Removed padding to prevent width overflow */
+    /* Standard CSS floats */
+    float: right;
+    width: 75%;
+    padding-left: 0;
+    padding-right: 0;
     clear: none; 
   }
 }
