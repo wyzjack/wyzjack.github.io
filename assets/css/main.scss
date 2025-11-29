@@ -159,8 +159,20 @@ h2 + ul li {
   padding: 0.75em 1.5em;
 }
 
-/* 6. Publication List Improvements (if wrapping isn't possible yet, style generic lists) */
-/* Giving a bit more breathing room to lists */
+/* 6. Publication List Improvements */
 .page__content ul li {
   margin-bottom: 0.5em;
+}
+
+/* 7. Widen Sidebar to fit Name on one line */
+@include breakpoint($large) {
+  .sidebar {
+    @include span(3 of 12); /* Increased from 2 of 12 */
+  }
+
+  .page {
+    @include span(9 of 12 last); /* Decreased from 10 of 12 */
+    @include prefix(0.25 of 12); /* Adjusted prefix */
+    @include suffix(0); /* Removed suffix to give more room */
+  }
 }
