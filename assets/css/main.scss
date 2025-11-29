@@ -186,6 +186,13 @@ h2 + ul li {
     text-align: left;
     display: table; /* Shrink to fit content */
     margin: 0 auto; /* Center the block */
+    width: auto; /* Reset width */
+  }
+  
+  /* Ensure links are clickable by fixing z-index */
+  .sidebar .author__urls {
+    z-index: 10;
+    position: relative;
   }
 
   .author__avatar {
