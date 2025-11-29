@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,62 +9,76 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education
-======
-* **Northeastern University**  2020-  
-Ph.D. in Computer Engineering  
-Advisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/)
-* **Xi'an Jiaotong University**  2016-2020  
-B.S. in [Mathematics and Applied Mathematics (Honors Program)](http://bjb.xjtu.edu.cn/info/1071/2192.htm)  
-GPA: 3.95/4.3, 91.7/100
-* **Georgia Institute of Technology**  2019 Spring  
-Georgia Tech School of Mathematics Visiting Honors Student Program  
-GPA: 4.17/4.3
-* **Peking University**  2018 Summer  
-[DeeCamp](https://deecamp.com/#/home) 2018 (AI camp organized by [Sinovation Ventures](http://www.sinovationventures.com/), acceptance rate: 4.28%)
-* **University of Alberta**  2017 Summer  
-International Undergraduate Summer Enrichment Program in Mathematics
+---
 
-Work Experience
-======
-* Summer 2020: Research Assistant
-  * Xi’an Jiaotong University
-  * Supervisor: Prof. [Jian Sun](http://gr.xjtu.edu.cn/web/jiansun)
-  
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Selected Awards 
-======
-* Outstanding graduate of XJTU, 2020
-* Honorary graduate of Qian Xuesen College, 2020
-* Zhufeng 1st Scholarship (Pilot Scheme of Top-notch Talent Cultivation in Basic Disciplines), 2019
-* XJTU 3rd Scholarship (Top 20%), 2019
-* Outstanding Student in XJTU (Top 20%), 2017&2019
-* Honorable Mention in Interdisciplinary Contest in Modeling (ICM) 2018 (Top 15% teams), 2018
-* **Special Prize** in 2018 National English Competition for College Students (Top 0.1%), 2018
-* Outstanding Student Leader in XJTU (Top 3%), 2018
-* XJTU Pengkang Scholarship (Top 1.5%), 2018
-* National Endeavor Scholarship (Top 2%), 2017
-  
+| Degree | Institution | Year |
+|--------|-------------|------|
+| **Ph.D.** in Computer Engineering | Northeastern University | 2020 - Present |
+| **M.S.** in Electrical Engineering | Northeastern University | 2020 - 2023 |
+| **B.S.** in Mathematics (Honors) | Xi'an Jiaotong University | 2016 - 2020 |
+| **Visiting Student** | Georgia Institute of Technology | Spring 2019 |
 
-Standard Tests
-======
-* TOEFL: 110 (R29 L28 S24 W29)
-* GRE: 325 (V155 Q170) AW3.5
-* IELTS: 7.0
-* CET-4: 637
-* CET-6: 639
+---
 
-Programming Skills
-======
-* Languages: Python, C, C#, R
-* Libraries: PyTorch, Tensorflow, Gym, Numpy, Pandas, SciPy, Matplotlib, Seaborn
-* Softwares: Visual Studio, Vim, MATLAB, Maple, $\LaTeX\$ -->
+## Industry Experience
 
+| Position | Company | Period |
+|----------|---------|--------|
+| AI/ML Applied Research Scientist Intern | Adobe Photoshop | May 2024 - Present |
+| Research Intern | Adobe Research | May 2023 - Dec 2023 |
+| Research Intern | Mitsubishi Electric Research Labs (MERL) | May 2022 - Sep 2022 |
 
+---
 
+## Research Experience
+
+| Position | Lab/Institution | Period |
+|----------|----------------|--------|
+| Research Assistant | SMILE Lab, NEU | Sep 2021 - Present |
+| Research Assistant | Imagine Lab, XJTU | Jun 2020 - Aug 2020 |
+| Research Assistant | FLASH Lab, GaTech | Jan 2019 - May 2019 |
+
+---
+
+## Selected Publications
+
+### Conference Papers
+- **ACL 2025**: Cautious Next Token Prediction
+- **EMNLP 2025**: D-CoDe; Representation Potentials Survey
+- **WACV 2025** (Oral): Towards Zero-shot 3D Anomaly Localization
+- **CVPR 2024**: Rewrite the stars
+- **ICLR 2024**: Motion Coherent Augmentation for Video Recognition
+- **ICLR 2020**: On Computation and Generalization of GAIL
+
+### Journal Papers
+- **TKDE**: SLA²P: Self-supervised Anomaly Detection
+- **SIIMS 2023**: Unrolled Implicit Regularization Network for MRI
+- **Nature Communications 2022**: Self-Directed Online Machine Learning
+
+---
+
+## Selected Awards
+
+| Year | Award |
+|------|-------|
+| 2025 | Best Reviewer Award at AISTATS 2025 |
+| 2020 | Dean's Fellowship, Northeastern University |
+| 2019 | National Zhufeng 1st Scholarship |
+| 2018 | Special Prize, National English Competition (Top 0.1%) |
+
+---
+
+## Skills
+
+**Programming Languages:** Python, C/C++, R, MATLAB  
+**Frameworks:** PyTorch, TensorFlow, Hugging Face Transformers  
+**Libraries:** NumPy, Pandas, OpenCV, scikit-learn  
+**Tools:** Git, LaTeX, Linux, Docker
+
+---
+
+## Download
+
+📄 [Download Full CV (PDF)](/files/CV_YizhouWang.pdf) *(Coming soon)*
