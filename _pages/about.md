@@ -14,6 +14,15 @@ My ultimate goal is to reach super-intelligence and AI consciousness safely, whi
 
 ---
 
+## 💡 Mottos
+
+> "Don't aspire to glory, aspire to work."  
+> "I want to know what is real, even if the answer is total obliteration of my consciousness."  
+> "If you need inspiring words, don't do it."  
+> — **Elon Musk**
+
+---
+
 ## Education
 
 <div class="education-item">
@@ -37,4 +46,4 @@ My ultimate goal is to reach super-intelligence and AI consciousness safely, whi
 
 ## Contact
 
-📧 **Email:** wyzjack990122 (at) gmail (dot) com / wang.yizhou (at) northeastern (dot) edu  
+📧 **Email:** wyzjack990122 (at) gmail (dot) com / wang.yizhou (at) northeastern (dot) edu
