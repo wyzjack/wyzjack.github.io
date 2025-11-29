@@ -167,20 +167,20 @@ h2 + ul li {
 /* 7. Widen Sidebar and Fix Layout */
 @include breakpoint($large) {
   .sidebar {
-    @include span(3 of 12);
-    text-align: center; /* Center align sidebar content */
+    @include span(2.5 of 12); /* Slightly narrower than 3 to reduce blank space */
+    text-align: center; 
   }
 
-  /* Align text left for the info list to look neat */
+  /* Center the list block, but keep items left aligned */
   .sidebar .author__urls-wrapper {
     text-align: left;
-    display: inline-block; /* Centers the block but keeps text left-aligned */
-    width: 100%;
+    display: table; /* Shrink to fit content */
+    margin: 0 auto; /* Center the block */
   }
 
   .author__avatar {
     display: block;
-    margin: 0 auto; /* Center the avatar */
+    margin: 0 auto; 
   }
 
   .sidebar .author__name, 
@@ -189,7 +189,7 @@ h2 + ul li {
   }
 
   .page {
-    @include span(8 of 12 last); /* Reduced to 8 to definitely fix layout drop */
+    @include span(9.5 of 12 last); /* Increased to fill space */
     padding-left: 1em; 
     clear: none; 
   }
