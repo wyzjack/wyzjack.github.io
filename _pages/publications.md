@@ -16,7 +16,7 @@ Qihua Dong, Kuo Yang, Lin Ju, Handong Zhao, Yitian Zhang, **Yizhou Wang**, Huimi
 *International Conference on Learning Representations (**ICLR**)*, 2026   
 
 **GmNet: Revisiting Gating Mechanisms From A Frequency View**  
-Yifan Wang, Xu Ma, Yitian Zhang, **Yizhou Wang**, Zhongruo Wang, Sung-Cheol Kim, Vahid Mirjalili, Vidya Renganathan and Yun Fu 
+Yifan Wang, Xu Ma, Yitian Zhang, **Yizhou Wang**, Zhongruo Wang, Sung-Cheol Kim, Vahid Mirjalili, Vidya Renganathan and Yun Fu   
 *International Conference on Learning Representations (**ICLR**)*, 2026   
 
 **D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**  
