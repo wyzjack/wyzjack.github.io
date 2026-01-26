@@ -11,6 +11,14 @@ Full list can be found on my [Google Scholar](https://scholar.google.com/citatio
 
 ## Conference Papers
 
+**GmNet: Revisiting Gating Mechanisms From A Frequency View**  
+Qihua Dong, Kuo Yang, Lin Ju, Handong Zhao, Yitian Zhang, **Yizhou Wang**, Huimin Zeng, Jianglin Lu and Yun Fu  
+*International Conference on Learning Representations (**ICLR**)*, 2026   
+
+**GmNet: Revisiting Gating Mechanisms From A Frequency View**  
+Yifan Wang, Xu Ma, Yitian Zhang, **Yizhou Wang**, Zhongruo Wang, Sung-Cheol Kim, Vahid Mirjalili, Vidya Renganathan and Yun Fu 
+*International Conference on Learning Representations (**ICLR**)*, 2026   
+
 **D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**  
 Yiyang Huang, **Yizhou Wang** and Yun Fu  
 *Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2025  
