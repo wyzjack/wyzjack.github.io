@@ -29,6 +29,12 @@ author_profile: true
 | ICLR | 2022, 2024, 2025, 2026 |
 | AISTATS | 2025 |
 
+### NLP
+
+| Conference | Years |
+|------------|-------|
+| ACL ARR January 2026 | 2026 |
+
 ### Computer Vision
 
 | Conference | Years |
@@ -36,6 +42,7 @@ author_profile: true
 | CVPR | 2022, 2023, 2024, 2025, 2026 |
 | ICCV | 2023, 2025 |
 | ECCV | 2022, 2024, 2026 |
+| SIGGRAPH | 2026 |
 | WACV | 2026 |
 | ACCV | 2024 |
 
