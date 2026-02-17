@@ -44,6 +44,7 @@ author_profile: true
 | ECCV | 2022, 2024, 2026 |
 | SIGGRAPH | 2026 |
 | WACV | 2026 |
+| BMVC | 2026 |  
 | ACCV | 2024 |
 
 ### Data Mining & AI
