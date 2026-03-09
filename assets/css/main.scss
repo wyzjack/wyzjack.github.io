@@ -164,6 +164,44 @@ h2 + ul li {
   margin-bottom: 0.5em;
 }
 
+/* WeChat QR Code popover */
+.wechat-qr-item {
+  position: relative;
+
+  .wechat-qr-popup {
+    display: none;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 100%;
+    margin-bottom: 8px;
+    padding: 10px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    border: 1px solid #e6e6e6;
+    z-index: 100;
+
+    img {
+      display: block;
+      width: 140px;
+      height: 140px;
+    }
+
+    span {
+      display: block;
+      margin-top: 6px;
+      font-size: 0.75em;
+      color: #666;
+      text-align: center;
+    }
+  }
+
+  &:hover .wechat-qr-popup {
+    display: block;
+  }
+}
+
 /* 7. Widen Sidebar and Fix Layout with Flexbox */
 @include breakpoint($large) {
   #main {

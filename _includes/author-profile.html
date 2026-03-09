@@ -56,7 +56,7 @@
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
       {% endif %}
       {% if author.instagram %}
-        <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        <li><a href="https://instagram.com/{{ author.instagram }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
       {% endif %}
       {% if author.tumblr %}
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
@@ -117,6 +117,17 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
+      {% endif %}
+      {% if author.wechat_qr %}
+        <li class="wechat-qr-item">
+          <a href="#" onclick="return false;" class="wechat-qr-trigger" aria-label="WeChat QR Code">
+            <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat
+          </a>
+          <div class="wechat-qr-popup">
+            <img src="{{ base_path }}/images/{{ author.wechat_qr }}" alt="WeChat QR Code">
+            <span>Scan to add me</span>
+          </div>
+        </li>
       {% endif %}
     </ul>
   </div>
