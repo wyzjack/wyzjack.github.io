@@ -14,18 +14,18 @@ Full list can be found on my [Google Scholar](https://scholar.google.com/citatio
 **UniSER: A Foundation Model for Unified Soft Effects Removal**  
 Jingdong Zhang, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, **Yizhou Wang**, Haoran You, Xiaoyang Liu, Yuqian Zhou, Zhe Lin, Eli Shechtman, Sohrab Amirghodsi, Xin Li, Wenping Wang, Xiaohang Zhan   
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2026   
-[[Paper](https://arxiv.org/pdf/2511.14183)]    
+[[Paper](https://arxiv.org/pdf/2511.14183)] [[Project](https://evergreen0929.github.io/projects/uniser.html#)] [[Video](https://www.youtube.com/watch?v=A-wTNREMINs)]    
 
 
 **Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks**  
 Qihua Dong, Kuo Yang, Lin Ju, Handong Zhao, Yitian Zhang, **Yizhou Wang**, Huimin Zeng, Jianglin Lu and Yun Fu  
 *International Conference on Learning Representations (**ICLR**)*, 2026   
-[[Paper](https://openreview.net/pdf?id=iEBgrepR9i)]    
+[[Paper](https://openreview.net/pdf?id=iEBgrepR9i)]   [[Project](https://ref-adv.github.io/)] [[Code](https://github.com/dddraxxx/Ref-Adv)] [[Dataset](https://huggingface.co/datasets/dddraxxx/ref-adv-s)]  
 
 **GmNet: Revisiting Gating Mechanisms From A Frequency View**  
 Yifan Wang, Xu Ma, Yitian Zhang, **Yizhou Wang**, Zhongruo Wang, Sung-Cheol Kim, Vahid Mirjalili, Vidya Renganathan and Yun Fu   
 *International Conference on Learning Representations (**ICLR**)*, 2026   
-[[Paper](https://openreview.net/pdf?id=dkfEwHobXq)]    
+[[Paper](https://openreview.net/pdf?id=dkfEwHobXq)] [[Code](https://github.com/YFWang1999/GmNet)]   
 
 **D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**  
 Yiyang Huang, **Yizhou Wang** and Yun Fu  
