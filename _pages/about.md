@@ -26,7 +26,7 @@ My ultimate goal is to reach super-intelligence and AI consciousness safely, whi
 ## Education
 
 <div class="education-item">
-  <strong>Northeastern University (NEU)</strong> &nbsp;|&nbsp; 2020 - Present<br>
+  <strong>Northeastern University (NEU)</strong> &nbsp;|&nbsp; 2020 - 2026<br>
   <em>Ph.D. in Computer Engineering</em><br>
   Supervisor: Prof. <a href="http://www1.ece.neu.edu/~yunfu/">Yun Raymond Fu</a>
 </div>
