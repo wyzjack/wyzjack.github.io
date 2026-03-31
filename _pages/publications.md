@@ -12,8 +12,7 @@ Full list can be found on my [Google Scholar](https://scholar.google.com/citatio
 ## Conference Papers
 
 **MTPano: Multi-Task Panoramic Scene Understanding via Label-Free Integration of Dense Prediction Priors**  
-Jingdong Zhang, Xiaohang Zhan, Lingzhi Zhang, Yizhou Wang, Zhengming Yu, JionghaoWang
-WenpingWang and Xin Li   
+Jingdong Zhang, Xiaohang Zhan, Lingzhi Zhang, **Yizhou Wang**, Zhengming Yu, Jionghao Wang, Wenping Wang and Xin Li     
 *ACM SIGGRAPH*, 2026   
 
 **UniSER: A Foundation Model for Unified Soft Effects Removal**  
