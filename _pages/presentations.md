@@ -25,6 +25,22 @@ author_profile: true
 
 ---
 
+## Guest Lectures & Industry Talks
+
+<div class="talk-item">
+  <h3>Research Presentation at FM (Insurance)</h3>
+  <p class="talk-meta"><strong>2026</strong> &nbsp;|&nbsp; Norwood, MA</p>
+  <p>Presented at <a href="https://www.fm.com/">FM (insurance)</a></p>
+</div>
+
+<div class="talk-item">
+  <h3>Guest Lecture: EECE 5462 Data Visualization</h3>
+  <p class="talk-meta"><strong>Spring 2026</strong> &nbsp;|&nbsp; Northeastern University, Boston, MA</p>
+  <p>Guest lecture for <em>EECE 5462: Data Visualization</em>, NEU.</p>
+</div>
+
+---
+
 ## Conference Presentations
 
 <div class="talk-item">

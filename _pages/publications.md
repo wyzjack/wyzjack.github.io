@@ -11,8 +11,13 @@ Full list can be found on my [Google Scholar](https://scholar.google.com/citatio
 
 ## Conference Papers
 
+**MTPano: Multi-Task Panoramic Scene Understanding via Label-Free Integration of Dense Prediction Priors**  
+Jingdong Zhang, Xiaohang Zhan, Lingzhi Zhang, Yizhou Wang, Zhengming Yu, JionghaoWang
+WenpingWang and Xin Li   
+*ACM SIGGRAPH*, 2026   
+
 **UniSER: A Foundation Model for Unified Soft Effects Removal**  
-Jingdong Zhang, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, **Yizhou Wang**, Haoran You, Xiaoyang Liu, Yuqian Zhou, Zhe Lin, Eli Shechtman, Sohrab Amirghodsi, Xin Li, Wenping Wang, Xiaohang Zhan   
+Jingdong Zhang, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, **Yizhou Wang**, Haoran You, Xiaoyang Liu, Yuqian Zhou, Zhe Lin, Eli Shechtman, Sohrab Amirghodsi, Xin Li, Wenping Wang and  Xiaohang Zhan   
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2026   
 [[Paper](https://arxiv.org/pdf/2511.14183)] [[Project](https://evergreen0929.github.io/projects/uniser.html#)] [[Video](https://www.youtube.com/watch?v=A-wTNREMINs)]    
 
