@@ -46,4 +46,4 @@ My ultimate goal is to reach maximum truth-seeking super-intelligence and AI con
 
 ## Contact
 
-📧 **Email:** wyzjack990122 (at) gmail (dot) com / wang.yizhou (at) northeastern (dot) edu
+📧 **Email:** wyzjack990122 (at) gmail (dot) com / yizhouw (at) adobe (dot) com
