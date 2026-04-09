@@ -11,6 +11,24 @@ Full list can be found on my [Google Scholar](https://scholar.google.com/citatio
 
 ## Conference Papers
 
+**From Words to Pixels: A Comprehensive Survey on Large Language Models in Visual Segmentation**  
+**Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xuan Shen, Sohrab Amirghodsi and Yun Fu  
+*Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2026  
+
+**Hierarchical Visual Agent: Managing Contexts in Joint Image-Text Space for Advanced Chart Reasoning**  
+Qihua Dong, Ruozhen He, Junwen Chen, **Yizhou Wang**, Xu Ma, Songyao Jiang and Yun Fu  
+*Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2026  
+
+**Revealing the Seen, Imagining the Beyond: A Survey of Image-Grounded Chain-of-Thought Reasoning in Multimodal LLMs**  
+Qihua Dong, Yitian Zhang, Huimin Zeng, **Yizhou Wang**, Jianglin Lu, Kuo Yang and Yun Fu  
+*Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2026  
+
+
+**Distorted or Fabricated? A Survey on Hallucination in Video LLMs**  
+Yiyang Huang, Yitian Zhang, **Yizhou Wang**, Mingyuan Zhang, Liang Shi, Huimin Zeng and Yun Fu  
+*Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2026  
+
+
 **MTPano: Multi-Task Panoramic Scene Understanding via Label-Free Integration of Dense Prediction Priors**  
 Jingdong Zhang, Xiaohang Zhan, Lingzhi Zhang, **Yizhou Wang**, Zhengming Yu, Jionghao Wang, Wenping Wang and Xin Li     
 *ACM **SIGGRAPH***, 2026   
@@ -30,6 +48,7 @@ Qihua Dong, Kuo Yang, Lin Ju, Handong Zhao, Yitian Zhang, **Yizhou Wang**, Huimi
 Yifan Wang, Xu Ma, Yitian Zhang, **Yizhou Wang**, Zhongruo Wang, Sung-Cheol Kim, Vahid Mirjalili, Vidya Renganathan and Yun Fu   
 *International Conference on Learning Representations (**ICLR**)*, 2026   
 [[Paper](https://openreview.net/pdf?id=dkfEwHobXq)] [[Code](https://github.com/YFWang1999/GmNet)]   
+
 
 **D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**  
 Yiyang Huang, **Yizhou Wang** and Yun Fu  
