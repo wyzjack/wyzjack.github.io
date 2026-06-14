@@ -164,14 +164,24 @@ h2 + ul li {
   margin-bottom: 0.5em;
 }
 
-/* Footer visitor counter (ClustrMaps) */
+/* Footer visitor map (ClustrMaps) */
+.page__footer {
+  overflow: visible;
+  z-index: 1;
+}
+
+#clustrmaps-widget,
 .page__footer-visitor-counter {
   text-align: center;
-  margin: 0 0 1em;
+  margin: 1em 0;
+  min-height: 200px;
+  overflow: visible;
 
   a,
-  img {
+  img,
+  iframe {
     display: inline-block;
+    max-width: 100%;
   }
 }
 
