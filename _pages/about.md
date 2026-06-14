@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist/Engineer at Adobe, working on AI technologies for [Photoshop](https://www.adobe.com/products/photoshop.html). Broadly, I work on LLM and Multimodal LLM. In Adobe, I am currently working on Causal Object and Effect Removal for Image Editing, and MLLM-based Instruction Image Segmentation. 
+I am a Research Scientist/Engineer at [Adobe](https://www.adobe.com/), working on AI technologies for [Photoshop](https://www.adobe.com/products/photoshop.html). Broadly, I work on LLM and Multimodal LLM. In Adobe, I am currently working on Causal Object and Effect Removal for Image Editing, and MLLM-based Instruction Image Segmentation. 
 
-I received my Ph.D. degree in Computer Engineering at Northeastern Unversity, supervised by Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/). 
+I received my Ph.D. degree in Computer Engineering at [Northeastern Unversity](https://www.northeastern.edu/), supervised by Prof. [Raymond Fu](http://www1.ece.neu.edu/~yunfu/). 
 
 My ultimate goal is to reach maximum truth-seeking super-intelligence and AI consciousness safely, which might help human beings escape Earth and explore the universe. I believe that bio-intelligence (us human beings) is designed to unlock the super digital intelligence to find the ultimate answer: the potential higher civilization that created everything.
 
-I am a shareholder of Tesla and SpaceX.   
+I am a shareholder of [Tesla](https://www.tesla.com/) and [SpaceX](https://www.spacex.com/).   
 
 ---
 
