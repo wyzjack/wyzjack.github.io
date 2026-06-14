@@ -164,14 +164,12 @@ h2 + ul li {
   margin-bottom: 0.5em;
 }
 
-/* ClustrMaps renders at end of <body>; keep it visible below footer */
-#clustrmaps-widget,
-.clustrmaps,
-a[href*="clustrmaps.com"] {
-  display: block;
+/* Visitor counter in footer */
+.page__footer-visitor-counter {
   text-align: center;
-  margin: 1.5em auto;
+  margin: 1.5em auto 1em;
   clear: both;
+  overflow: visible;
 }
 
 /* WeChat QR Code popover */
