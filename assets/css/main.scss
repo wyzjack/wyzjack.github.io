@@ -164,6 +164,17 @@ h2 + ul li {
   margin-bottom: 0.5em;
 }
 
+/* Footer visitor counter (ClustrMaps) */
+.page__footer-visitor-counter {
+  text-align: center;
+  margin: 0 0 1em;
+
+  a,
+  img {
+    display: inline-block;
+  }
+}
+
 /* WeChat QR Code popover */
 .wechat-qr-item {
   position: relative;

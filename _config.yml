@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yizhou Wang 王亦周"
   avatar           : "selfile.jpg"
-  bio              : "AI Ph.D. candidate at NEU"
+  bio              : "Research Scientist/Engineer at Adobe"
   location         : "Boston, U.S."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,7 +99,7 @@ author:
   github           : "wyzjack"
   google_plus      :
   keybase          :
-  instagram        : "wyzjack"
+  instagram        : 
   wechat_qr        : "wechat-qr.png"  # QR code image in /images/
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
