@@ -11,6 +11,11 @@ Full list can be found on my [Google Scholar](https://scholar.google.com/citatio
 
 ## Conference Papers
 
+**Efficient Reasoning with Hidden Thinking**  
+Xuan Shen, **Yizhou Wang**, Yufa Zhou, Xiangxi Shi, Pu Zhao, Yanzhi Wang, Jiuxiang Gu  
+*International Conference on Machine Learning (**ICML**)*, 2026   
+[[arXiv](https://arxiv.org/pdf/2501.19201)] [[Code](https://github.com/shawnricecake/Heima)] [[Y Combinator Hacker News](https://news.ycombinator.com/item?id=42919597)]  
+
 **From Words to Pixels: A Comprehensive Survey on Large Language Models in Visual Segmentation**  
 **Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xuan Shen, Sohrab Amirghodsi and Yun Fu  
 *Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2026  
@@ -27,16 +32,19 @@ Qihua Dong, Yitian Zhang, Huimin Zeng, **Yizhou Wang**, Jianglin Lu, Kuo Yang an
 **Distorted or Fabricated? A Survey on Hallucination in Video LLMs**  
 Yiyang Huang, Yitian Zhang, **Yizhou Wang**, Mingyuan Zhang, Liang Shi, Huimin Zeng and Yun Fu  
 *Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2026  
+[[Paper](https://arxiv.org/pdf/2604.12944)] [[Code](https://github.com/hukcc/Awesome-Video-Hallucination)]  
 
 
 **MTPano: Multi-Task Panoramic Scene Understanding via Label-Free Integration of Dense Prediction Priors**  
 Jingdong Zhang, Xiaohang Zhan, Lingzhi Zhang, **Yizhou Wang**, Zhengming Yu, Jionghao Wang, Wenping Wang and Xin Li     
 *ACM **SIGGRAPH***, 2026   
 
+[[Paper](https://arxiv.org/pdf/2602.05330) [Code](https://github.com/Evergreen0929/MTPano) [Project](https://evergreen0929.github.io/projects/mtpano.html)]
+
 **UniSER: A Foundation Model for Unified Soft Effects Removal**  
 Jingdong Zhang, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, **Yizhou Wang**, Haoran You, Xiaoyang Liu, Yuqian Zhou, Zhe Lin, Eli Shechtman, Sohrab Amirghodsi, Xin Li, Wenping Wang and  Xiaohang Zhan   
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2026   
-[[Paper](https://arxiv.org/pdf/2511.14183)] [[Project](https://evergreen0929.github.io/projects/uniser.html#)] [[Video](https://www.youtube.com/watch?v=A-wTNREMINs)]    
+[[Paper](https://arxiv.org/pdf/2511.14183)] [[Code](https://github.com/Evergreen0929/UniSER-Datasets)] [[Dataset-Halo-Falre](https://huggingface.co/datasets/jdzhang0929/halo-flare-dataset)] [[Dataset-Haze](https://huggingface.co/datasets/jdzhang0929/uniser-haze-dataset)] [[Project](https://evergreen0929.github.io/projects/uniser.html#)] [[Video](https://www.youtube.com/watch?v=A-wTNREMINs)]    
 
 
 **Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks**  
@@ -138,6 +146,10 @@ Major Revision at *TPAMI*
 **Yizhou Wang**\*, Yue Kang\*, Can Qin, Huan Wang, Yi Xu, Yulun Zhang and Yun Fu  
 [[arXiv](https://arxiv.org/pdf/2106.11514.pdf)] [[Code](https://github.com/wyzjack/AdaM3)]
 
+**Beyond Thinking: Imagining in 360 for Humanoid Visual Search**   
+Jingdong Zhang, **Yizhou Wang**, Zhengzhong Tu, Xin Li, Wenping Wang and Xiaohang Zhan   
+[[arXiv](https://arxiv.org/abs/2605.09146)]  
+
 **Trajectory Prediction Meets Large Language Models: A Survey**  
 Yi Xu, Ruining Yang, Yitian Zhang, **Yizhou Wang**, Jianglin Lu, Mingyuan Zhang, Lili Su, Yun Fu  
 Under review  
@@ -148,10 +160,6 @@ Mingyuan Zhang\*, Yue Bai\*, Huan Wang, **Yizhou Wang**, Qihua Dong, Yun Fu
 Under review  
 [[arXiv](https://www.arxiv.org/pdf/2503.22764)] [[Code](https://github.com/Ming-K9/MFT)]
 
-**Efficient Reasoning with Hidden Thinking**  
-Xuan Shen, **Yizhou Wang**, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu  
-Under review  
-[[arXiv](https://arxiv.org/pdf/2501.19201)] [[Code](https://github.com/shawnricecake/Heima)]
 
 ---
 
