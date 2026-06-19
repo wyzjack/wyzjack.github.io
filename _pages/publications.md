@@ -44,7 +44,7 @@ Yiyang Huang, Yitian Zhang, **Yizhou Wang**, Mingyuan Zhang, Liang Shi, Huimin Z
 Jingdong Zhang, Xiaohang Zhan, Lingzhi Zhang, **Yizhou Wang**, Zhengming Yu, Jionghao Wang, Wenping Wang and Xin Li     
 *ACM **SIGGRAPH***, 2026   
 
-[[Paper](https://arxiv.org/pdf/2602.05330) [Code](https://github.com/Evergreen0929/MTPano) [Project](https://evergreen0929.github.io/projects/mtpano.html)]
+[[Paper](https://arxiv.org/pdf/2602.05330)] [[Code](https://github.com/Evergreen0929/MTPano)] [[Project](https://evergreen0929.github.io/projects/mtpano.html)]
 
 **UniSER: A Foundation Model for Unified Soft Effects Removal**  
 Jingdong Zhang, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, **Yizhou Wang**, Haoran You, Xiaoyang Liu, Yuqian Zhou, Zhe Lin, Eli Shechtman, Sohrab Amirghodsi, Xin Li, Wenping Wang and  Xiaohang Zhan   
