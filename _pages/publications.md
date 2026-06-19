@@ -16,6 +16,10 @@ Xuan Shen, **Yizhou Wang**, Yufa Zhou, Xiangxi Shi, Pu Zhao, Yanzhi Wang, Jiuxia
 *International Conference on Machine Learning (**ICML**)*, 2026   
 [[arXiv](https://arxiv.org/pdf/2501.19201)] [[Code](https://github.com/shawnricecake/Heima)] [[Y Combinator Hacker News](https://news.ycombinator.com/item?id=42919597)]  
 
+**Beyond Atomic Layouts: Compositional Design Understanding with Vision-Language Models**  
+Yiyang Huang, Zhaowen Wang, Simon Jenni, Jing Shi, Yitian Zhang, **Yizhou Wang** and Yun Fu  
+*European Conference on Computer Vision (**ECCV**)*, 2026  
+
 **From Words to Pixels: A Comprehensive Survey on Large Language Models in Visual Segmentation**  
 **Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xuan Shen, Sohrab Amirghodsi and Yun Fu  
 *Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2026  

@@ -43,7 +43,7 @@ author_profile: true
 | ICCV | 2023, 2025 |
 | ECCV | 2022, 2024, 2026 |
 | SIGGRAPH | 2026 |
-| WACV | 2026 |
+| WACV | 2026, 2027 |
 | BMVC | 2026 |  
 | ACCV | 2024 |
 
