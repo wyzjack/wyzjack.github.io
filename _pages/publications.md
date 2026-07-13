@@ -24,14 +24,17 @@ Xuan Shen, **Yizhou Wang**, Yufa Zhou, Xiangxi Shi, Pu Zhao, Yanzhi Wang, Jiuxia
 **From Words to Pixels: A Comprehensive Survey on Large Language Models in Visual Segmentation**  
 **Yizhou Wang**, Mang Tik Chiu, Lingzhi Zhang, Xuan Shen, Sohrab Amirghodsi and Yun Fu  
 *Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2026  
+[[Paper](https://aclanthology.org/2026.acl-long.2155.pdf)] [[Code](https://github.com/wyzjack/Awesome-LLM-Visual-Segmentation)]
 
 **Hierarchical Visual Agent: Managing Contexts in Joint Image-Text Space for Advanced Chart Reasoning**  
 Qihua Dong, Ruozhen He, Junwen Chen, **Yizhou Wang**, Xu Ma, Songyao Jiang and Yun Fu  
 *Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2026  
+[[Paper](https://arxiv.org/pdf/2605.04304)]
 
 **Revealing the Seen, Imagining the Beyond: A Survey of Image-Grounded Chain-of-Thought Reasoning in Multimodal LLMs**  
 Qihua Dong, Yitian Zhang, Huimin Zeng, **Yizhou Wang**, Jianglin Lu, Kuo Yang and Yun Fu  
 *Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2026  
+[[Paper](https://aclanthology.org/2026.acl-long.2087.pdf)] [[Code](https://github.com/dddraxxx/Awesome-Image-Grounded-CoT)]
 
 
 **Distorted or Fabricated? A Survey on Hallucination in Video LLMs**  

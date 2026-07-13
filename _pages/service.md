@@ -68,6 +68,7 @@ author_profile: true
 
 ### Workshop Reviewer
 
+- [EMNLP 2026 Workshop DocInsights](https://docinsights-workshop.github.io/docinsights-2026/), 2026
 - CVPR Workshop on Fair, Data-efficient, and Trusted Computer Vision, 2024, 2025
 - CVPR Workshop on Multimodal Algorithmic Reasoning, 2024
 - ICCV Workshop on Analysis and Modeling of Faces and Gestures, 2023
