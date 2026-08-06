@@ -121,6 +121,10 @@ Minshuo Chen, **Yizhou Wang**, Tianyi Liu, Zhuoran Yang, Xingguo Li, Zhaoran Wan
 
 ## Journal Papers
 
+**Random Sparse Networks Training with Sharpness-Aware Regularization**  
+Yue Bai, Mingyuan Zhang, Huan Wang, Zhiqiang Tao, Kunpeng Li, **Yizhou Wang**,  and Yun Fu  
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)*  
+
 **SLA²P: Self-supervised Anomaly Detection with Adversarial Perturbation**  
 **Yizhou Wang**, Can Qin, Rongzhe Wei, Yi Xu, Yue Bai and Yun Fu  
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*  
