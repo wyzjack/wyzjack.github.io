@@ -33,7 +33,7 @@ author_profile: true
 
 | Conference | Years |
 |------------|-------|
-| ACL ARR January 2026 | 2026 |
+| ACL ARR January, March, May | 2026 |
 
 ### Computer Vision
 
@@ -68,8 +68,8 @@ author_profile: true
 
 ### Workshop Reviewer
 
-- [EMNLP 2026 Workshop DocInsights](https://docinsights-workshop.github.io/docinsights-2026/), 2026
-- CVPR Workshop on Fair, Data-efficient, and Trusted Computer Vision, 2024, 2025
+- EMNLP 2026 Workshop on Document Intelligence and Understanding, 2026   
+- CVPR Workshop on Fair, Data-efficient, and Trusted Computer Vision, 2024, 2025 
 - CVPR Workshop on Multimodal Algorithmic Reasoning, 2024
 - ICCV Workshop on Analysis and Modeling of Faces and Gestures, 2023
 - ECCV Workshop on Unlearning and Model Editing, 2024
