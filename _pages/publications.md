@@ -86,6 +86,11 @@ Jianglin Lu, Hailing Wang, Yi Xu, **Yizhou Wang**, Kuo Yang and Yun Fu
 *IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**)*, 2025  
 [[Paper](https://arxiv.org/pdf/2412.04304)] [[Project](https://wyzjack.github.io/3DzAL/)] [[Video](https://youtu.be/GAoRO-hOvuw)]
 
+**Through the Theory of Mind's Eye: Reading Minds with Multimodal Video Large Language Models**  
+Zhanwen Chen, Tianchun Wang, **Yizhou Wang**, Michal Kosinski, Xiang Zhang, Yun Fu and Sheng Li  
+*International Joint Conference on Neural Networks (**IJCNN**)*, 2025  
+[[arXiv](https://arxiv.org/pdf/2406.13763)]
+
 **Rewrite the stars**  
 Xu Ma, Xiyang Dai, Yue Bai, **Yizhou Wang** and Yun Fu  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024  
