@@ -50,7 +50,7 @@ I want AI that stays under human control. Agents should not leave the sandbox th
     <p>Instruction-guided editing should understand an object and the effects it causes, not only the pixels of the object. That line of work shipped in Photoshop as Remove objects and related elements.</p>
     <p class="research-links">
       <a class="link-chip" href="https://t.co/7HQwz0F42u"><i class="fas fa-bullhorn" aria-hidden="true"></i> Remove Tool of Photoshop</a>
-      <a class="link-chip" href="https://aclanthology.org/2026.acl-long.2155.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> From Words to Pixels: A Comprehensive Survey on Large Language Models in Visual Segmentation</a>
+      <a class="link-chip" href="https://aclanthology.org/2026.acl-long.2155.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> LLMs for visual segmentation</a>
       <a class="link-chip" href="https://arxiv.org/pdf/2511.14183"><i class="fas fa-file-pdf" aria-hidden="true"></i> UniSER</a>
     </p>
   </div>
