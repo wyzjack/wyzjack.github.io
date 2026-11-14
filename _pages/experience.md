@@ -9,7 +9,25 @@ author_profile: true
 
 <div class="experience-item">
   <h3>Adobe Photoshop, Seattle, U.S.</h3>
-  <p class="experience-meta"><strong>AI/ML Applied Research Scientist Intern</strong> &nbsp;|&nbsp; May 2024 - Present</p>
+  <p class="experience-meta"><strong>Research Scientist/Engineer</strong> &nbsp;|&nbsp; Feb 2026 - Present</p>
+  <p>
+    Applied research on instruction-guided image segmentation and generative removal. The model removes an object together with the effects it causes, including shadows, reflections, and other related elements.
+  </p>
+  <p>
+    <strong>Tech transfer:</strong> <a href="https://x.com/yizhoujackwang/status/2121140899136889308">Remove objects and related elements</a>, shipped in Photoshop, 2026.
+    <a href="https://www.youtube.com/watch?v=NmgOcJXcHt8&amp;t=772s">Feature walkthrough</a>.
+  </p>
+  <p>
+    <strong>Manager:</strong> Dr. <a href="https://scholar.google.com/citations?user=aFrtZOIAAAAJ&hl=en">Sohrab Amirghodsi</a>
+  </p>
+</div>
+
+<div class="experience-item">
+  <h3>Adobe Photoshop, Seattle, U.S.</h3>
+  <p class="experience-meta"><strong>AI/ML Applied Research Scientist Intern</strong> &nbsp;|&nbsp; May 2024 - Dec 2025</p>
+  <p>
+    Multimodal LLMs for image composition and instruction-based segmentation, including cautious next-token prediction.
+  </p>
   <p>
     <strong>Mentors:</strong> Dr. <a href="https://owenzlz.github.io/">Lingzhi Zhang</a>, Dr. <a href="https://scholar.google.com/citations?user=TZMDZPwAAAAJ&hl=en">Mang Tik Chiu</a>, Dr. <a href="https://xiaohangzhan.github.io/">Xiaohang Zhan</a>, Dr. <a href="https://www.connellybarnes.com/work/">Connelly Barnes</a>, Dr. <a href="https://yzhouas.github.io/">Yuqian Zhou</a>, Dr. <a href="https://qliu24.github.io/">Qing Liu</a>, Dr. <a href="https://research.adobe.com/person/eli-shechtman/">Eli Shechtman</a>, Dr. <a href="https://sites.google.com/site/zhelin625/">Zhe Lin</a>, Dr. <a href="https://scholar.google.com/citations?user=8l3bFYYAAAAJ&hl=en">Zijun Wei</a>, Dr. <a href="https://hollyhuey.github.io/">Holly Huey</a><br>
     <strong>Manager:</strong> Dr. <a href="https://scholar.google.com/citations?user=aFrtZOIAAAAJ&hl=en">Sohrab Amirghodsi</a>
@@ -19,6 +37,9 @@ author_profile: true
 <div class="experience-item">
   <h3>Adobe Research, San Jose, U.S.</h3>
   <p class="experience-meta"><strong>Research Intern</strong> &nbsp;|&nbsp; May 2023 - Dec 2023</p>
+  <p>
+    Alignment for video large language models.
+  </p>
   <p>
     <strong>Mentors:</strong> Dr. <a href="https://wugangwu.github.io/">Gang Wu</a>, Dr. <a href="https://zhangry868.github.io/">Ruiyi Zhang</a>, Dr. <a href="https://research.adobe.com/person/haoliang-wang/">Haoliang Wang</a>, Dr. <a href="https://uttaranb127.github.io/">Uttaran Bhattacharya</a><br>
     <strong>Manager:</strong> Dr. <a href="https://research.adobe.com/person/saayan-mitra/">Saayan Mitra</a>
@@ -39,7 +60,7 @@ author_profile: true
 
 <div class="experience-item">
   <h3>SMILE Lab, NEU, Boston, U.S.</h3>
-  <p class="experience-meta"><strong>Research Assistant</strong> &nbsp;|&nbsp; Sep 2021 - Present</p>
+  <p class="experience-meta"><strong>Research Assistant</strong> &nbsp;|&nbsp; Sep 2021 - Apr 2026</p>
   <p>
     <strong>Advisor:</strong> Prof. <a href="http://www1.ece.neu.edu/~yunfu/">Yun Raymond Fu</a>
   </p>
