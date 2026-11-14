@@ -14,7 +14,7 @@ author_profile: true
     Applied research on instruction-guided image segmentation and generative removal. The model removes an object together with the effects it causes, including shadows, reflections, and other related elements.
   </p>
   <p>
-    <strong>Tech transfer:</strong> <a href="https://x.com/yizhoujackwang/status/2121140899136889308">Remove objects and related elements</a>, shipped in Photoshop, 2026.
+    <strong>Tech transfer:</strong> <a href="https://t.co/7HQwz0F42u">Remove objects and related elements</a>, shipped in Photoshop, 2026.
     <a href="https://www.youtube.com/watch?v=NmgOcJXcHt8&amp;t=772s">Feature walkthrough</a>.
   </p>
   <p>
