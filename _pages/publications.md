@@ -154,6 +154,11 @@ Changyu Deng, **Yizhou Wang**, Can Qin, Yun Fu and Wei Lu
 Under review  
 [[arXiv](https://arxiv.org/pdf/2312.02310.pdf)]
 
+**Multimodal Generative Composition Recommendation**  
+**Yizhou Wang**, Lingzhi Zhang, Qing Liu, Mang Tik Chiu, Connelly Barnes, Zhe Lin, Eli Shechtman, Yuqian Zhou, Qihua Dong, Sohrab Amirghodsi and Yun Fu  
+ICLR 2026 rejected  
+[[Paper](https://openreview.net/forum?id=4r3zsJBBla)]
+
 **Unveiling the Unseen: A Comprehensive Survey on Explainable Anomaly Detection in Images and Videos**  
 **Yizhou Wang**\*, Dongliang Guo\*, Sheng Li, Octavia Campus, and Yun Fu  
 Major Revision at *TPAMI*  

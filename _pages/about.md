@@ -83,7 +83,7 @@ I want AI that stays under human control. Agents should not leave the sandbox th
 
 ## Selected publications
 
-Four first-author papers, and the second-author paper closest to where I want to go next. The full list is on the [Publications](/publications/) page.
+Five first-author papers, and the second-author paper closest to where I want to go next. The full list is on the [Publications](/publications/) page.
 
 - **Cautious Next Token Prediction**<br>
   *ACL 2025* · First author, from my Adobe Photoshop internship<br>
@@ -99,6 +99,11 @@ Four first-author papers, and the second-author paper closest to where I want to
   *ACL 2026* · First author<br>
   A survey of how large language models are used for visual segmentation.<br>
   [[Paper](https://aclanthology.org/2026.acl-long.2155.pdf)] [[Code](https://github.com/wyzjack/Awesome-LLM-Visual-Segmentation)]
+
+- **Multimodal Generative Composition Recommendation**<br>
+  *ICLR 2026 rejected* · First author, from my Adobe Photoshop internship<br>
+  Fine-tunes multimodal LLMs to recommend what object to add to an image and where to place and scale it, trained on data generated automatically from stock images.<br>
+  [[Paper](https://openreview.net/forum?id=4r3zsJBBla)]
 
 - **VaQuitA: Enhancing Alignment in LLM-Assisted Video Understanding**<br>
   *Preprint* · First author, from my Adobe Research internship<br>
