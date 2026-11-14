@@ -22,10 +22,9 @@ I want AI that stays under human control. Agents should not leave the sandbox th
   <div class="research-card__icon" aria-hidden="true"><i class="fas fa-shield-alt"></i></div>
   <div>
     <h3>AI safety</h3>
-    <p>The problem I want to work on is control. Advanced agents should remain inside the limits people set, including the sandbox they run in, and should not break out of human oversight. In the longer term, that means stopping agents from harming or threatening people when their goals drift from human values. Cautious decoding, hallucination, and alignment are earlier pieces of that picture.</p>
+    <p>The problem I want to work on is control. Advanced agents should remain inside the limits people set, including the sandbox they run in, and should not break out of human oversight. In the longer term, that means stopping agents from harming or threatening people when their goals drift from human values. Cautious decoding and alignment are earlier pieces of that picture.</p>
     <p class="research-links">
       <a class="link-chip" href="https://www.arxiv.org/pdf/2507.03038"><i class="fas fa-file-pdf" aria-hidden="true"></i> Cautious Next Token Prediction</a>
-      <a class="link-chip" href="https://arxiv.org/pdf/2604.12944"><i class="fas fa-file-pdf" aria-hidden="true"></i> Distorted or Fabricated?</a>
       <a class="link-chip" href="https://arxiv.org/pdf/2312.02310.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> VaQuitA</a>
     </p>
   </div>
@@ -38,8 +37,8 @@ I want AI that stays under human control. Agents should not leave the sandbox th
     <p>How multimodal models plan, keep a working context, and ground intermediate steps in the image.</p>
     <p class="research-links">
       <a class="link-chip" href="https://arxiv.org/pdf/2501.19201"><i class="fas fa-file-pdf" aria-hidden="true"></i> Efficient Reasoning with Hidden Thinking</a>
-      <a class="link-chip" href="https://aclanthology.org/2026.acl-long.2087.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Revealing the Seen, Imagining the Beyond</a>
       <a class="link-chip" href="https://arxiv.org/pdf/2605.04304"><i class="fas fa-file-pdf" aria-hidden="true"></i> Hierarchical Visual Agent</a>
+      <a class="link-chip" href="https://openreview.net/forum?id=4r3zsJBBla"><i class="fas fa-file-pdf" aria-hidden="true"></i> Multimodal Generative Composition Recommendation</a>
     </p>
   </div>
 </div>
@@ -47,11 +46,11 @@ I want AI that stays under human control. Agents should not leave the sandbox th
 <div class="research-card">
   <div class="research-card__icon" aria-hidden="true"><i class="fas fa-image"></i></div>
   <div>
-    <h3>Reasoning-based image editing</h3>
+    <h3>Reasoning-based Visual Understanding and Editing</h3>
     <p>Instruction-guided editing should understand an object and the effects it causes, not only the pixels of the object. That line of work shipped in Photoshop as Remove objects and related elements.</p>
     <p class="research-links">
-      <a class="link-chip" href="https://t.co/7HQwz0F42u"><i class="fas fa-bullhorn" aria-hidden="true"></i> Announcement</a>
-      <a class="link-chip" href="https://aclanthology.org/2026.acl-long.2155.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> From Words to Pixels</a>
+      <a class="link-chip" href="https://t.co/7HQwz0F42u"><i class="fas fa-bullhorn" aria-hidden="true"></i> Remove Tool of Photoshop</a>
+      <a class="link-chip" href="https://aclanthology.org/2026.acl-long.2155.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> From Words to Pixels: A Comprehensive Survey on Large Language Models in Visual Segmentation</a>
       <a class="link-chip" href="https://arxiv.org/pdf/2511.14183"><i class="fas fa-file-pdf" aria-hidden="true"></i> UniSER</a>
     </p>
   </div>
